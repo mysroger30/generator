@@ -7,4 +7,5 @@
 | .options[.key].correct = true
 | . + {title: .stem}
 | if (.title | length) > 80 then (.title = .title[0:80] | .title += "...") else . end
+| . + {answer: .options[.key].text}
 ]

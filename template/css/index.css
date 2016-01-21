@@ -16,6 +16,11 @@
 
 .stem-row {
     margin-top: 20px;
+}
+
+.stem-row,
+.answer-row,
+.explanation-row {
     margin-bottom: 10px;
 }
 
