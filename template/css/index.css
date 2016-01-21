@@ -1,0 +1,47 @@
+.simple-radio {
+    display: table-row;
+}
+
+.simple-radio > input,
+.simple-radio > label {
+    display: table-cell;
+}
+
+.simple-radio > label {
+    cursor: pointer;
+    font-weight: normal;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.stem-row {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#previous_button,
+#next_button {
+    margin-top: 20px;
+}
+
+img.question-image.small,
+img.question-image.medium,
+img.question-image.large {
+    width: auto;
+}
+
+img.question-image.small {
+    max-height: 150px;
+}
+
+img.question-image.medium {
+    max-height: 175px;
+}
+
+img.question-image.large {
+    max-height: 200px;
+}
+
+img.question-image.extend {
+    width: 100%;
+}
