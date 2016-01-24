@@ -43,10 +43,14 @@
       </div>
     </nav>
 
-    <div class="container">
+    <div class="container question-container">
       <div class="row">
-	<div class="col-md-12">
+	<div class="col-md-10">
 	  <h1>Körkortsfrågor <small>Fråga <span class="question-number">0</span> av <span class="num-questions">0</span></small></h1>
+	</div>
+
+	<div class="col-md-2">
+	  <button id="result_button" class="btn btn-primary pull-right" type="button">Visa resultat</button>
 	</div>
       </div>
 
@@ -123,8 +127,60 @@
       </div>
     </div>
 
+    <div class="container result-container">
+      <div class="row">
+	<div class="col-md-10">
+	  <h1>Körkortsfrågor <small>Resultat</small></h1>
+	</div>
+
+	<div class="col-md-2">
+	  <button id="question_button" class="btn btn-primary pull-right" type="button">Visa frågor</button>
+	</div>
+      </div>
+
+      <div class="row">
+	<div class="col-md-6 col-md-push-6">
+	  <div class="graph-container">
+	    <div class="graph-content">
+	      <canvas class="result-graph"></canvas>
+	      <span class="h1 result-percent"></span>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="col-md-6 col-md-pull-6">
+	  <div class="row outcome-row">
+	    <div class="col-md-12 text-center">
+	      <span class="h1 outcome text-uppercase"></span>
+	    </div>
+	  </div>
+
+	  <div class="row statistics-row">
+	    <div class="col-xs-4 text-center">
+	      <span class="num-correct h1"></span><br>Antal rätt
+	    </div>
+
+	    <div class="col-xs-4 text-center">
+	      <span class="num-wrong h1"></span><br>Antal fel
+	    </div>
+
+	    <div class="col-xs-4 text-center">
+	      <span class="time-spent h1"></span><br>Minuter
+	    </div>
+	  </div>
+
+	  <div class="row">
+	    <div class="col-md-12">
+	      Med detta resultat skulle du bli <span class="outcome"></span> på teoriprovet. För att bli godkänd på teoriprovet krävs att du klarar 52 av 65 frågor, vilket betyder att du måste ha minst 80% rätt. På teoriprovet har du drygt 40 sekunder på dig att besvara varje fråga.
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </div>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
     <script src="js/index.js"></script>
   </body>
 </html>

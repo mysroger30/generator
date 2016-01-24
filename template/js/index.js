@@ -9,9 +9,21 @@ $(function () {
     var optionLabels = $('.simple-radio > label');
     var previousButton = $('#previous_button');
     var nextButton = $('#next_button');
+    var resultButton = $('#result_button');
+    var questionButton = $('#question_button');
+
+    var questionContainer = $('.question-container');
+    var resultContainer = $('.result-container');
+
+    var ctx = $(".result-graph").get(0).getContext("2d");
+    var chart = new Chart(ctx).Doughnut([], {responsive: true, percentageInnerCutout: 80});
+
+    var startTime;
 
     previousButton.click(previousQuestion);
     nextButton.click(nextQuestion);
+    resultButton.click(showResultContainer);
+    questionButton.click(showQuestionContainer);
 
     optionRadios.change(onOptionSelected);
 
@@ -20,8 +32,12 @@ $(function () {
     function startTest() {
 	shuffle(questions);
 	$('.num-questions').html(questions.length);
+
 	setCurrentQuestionIndex(0);
 	showCurrentQuestion();
+	showQuestionContainer();
+
+	startTime = new Date();
     }
     
     function showCurrentQuestion() {
@@ -77,6 +93,73 @@ $(function () {
 	}
     }
 
+    function showQuestionContainer() {
+	resultContainer.hide();
+	questionContainer.show();
+    }
+
+    function showResultContainer() {
+	resultContainer.show();
+	questionContainer.hide();
+
+	var numAnswered = 0;
+	var numCorrect = 0;
+	for (var i = 0; i < getNumberOfQuestions(); i++) {
+	    var q = getQuestion(i);
+	    if (typeof q.answer != 'undefined') {
+		numAnswered++;
+		if (q.answer === q.key) {
+		    numCorrect++;
+		}
+	    }
+	}
+
+	$('.num-correct').html(numCorrect);
+	$('.num-wrong').html(numAnswered - numCorrect);
+
+	var seconds = Math.ceil((new Date() - startTime) / 1000)
+	var minutes = Math.ceil(seconds / 60);
+	$('.time-spent').html(minutes);
+
+	var percent = 0;
+	if (numAnswered > 0) {
+	    percent = Math.ceil((numCorrect * 100) / numAnswered);
+	}
+
+	var allowedTime = 43 * numAnswered;
+
+	var outcome = $('.outcome');
+	outcome.removeClass('text-success text-danger');
+	if (seconds < allowedTime && percent >= 80) {
+	    outcome.addClass('text-success');
+	    outcome.html('godkänd');
+	} else {
+	    outcome.addClass('text-danger');
+	    outcome.html('underkänd');
+	}
+
+	$('.result-percent').html(percent + '<span class="small">%</span>');
+
+	chart.removeData();
+	chart.removeData();
+
+	chart.addData({
+	    value: numCorrect,
+	    color: "#46BFBD",
+	    highlight: "#5AD3D1",
+	    label: "Rätt"
+	});
+
+	chart.addData({
+            value: (numAnswered - numCorrect),
+            color:"#F7464A",
+            highlight: "#FF5A5E",
+            label: "Fel"
+	});
+
+	chart.update();
+    }
+
     function onOptionSelected(event) {
 	var value = parseInt($(this).val(), 10);
 	getCurrentQuestion().answer = value - 1;
@@ -109,7 +192,11 @@ $(function () {
     }
 
     function getCurrentQuestion() {
-	return questions[getCurrentQuestionIndex()].data;
+	return getQuestion(getCurrentQuestionIndex());
+    }
+
+    function getQuestion(index) {
+	return questions[index].data;
     }
 
     function nextQuestion() {

@@ -50,3 +50,45 @@ img.question-image.large {
 img.question-image.extend {
     width: 100%;
 }
+
+.graph-container {
+    margin-left: auto;
+    margin-right: auto;
+
+    position: relative;
+    width: 75%;
+}
+.graph-container:before {
+    content: "";
+    display: block;
+    padding-top: 100%;
+}
+
+.graph-content {
+    position:  absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.result-graph {
+    width: 100%;
+    height: 100%;
+}
+
+.result-percent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.outcome-row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.statistics-row {
+    margin-bottom: 20px;
+}
