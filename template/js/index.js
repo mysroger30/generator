@@ -81,15 +81,15 @@ $(function () {
 	}
 
 	if (hasPreviousQuestion()) {
-	    previousButton.show();
+	    previousButton.prop('disabled', false);
 	} else {
-	    previousButton.hide();
+	    previousButton.prop('disabled', true);
 	}
 
 	if (hasNextQuestion()) {
-	    nextButton.show();
+	    nextButton.prop('disabled', false);
 	} else {
-	    nextButton.hide();
+	    nextButton.prop('disabled', true);
 	}
     }
 
