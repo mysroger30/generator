@@ -1,0 +1,13 @@
+{
+    "author": "Utbildningsappar",
+    "keyword": "Körkortsfrågor",
+    
+    "mainTitle": "Teoriprov av Utbildningsappar - Körkortsfrågor med förklaringar",
+    "mainDescription": "This is main description",
+    "resultText": "Med detta resultat skulle du bli <span class='outcome'></span> på teoriprovet. För att bli godkänd på teoriprovet krävs att du klarar 52 av 65 frågor, vilket betyder att du måste ha minst 80% rätt. På teoriprovet har du drygt 40 sekunder på dig att besvara varje fråga.",
+
+    "linksTitle": "Körkortsfrågor med förklaringar - Alla frågor",
+    "linksDescription": "This is links description",
+
+    "questionDescriptionPrefix": "Körkortsfrågor med förklaring och fördjupning"
+}

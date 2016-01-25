@@ -17,9 +17,13 @@ jq -f sanitize.jq "data/$project_name/database.json" | jq -f process.jq > "$tmp_
 
 numq=$(($(jq "length" "$tmp_dir/processed.json") - 1))
 
-seq 0 $numq | parallel jq '.[{}]' "$tmp_dir/processed.json" '>' "$tmp_dir/{}"
+seq 0 $numq | parallel jq '.[{}]' "$tmp_dir/processed.json" '>' "$tmp_dir/{}.json"
+for i in $(seq 0 $numq)
+do
+    cat "data/$project_name/conf.json" "$tmp_dir/$i.json" | jq --slurp ".[0] + .[1]" > "$tmp_dir/$i-merged.json"
+done
 
-seq 0 $numq | parallel mustache "$tmp_dir/{}" template/question.mustache '>' "$tmp_dir/{}.html"
+seq 0 $numq | parallel mustache "$tmp_dir/{}-merged.json" template/question.mustache '>' "$tmp_dir/{}.html"
 
 if [ -d "$out_dir" ]; then
     rm -r "$out_dir"
@@ -29,7 +33,7 @@ mkdir "$out_dir/$out_dir_questions"
 
 for i in $(seq 0 $numq)
 do
-    file_name="$(cat "$tmp_dir/$i" | jq -r '.url')"
+    file_name="$(cat "$tmp_dir/$i.json" | jq -r '.url')"
 
     mkdir "$out_dir/$out_dir_questions/$i"
     cp "$tmp_dir/$i.html" "$out_dir/$out_dir_questions/$i/$file_name.html"
@@ -42,9 +46,10 @@ cp -r "template/css" "$out_dir/"
 mkdir "$out_dir/js"
 cat "template/js/index.js" "data/$project_name/database.json" > "$out_dir/js/index.js"
 
-cp "template/index.mustache" "$out_dir/index.html"
+mustache "data/$project_name/conf.json" "template/index.mustache" > "$out_dir/index.html"
 
+mustache "data/$project_name/conf.json" "template/links.mustache" > "$tmp_dir/links.html"
 cat tmp/processed.json | jq -r -f links.jq > "$tmp_dir/links"
 sed -e "/%LINKS%/{
 r $tmp_dir/links
-d}" "template/links.html" > "$out_dir/$out_dir_questions/index.html"
+d}" "$tmp_dir/links.html" > "$out_dir/$out_dir_questions/index.html"

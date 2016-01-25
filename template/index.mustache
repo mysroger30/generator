@@ -5,11 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <meta name="description" content="{{mainDescription}}">
+    <meta name="author" content="{{author}}">
 
-    <title>Körkortstest av Utbildningsappar - Körkortsfrågor med förklaringar</title>
+    <title>{{mainTitle}}</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link href="css/base.css" rel="stylesheet">
@@ -36,8 +35,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
 	  <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Körkortsfrågor</a></li>
-	    <li><a href="#">Våra appar</a></li>
+            <li><a href="#">{{keyword}}</a></li>
 	  </ul>
         </div>
       </div>
@@ -46,7 +44,7 @@
     <div class="container question-container">
       <div class="row">
 	<div class="col-md-10">
-	  <h1>Körkortsfrågor <small>Fråga <span class="question-number">0</span> av <span class="num-questions">0</span></small></h1>
+	  <h1>{{keyword}} <small>Fråga <span class="question-number">0</span> av <span class="num-questions">0</span></small></h1>
 	</div>
 
 	<div class="col-md-2">
@@ -130,7 +128,7 @@
     <div class="container result-container">
       <div class="row">
 	<div class="col-md-10">
-	  <h1>Körkortsfrågor <small>Resultat</small></h1>
+	  <h1>{{keyword}} <small>Resultat</small></h1>
 	</div>
 
 	<div class="col-md-2">
@@ -171,7 +169,7 @@
 
 	  <div class="row">
 	    <div class="col-md-12">
-	      Med detta resultat skulle du bli <span class="outcome"></span> på teoriprovet. För att bli godkänd på teoriprovet krävs att du klarar 52 av 65 frågor, vilket betyder att du måste ha minst 80% rätt. På teoriprovet har du drygt 40 sekunder på dig att besvara varje fråga.
+	      {{{resultText}}}
 	    </div>
 	  </div>
 	</div>
