@@ -29,11 +29,10 @@ mkdir "$out_dir/$out_dir_questions"
 
 for i in $(seq 0 $numq)
 do
-    file_name="$(cat "$tmp_dir/$i" | jq -r ".stem" | sed -e 's/\(.*\)/\L\1/' | sed 'y/åäö /aao-/' | sed "s/[^[:alpha:]-]/-/g")"
-    file_name="$(echo $file_name | sed 's/--*/-/g' | cut -c 1-50).html"
-    
+    file_name="$(cat "$tmp_dir/$i" | jq -r '.url')"
+
     mkdir "$out_dir/$out_dir_questions/$i"
-    cp "$tmp_dir/$i.html" "$out_dir/$out_dir_questions/$i/$file_name"
+    cp "$tmp_dir/$i.html" "$out_dir/$out_dir_questions/$i/$file_name.html"
 done
 
 cp -r "data/$project_name/images" "$out_dir/"
@@ -44,3 +43,8 @@ mkdir "$out_dir/js"
 cat "template/js/index.js" "data/$project_name/database.json" > "$out_dir/js/index.js"
 
 cp "template/index.mustache" "$out_dir/index.html"
+
+cat tmp/processed.json | jq -r -f links.jq > "$tmp_dir/links"
+sed -e "/%LINKS%/{
+r $tmp_dir/links
+d}" "template/links.html" > "$out_dir/$out_dir_questions/index.html"

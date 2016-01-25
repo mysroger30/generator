@@ -1,0 +1,1 @@
+.[] | "<li><a href='" + ((.number - 1) | tostring) + "/" + .url + "'>" + .stem + "</a></li>"
