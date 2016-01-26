@@ -26,5 +26,6 @@
     "footerText": "© Utbildningsappar 2016.",
     "footerLink": "Alla körkortsfrågor.",
 
-    "analyticsTrackingID": "UA-72919364-1"
+    "analyticsTrackingID": "UA-72919364-1",
+    "baseUrl": "korkort.utbildningsappar.com"
 }

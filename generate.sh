@@ -54,3 +54,5 @@ cat tmp/processed.json | jq -r -f links.jq > "$tmp_dir/links"
 sed -e "/%LINKS%/{
 r $tmp_dir/links
 d}" "$tmp_dir/links.html" > "$out_dir/$out_dir_questions/index.html"
+
+echo -n "$(jq -r ".baseUrl" "data/$project_name/conf.json")" > "$out_dir/CNAME"
