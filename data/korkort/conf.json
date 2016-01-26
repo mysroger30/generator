@@ -24,5 +24,7 @@
 
     "questionDirectory": "korkortsfragor",
     "footerText": "© Utbildningsappar 2016.",
-    "footerLink": "Alla körkortsfrågor."
+    "footerLink": "Alla körkortsfrågor.",
+
+    "analyticsTrackingID": "UA-72919364-1"
 }
