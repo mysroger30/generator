@@ -41,10 +41,11 @@ done
 
 cp -r "data/$project_name/images" "$out_dir/"
 
-cp -r "template/css" "$out_dir/"
+mkdir "$out_dir/css"
+java -jar yuicompressor-2.4.8.jar --type css "template/css/index.css" > "$out_dir/css/index.css"
 
 mkdir "$out_dir/js"
-cat "template/js/index.js" "data/$project_name/database.json" > "$out_dir/js/index.js"
+cat "template/js/index.js" "data/$project_name/database.json" | uglifyjs - -c > "$out_dir/js/index.js"
 
 mustache "data/$project_name/conf.json" "template/index.mustache" > "$out_dir/index.html"
 
