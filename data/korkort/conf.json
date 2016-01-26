@@ -1,6 +1,9 @@
 {
     "author": "Utbildningsappar",
     "keyword": "Körkortsfrågor",
+
+    "welcomeText": "Här kan du helt gratis träna inför teoriprovet. Vårt prov innehåller 70 frågor i samma stil som frågorna på teoriprovet. Du behöver inte registrera dig eller skapa ett konto.",
+    "welcomeButton": "Starta provet",
     
     "mainTitle": "Teoriprov av Utbildningsappar - Körkortsfrågor med förklaringar",
     "mainDescription": "This is main description",

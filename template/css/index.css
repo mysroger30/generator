@@ -4,7 +4,47 @@ body {
 
 .main-content {
     background-color: #fff;
-    padding-bottom: 30px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.jumbotron.welcome-container {
+    background:
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url('../images/splash.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.jumbotron-table-helper {
+    display: table;
+    width: 100%;
+}
+
+.jumbotron-table-cell-helper {
+    display: table-cell;
+    height: 50vh;
+    vertical-align: middle;
+}
+
+.jumbotron h1,
+.jumbotron p {
+    color: #fff;
+}
+
+.jumbotron h1 {
+    text-shadow: 1px 1px 1px rgba(0,0,0,1);
+}
+
+.jumbotron p {
+    text-shadow: 1px 1px 1px rgba(0,0,0,1);
+}
+
+.question-container,
+.result-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .simple-radio {

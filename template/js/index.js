@@ -7,27 +7,29 @@ $(function () {
     var options = $('.simple-radio');
     var optionRadios = $('.simple-radio > input');
     var optionLabels = $('.simple-radio > label');
+
+    var startButton = $('#start_button');
     var previousButton = $('#previous_button');
     var nextButton = $('#next_button');
     var resultButton = $('#result_button');
     var questionButton = $('#question_button');
 
-    var questionContainer = $('.question-container');
-    var resultContainer = $('.result-container');
+    var welcomeContainer = $('.welcome-container').show();
+    var questionContainer = $('.question-container').hide();
+    var resultContainer = $('.result-container').hide();
 
     var ctx = $(".result-graph").get(0).getContext("2d");
     var chart = new Chart(ctx).Doughnut([], {responsive: true, percentageInnerCutout: 80});
 
     var startTime;
 
+    startButton.click(startTest);
     previousButton.click(previousQuestion);
     nextButton.click(nextQuestion);
     resultButton.click(showResultContainer);
     questionButton.click(showQuestionContainer);
 
     optionRadios.change(onOptionSelected);
-
-    startTest();
 
     function startTest() {
 	shuffle(questions);
@@ -94,11 +96,13 @@ $(function () {
     }
 
     function showQuestionContainer() {
+	welcomeContainer.hide();
 	resultContainer.hide();
 	questionContainer.show();
     }
 
     function showResultContainer() {
+	welcomeContainer.hide();
 	resultContainer.show();
 	questionContainer.hide();
 
