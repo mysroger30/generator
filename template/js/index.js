@@ -19,7 +19,7 @@ $(function () {
     var resultContainer = $('.result-container').hide();
 
     var ctx = $(".result-graph").get(0).getContext("2d");
-    var chart = new Chart(ctx).Doughnut([], {responsive: true, percentageInnerCutout: 80});
+    var chart = null;
 
     var startTime;
 
@@ -144,24 +144,26 @@ $(function () {
 
 	$('.result-percent').html(percent + '<span class="small">%</span>');
 
-	chart.removeData();
-	chart.removeData();
+	if (chart !== null) {
+	    chart.destroy();
+	    chart = null;
+	}
 
-	chart.addData({
-	    value: numCorrect,
-	    color: "#46BFBD",
-	    highlight: "#5AD3D1",
-	    label: "Rätt"
-	});
-
-	chart.addData({
-            value: (numAnswered - numCorrect),
-            color:"#F7464A",
-            highlight: "#FF5A5E",
-            label: "Fel"
-	});
-
-	chart.update();
+	var chartData = [
+	    {
+		value: numCorrect,
+		color: "#46BFBD",
+		highlight: "#5AD3D1",
+		label: "Rätt"
+	    },
+	    {
+		value: (numAnswered - numCorrect),
+		color:"#F7464A",
+		highlight: "#FF5A5E",
+		label: "Fel"
+	    }
+	]
+	chart = new Chart(ctx).Doughnut(chartData, {responsive: true, percentageInnerCutout: 75})
     }
 
     function onOptionSelected(event) {
