@@ -20,5 +20,9 @@
 
     "testHintTitle": "Öva inför teoriprovet med vårt webbtest",
     "testHintText": "Du kan öva inför teoriprovet med vårt webbtest. Webbtestet innehåller 70 körkortsfrågor som testar dina kunskaper inför teoriprovet. Det är helt gratis och du behöver inte registrera dig.",
-    "testHintButton": "Gör webbtestet!"
+    "testHintButton": "Gör webbtestet!",
+
+    "questionDirectory": "korkortsfragor",
+    "footerText": "© Utbildningsappar 2016.",
+    "footerLink": "Alla körkortsfrågor."
 }

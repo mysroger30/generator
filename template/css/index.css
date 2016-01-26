@@ -1,5 +1,11 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 body {
     background-color: #eee;
+    margin-bottom: 40px;
 }
 
 .main-content {
@@ -45,6 +51,22 @@ body {
 .result-container {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+}
+
+.footer p {
+    position: absolute;
+    bottom: 0;
+}
+
+.footer p a {
+    color: #777;
 }
 
 .simple-radio {

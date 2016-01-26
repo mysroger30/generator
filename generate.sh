@@ -6,7 +6,7 @@ fi
 tmp_dir="tmp"
 project_name="$1"
 out_dir="$project_name-out"
-out_dir_questions="fragor"
+out_dir_questions=$(cat "data/$project_name/conf.json" | jq -r ".questionDirectory")
 
 if [ -d "$tmp_dir" ]; then
     rm -r "$tmp_dir"
