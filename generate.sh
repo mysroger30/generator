@@ -45,12 +45,12 @@ mkdir "$out_dir/css"
 java -jar yuicompressor-2.4.8.jar --type css "template/css/index.css" > "$out_dir/css/index.css"
 
 mkdir "$out_dir/js"
-cat "template/js/index.js" "data/$project_name/database.json" | uglifyjs - -c > "$out_dir/js/index.js"
+cat "data/$project_name/database.json" | jq -f "data/$project_name/free.jq" | cat "template/js/index.js" - | uglifyjs - -c > "$out_dir/js/index.js"
 
 mustache "data/$project_name/conf.json" "template/index.mustache" > "$out_dir/index.html"
 
 mustache "data/$project_name/conf.json" "template/links.mustache" > "$tmp_dir/links.html"
-cat tmp/processed.json | jq -r -f links.jq > "$tmp_dir/links"
+cat tmp/processed.json | jq -f "data/$project_name/free.jq" | jq -r -f links.jq > "$tmp_dir/links"
 sed -e "/%LINKS%/{
 r $tmp_dir/links
 d}" "$tmp_dir/links.html" > "$out_dir/$out_dir_questions/index.html"
