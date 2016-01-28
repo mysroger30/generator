@@ -130,11 +130,9 @@ $(function () {
 	    percent = Math.ceil((numCorrect * 100) / numAnswered);
 	}
 
-	var allowedTime = 43 * numAnswered;
-
 	var outcome = $('.outcome');
 	outcome.removeClass('text-success text-danger');
-	if (seconds < allowedTime && percent >= 80) {
+	if (percent >= 80) {
 	    outcome.addClass('text-success');
 	    outcome.html('godkänd');
 	} else {
