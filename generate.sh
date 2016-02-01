@@ -63,3 +63,5 @@ for i in $(seq 0 $numq)
 do
     jq -r -f urls.jq "$tmp_dir/$i-merged.json" >> "$sitemap"
 done
+
+cp "data/$project_name/README.md" "$out_dir/"
