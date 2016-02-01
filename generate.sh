@@ -56,8 +56,6 @@ r $tmp_dir/links
 d}" "$tmp_dir/links.html" > "$out_dir/$out_dir_questions/index.html"
 
 baseurl=$(cat "data/$project_name/conf.json" | jq -r ".baseUrl")
-echo -n "$baseurl" > "$out_dir/CNAME"
-
 sitemap="$out_dir/$(cat "data/$project_name/conf.json" | jq -r ".sitemap")"
 echo "http://$baseurl" > "$sitemap"
 echo "http://$baseurl/$out_dir_questions" >> "$sitemap"
