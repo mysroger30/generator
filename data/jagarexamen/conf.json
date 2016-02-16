@@ -1,0 +1,32 @@
+{
+    "author": "Utbildningsappar",
+    "keyword": "Jägarexamen",
+
+    "welcomeText": "Här kan du helt gratis träna inför jägarexamen. Vårt test innehåller 70 frågor i samma stil som frågorna på teoriprovet för jägarexamen. Du behöver inte registrera dig eller skapa ett konto.",
+    "welcomeButton": "Starta testet",
+    
+    "mainTitle": "Öva gratis inför jägarexamen - Frågor med förklaringar",
+    "mainDescription": "Öva gratis med vårt webbtest. 70 stycken frågor inför jägarexamen med svar, förklaringar och fördjupningar.",
+    "resultText": "Med detta resultat skulle du bli <span class='outcome'></span> på teoriprovet för jägarexamen. För att bli godkänd på teoriprovet för jägarexamen krävs att du klarar 60 av 70 frågor, vilket betyder att du måste ha drygt 85% rätt. På teoriprovet har du drygt 50 sekunder på dig att besvara varje fråga.",
+
+    "linksTitle": "Frågor inför jägarexamen - Alla frågor",
+    "linksDescription": "Länkar till alla 70 gratis frågor inför jägarexamen.",
+
+    "questionDescriptionPrefix": "Frågor inför jägarexamen med svar, förklaring och fördjupning",
+
+    "sellTitle": "Öva inför jägarexamen med vår app",
+    "sellText": "Vår app innehåller 500 frågor inför jägarexamen med förklaringar och fördjupningar och över 200 teorikort med det viktigaste från teoriboken. Med vår app kan du ta jägarexamen utan att behöva läsa tunga böcker! Vår app är Sveriges mest prisvärda övningsmaterial inför jägarexamen.",
+    "playBadge": "<a href=\"https://play.google.com/store/apps/details?id=se.dset.android.jagarexamen&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\"><img alt=\"Get it on Google Play\" src=\"https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png\" /></a>",
+
+    "testHintTitle": "Öva inför jägarexamen med vårt webbtest",
+    "testHintText": "Du kan öva inför jägarexamen med vårt webbtest. Webbtestet innehåller 70 frågor som testar dina kunskaper inför jägarexamen. Det är helt gratis och du behöver inte registrera dig.",
+    "testHintButton": "Gör webbtestet!",
+
+    "questionDirectory": "fragor",
+    "footerText": "© Utbildningsappar 2016.",
+    "footerLink": "Alla frågor inför jägarexamen.",
+
+    "analyticsTrackingID": "UA-72919364-1",
+    "baseUrl": "www.utbildningsappar.com/jagarexamen",
+    "sitemap": "c50190a3-892e-4009-9593-546ce19ab91a-sitemap.txt"
+}
