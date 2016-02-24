@@ -1,0 +1,32 @@
+{
+    "author": "Utbildningsappar",
+    "keyword": "Moped test",
+
+    "welcomeText": "Här kan du helt gratis öva inför teoriprovet för moped klass 1. Vårt test innehåller 70 frågor i samma stil som frågorna på teoriprovet. Du behöver inte registrera dig eller skapa ett konto.",
+    "welcomeButton": "Starta testet",
+    
+    "mainTitle": "Moped - Öva gratis inför teoriprovet - Frågor med förklaringar",
+    "mainDescription": "Öva gratis med vårt test. 70 stycken frågor inför teoriprovet för moped klass 1 med svar, förklaringar och fördjupningar.",
+    "resultText": "Med detta resultat skulle du bli <span class='outcome'></span> på teoriprovet för moped klass 1. För att bli godkänd på teoriprovet krävs att du klarar 52 av 65 frågor, vilket betyder att du måste ha minst 80% rätt. På teoriprovet har du drygt 40 sekunder på dig att besvara varje fråga.",
+
+    "linksTitle": "Test för moped klass 1 - Alla frågor",
+    "linksDescription": "Länkar till alla 70 gratis frågor inför teoriprovet för moped klass 1.",
+
+    "questionDescriptionPrefix": "Test för moped klass 1",
+
+    "sellTitle": "Öva inför teoriprovet med vår app",
+    "sellText": "Vår app innehåller 100 frågor inför teoriprovet för moped klass 1 med förklaringar och fördjupningar och över 400 teorikort med det viktigaste från teoriboken. Ett perfekt verktyg för dig som inte gillar att läsa tunga teoriböcker!",
+    "playBadge": "<a href=\"https://play.google.com/store/apps/details?id=se.dset.android.moped&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1\"><img alt=\"Get it on Google Play\" src=\"https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png\" /></a>",
+
+    "testHintTitle": "Öva inför teoriprovet med vårt webbtest",
+    "testHintText": "Du kan öva inför teoriprovet för moped klass 1 med vårt webbtest. Webbtestet innehåller 70 frågor som testar dina kunskaper inför teoriprovet. Det är helt gratis och du behöver inte registrera dig.",
+    "testHintButton": "Gör webbtestet!",
+
+    "questionDirectory": "fragor",
+    "footerText": "© Utbildningsappar 2016.",
+    "footerLink": "Alla frågor inför teoriprovet.",
+
+    "analyticsTrackingID": "UA-72919364-1",
+    "baseUrl": "www.utbildningsappar.com/moped",
+    "sitemap": "b538111a-45b4-47a4-99e3-427846e397a4-sitemap.txt"
+}
