@@ -1,0 +1,6455 @@
+[
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilket av följande är exempel på defensiv körning?",
+	    "options": [
+		"Att köra på så låga växlar som möjligt",
+		"Att använda sig av motorbromsning",
+		"Att hålla sig till den högra delen av körfältet",
+		"Att planera sin körning och ha goda säkerhetsmarginaler"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad gör bilens katalysator?",
+	    "options": [
+		"Omvandlar över 80 % av avgasernas farliga ämnen till vatten och koldioxid",
+		"Omvandlar över 80 % av koldioxiden i avgaserna till vatten",
+		"Förlänger körsträckan med över 80 % per liter bensin",
+		"Dämpar motorljudet med över 80 %"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Katalysatorn"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Vilka fordon får köra i ett kollektivkörfält till höger i färdriktningen?",
+	    "options": [
+		"Endast kollektivtrafik",
+		"Endast kollektivtrafik och cykel",
+		"Endast kollektivtrafik och moped klass II",
+		"Endast kollektivtrafik, cykel och moped klass II"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Var går gränsen för rattfylleri?",
+	    "options": [
+		"0,1 promille alkohol i blodet",
+		"0,2 promille alkohol i blodet",
+		"0,5 promille alkohol i blodet",
+		"1,0 promille alkohol i blodet"
+	    ],
+	    "key": 1
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"Bromssträckan är sträckan fordonet färdas från och med att en fara upptäcks tills dess att fordonet står still",
+		"Reaktionssträckan är sträckan fordonet färdas från och med att en fara upptäcks tills dess att fordonet står still",
+		"Bromssträckan = Reaktionssträckan + Stoppsträckan",
+		"Stoppsträckan = Reaktionssträckan + Bromssträckan"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Reaktionssträcka",
+		"Bromssträcka",
+		"Stoppsträcka"
+	    ],
+	    "explanation": "<br>● Reaktionssträckan är sträckan fordonet färdas från och med att en fara upptäcks tills dess att inbromsningen påbörjas.<br>● Bromssträckan är sträckan fordonet färdas från och med att inbromsningen påbörjas tills dess att fordonet står still.<br>● Stoppsträckan är sträckan fordonet färdas från och med att en fara upptäcks tills dess att fordonet står still. Det vill säga, Stoppsträckan = Reaktionssträckan + Bromssträckan."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad av följande är exempel på sparsam körning?",
+	    "options": [
+		"Att köra på så låga växlar som möjligt",
+		"Att öka farten mycket långsamt",
+		"Att hoppa över växlar",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"EcoDriving"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Hur påverkas bromssträckan om du ökar hastigheten från 40 km/h till 80 km/h?",
+	    "options": [
+		"Den blir dubbelt så lång",
+		"Den blir 3 gånger längre",
+		"Den blir 4 gånger längre",
+		"Den blir 8 gånger längre"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Bromssträcka"
+	    ],
+	    "explanation": "Räkna ut hur många gånger högre hastigheten är och ta detta upphöjt till två: (80/40)^2 = 2 × 2 = 4."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Vilket körfält bör du välja om du färdas på en väg med hastighetsbegränsning 70 km/h och som har två markerade körfält i färdriktningen?",
+	    "options": [
+		"Det vänstra körfältet",
+		"Det högra körfältet",
+		"Det som är lämpligast för den fortsatta färden"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"trfk3p7"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Ungefär hur många personer dog i vägtrafikolyckor i Sverige åren 2012-2014?",
+	    "options": [
+		"150 - 200 per år",
+		"250 - 300 per år",
+		"350 - 400 per år",
+		"450 - 500 per år"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ],
+	    "explanation": "<br>2012: 285<br>2013: 260<br>2014: 270"
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Ungefär hur många personer skadades svårt i vägtrafikolyckor i Sverige åren 2012-2014?",
+	    "options": [
+		"2 000 - 3 000 per år",
+		"4 000 - 5 000 per år",
+		"6 000 - 7 000 per år",
+		"8 000 - 9 000 per år"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ],
+	    "explanation": "<br>2012: 2 976<br>2013: 2 716<br>2014: 2 389"
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Ungefär hur många personer skadades lindrigt i vägtrafikolyckor i Sverige åren 2012-2014?",
+	    "options": [
+		"15 000 - 20 000 per år",
+		"25 000 - 30 000 per år",
+		"35 000 - 40 000 per år",
+		"45 000 - 50 000 per år"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ],
+	    "explanation": "<br>2012: 19 849<br>2013: 17 543<br>2014: 15 141"
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad av följande är ett fossilt bränsle?",
+	    "options": [
+		"Etanol",
+		"Biogas",
+		"El",
+		"Bensin"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Får man åka taxi med ett barn under tre år trots att det saknas bilbarnstol?",
+	    "options": [
+		"Nej, det ska alltid finnas en bilbarnstol i taxin",
+		"Nej, det är din skyldighet att medföra bilbarnstol",
+		"Ja, korta sträckor och inte i framsätet",
+		"Ja, om de sitter i en vuxens knä"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "När på året är det inte tillåtet att använda dubbdäck, förutsatt att det inte är vinterväglag?",
+	    "options": [
+		"1 april – 30 september",
+		"16 april - 30 september",
+		"1 april - 16 oktober",
+		"1 maj - 16 oktober"
+	    ],
+	    "key": 1,
+	    "explanation": "2009 ändrades vårens datum från 1 maj till 16 april."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vilket är det främsta skälet till att du inte bör köra med en tom takbox?",
+	    "options": [
+		"Det ökar bränsleförbrukningen",
+		"Det är stor risk att takboxen lossnar på grund av den låga vikten",
+		"Det ökar bromssträckan"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Luftmotstånd"
+	    ],
+	    "explanation": "Bränsleförbrukningen ökar med c:a 10 %."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Vad är sant om vägrenen på en landsväg?",
+	    "options": [
+		"Den får endast användas av fotgängare, cyklister och moped klass II",
+		"Den får endast användas om ett utryckningsfordon behöver komma fram",
+		"Den får endast användas i nödfall, eftersom den fungerar som säkerhetsmarginal",
+		"Den kan användas för att tillfälligt göra det lättare för andra fordon att köra om"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Vägren"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "I vilken av följande situationer är det störst risk att bli fartblind?",
+	    "options": [
+		"När man kör om ett annat fordon",
+		"När man blir bländad av ett annat fordon",
+		"När man kör in på en motorväg",
+		"När man kör av en motorväg"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Fartblindhet"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vilken vätska kan du behöva fylla på i bilbatteriet?",
+	    "options": [
+		"T-sprit",
+		"Glykol",
+		"K-sprit",
+		"Destillerat vatten"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Batteriet"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är den högsta tillåtna fordonsbredden, inklusive last?",
+	    "options": [
+		"220 cm",
+		"260 cm",
+		"300 cm",
+		"340 cm"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Fordonsbredd"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Hur mycket får lasten skjuta ut vid sidan om fordonet?",
+	    "options": [
+		"Max 20 cm på varje sida",
+		"Inte mer än 40 cm totalt",
+		"Max 40 cm på varje sida"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Fordonsbredd"
+	    ],
+	    "explanation": "Det är tillåtet att ett fordon inklusive last är 260 cm brett, men lasten får inte skjuta ut mer än 20 cm på varje sida. Om bilen t.ex. är 160 cm bred får den alltså inte vara bredare än 200 cm inklusive last, förutsatt att lasten skjuter ut precis 20 cm på varje sida."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Är det tillåtet att bogsera en motorcykel?",
+	    "options": [
+		"Ja",
+		"Ja, om både föraren i det bogserande fordonet och på motorcykeln har körkort A1, A2 eller A",
+		"Ja, om motorcykeln har sidovagn",
+		"Nej"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är sant om S-märkta däck?",
+	    "options": [
+		"De har hastighetskapacitet 240 km/h",
+		"De är sommardäck",
+		"De uppfyller bullerkraven",
+		"De är regummerade"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Vad ska du göra om du får vattenplaning?",
+	    "options": [
+		"Vrida ratten kraftigt åt det håll bilen roterar",
+		"Bromsa försiktigt tills bilen återfår fästet",
+		"Trycka ner kopplingen och släppa gasen",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Regn"
+	    ],
+	    "explanation": "Om du får vattenplaning ska du trycka ner kopplingen och släppa gasen. Undvik att göra kraftiga rörelser med ratten och bromsa inte eftersom det ökar risken att få sladd."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vilken av följande kombinationer är förbjudna?",
+	    "options": [
+		"Halvljus och extraljus",
+		"Halvljus och varselljus",
+		"Dimljus och varselljus",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Ungefär hur stor andel av de som omkommer i trafikolyckor är män?",
+	    "options": [
+		"50 %",
+		"60 %",
+		"75 %",
+		"90 %"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Ungefär hur stor andel av de som omkommer i singelolyckor är alkoholpåverkade?",
+	    "options": [
+		"10 %",
+		"20 %",
+		"30 %",
+		"50 %"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ],
+	    "explanation": "Alkohol försämrar flera viktiga egenskaper som behövs i trafiken, bland annat omdömet, reaktionsförmågan, koordinationsförmågan och synen. Några siffror:<br>● I åldersgruppen 15-24 år var 68 % av de som omkom i singelolyckor 2007 alkoholpåverkade.<br>● Cirka 30 % av de cyklister och gående som omkommer i trafiken har alkohol i blodet.<br>● Varje dag kör mellan 15 000 och 20 000 förare berusade."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vilken åldersgrupp har bäst reaktionstid och råkar ut för minst antal olyckor?",
+	    "options": [
+		"25-34 år",
+		"35-44 år",
+		"45-54 år",
+		"55-64 år"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Erfarna förare"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilka är de vanligaste orsakerna till trafikolyckor?",
+	    "options": [
+		"Dåliga väderförhållanden, trängsel och bristfälliga fordon",
+		"Dåliga väderförhållanden, osäkra vägar och mörker",
+		"Den mänskliga faktorn, osäkra vägar och bristfälliga fordon",
+		"Den mänskliga faktorn, trängsel och mörker"
+	    ],
+	    "key": 2,
+	    "explanation": "De allra flesta olyckorna beror på någon form av mänskliga misstag, inte sällan orsakade av alkohol, trötthet, stress eller okunskap. Med osäkra vägar avses i huvudsak smala vägar med farliga kurvor eller korsningar. Vanliga fel på bristfälliga fordon är slarv med service av bromsar och byte av däck."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Hur drivs en hybridbil?",
+	    "options": [
+		"Med bränsleceller som utnyttjar energin när väte och syre omvandlas till vatten",
+		"Med två olika energisystem, t.ex. en elmotor och en bensinmotor",
+		"Med etanol som utvinns ur t.ex. vete och sockerrör",
+		"Med en dieselmotor med partikelfilter"
+	    ],
+	    "key": 1
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vilket av följande utsläpp bidrar mest till växthuseffekten?",
+	    "options": [
+		"Kolmonoxid",
+		"Koldioxid",
+		"Kolväten",
+		"Kväveoxider"
+	    ],
+	    "key": 1
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vilket av följande utsläpp försämrar blodets förmåga att transportera syre och är mycket giftigt?",
+	    "options": [
+		"Kolmonoxid",
+		"Koldioxid",
+		"Kolväten",
+		"Kväveoxider"
+	    ],
+	    "key": 0
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vilket av följande utsläpp ökar övergödningen av sjöarna och försurningen av marken?",
+	    "options": [
+		"Kolmonoxid",
+		"Koldioxid",
+		"Kolväten",
+		"Kväveoxider"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Var kan man hitta HA-olja?",
+	    "options": [
+		"I motorn",
+		"I styrsystemet",
+		"I däcken",
+		"I växellådan"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Däckens klimatpåverkan"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är tjänstevikten för en personbil?",
+	    "options": [
+		"Bilens vikt",
+		"Bilens vikt inklusive bränsle",
+		"Bilens vikt inklusive bränsle och förare (75 kg)",
+		"Bilens vikt inklusive bränsle, förare (75 kg), reservhjul, verktyg, etc"
+	    ],
+	    "key": 3,
+	    "explanation": "Tjänstevikt för en bil är den sammanlagda vikten i normalt, fullt driftfärdigt skick, verktyg och reservhjul, bränsle, smörjolja, vatten samt föraren."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"Maximilasten är vikten av den största mängd gods (ej passagerare) ett fordon får ha",
+		"Totalvikten = Tjänstevikten + Maximilasten",
+		"Axeltrycket är det sammanlagda tryck som fordonets hjul överför till vägbanan"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Vikt"
+	    ],
+	    "explanation": "<br>● Maximilasten är vikten av den största mängd gods INKLUSIVE passagerare ett fordon får ha.<br>● Tjänstevikten för en bil, traktor eller motorredskap är den sammanlagda vikten av fordonet i normalt, fullt driftfärdigt skick, verktyg och reservhjul, bränsle, smörjolja, vatten samt föraren.<br>● Totalvikten = Tjänstevikten + Maximilasten.<br>● Axeltrycket är det tryck som hjulen på EN hjulaxel överför till vägbanan."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är boggitryck?",
+	    "options": [
+		"Den sammanlagda vikt som fordonets hjul överför till vägbanan",
+		"Den sammanlagda vikt som hjulen på två hjulaxlar som sitter mindre än 2 meter från varandra överför till vägbanan",
+		"Det lägsta tryck som ett av fordonets hjul överför till vägbanan",
+		"Det högsta tryck som ett av fordonets hjul överför till vägbanan"
+	    ],
+	    "key": 1
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du fraktar virke på taket av din bil. Det är dagsljus och virket skjuter ut 120 cm framför och 120 cm bakom bilen. Behöver virket märkas med något särskilt?",
+	    "options": [
+		"Nej",
+		"Ja, men endast där fram",
+		"Ja, men endast där bak",
+		"Ja, både fram och bak"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"trfk3p82"
+	    ],
+	    "explanation": "<br>● Om lasten skjuter ut mer än en meter ska den alltid märkas ut, t.ex. med en flagga eller tygbit i starka färger.<br>● Om lasten skjuter ut mindre än en meter bakom fordonet behöver den inte märkas ut.<br>● Om den skjuter ut mindre än en meter framför fordonet behöver den inte märkas ut OM den syns tydligt av andra trafikanter"
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Hur långt får ett fordon vara som längst, inklusive släpvagn och last?",
+	    "options": [
+		"21 meter",
+		"24 meter",
+		"27 meter",
+		"30 meter"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Fordonslängd"
+	    ],
+	    "explanation": "Om fordonets konstruktion uppfyller vissa krav gäller 25,25 meter, men i normala fall är den tillåtna fordonslängden 24 meter."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Vad är den så kallade <i>3-sekundersregeln</i>?",
+	    "options": [
+		"En tumregel för det kortaste avståndet du bör ha till fordonet framför dig",
+		"En tumregel för den kortaste tiden du bör stå still vid en stoppliktsmärke",
+		"En tumregel för hur lång tid det bör ta att accelerera från 0 till 30 km/h"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"3-sekundersregeln"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Har utryckningsfordon rätt att bryta mot de trafikregler som gäller för annan trafik?",
+	    "options": [
+		"Ja, om det behövs får de bryta mot trafikreglerna även om de inte använder siren eller ljussignal",
+		"Ja, men bara om de använder ljussignal",
+		"Ja, men bara om de använder siren",
+		"Ja, men bara om de använder siren och ljussignal"
+	    ],
+	    "key": 0
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad är miljöklass 2005PM?",
+	    "options": [
+		"EU-mopeder som förbrukar mindre än 0,25 liter bensin per mil",
+		"Elbilar som förbrukar mindre än 0,5 kWh per mil",
+		"Bensinbilar som släpper ut mindre än 0,5 kg koldioxid per liter bensin",
+		"Dieselbilar som släpper ut mindre 5 mg partiklar per kilometer"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Ungefär hur mycket koldioxid ger 1 liter bensin upphov till?",
+	    "options": [
+		"0,3 kg",
+		"0,8 kg",
+		"1,0 kg",
+		"2,3 kg"
+	    ],
+	    "key": 3,
+	    "explanation": "Koldioxiden är den dominerande växthusgasen. Utsläppen av farliga ämnen från bensinmotorer har minskat, men utsläppen av koldioxid är fortfarande höga."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"En POSITIV sida av sannolikhetsinlärningen är att vi med tiden lär oss i vilka korsningar man sällan ser cyklister",
+		"En NEGATIV sida av sannolikhetsinlärningen är att vi med tiden lär oss i vilka korsningar man sällan ser cyklister"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Sannolikhetsinlärning"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad innebär så kallad <i>överinlärning</i>?",
+	    "options": [
+		"Att vi repeterar och lär oss mer än vad vi för det mesta behöver. Det gör att kunskapen sitter i ryggmärgen och är lättare att komma ihåg efter lång tid",
+		"Att vi tar genvägar och hoppar över steg i inlärningen. Det kan fungera en tid, men till slut brukar det dyka upp en situation där genvägarna i inlärningen leder till olycksrisker"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Överinlärning"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad har forskning visat?",
+	    "options": [
+		"Kvinnor kör mindre bil, men reser längre sträckor än män",
+		"Unga män tror att de är bättre förare än genomsnittsföraren, medan kvinnor oftare anser sig vara sämre än genomsnittet",
+		"Kvinnor faller oftare än män för grupptryck i körsituationer"
+	    ],
+	    "key": 1,
+	    "explanation": "Unga mäns tendens att överskatta sin körförmåga är förmodligen en av anledningarna till att de är en stor riskgrupp i trafiken."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Hur påverkas synen när man dricker alkohol?",
+	    "options": [
+		"Synfältet minskar",
+		"Mörkerseendet försämras och känsligheten för att bländas ökar",
+		"Det blir svårare att bedöma avstånd",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 3,
+	    "explanation": "Synen är vårt viktigaste sinne i trafiken, men det försämras på flera sätt när vi dricker alkohol. Trots det kör 15 000 - 20 000 personer per dag med alkohol i kroppen."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Hur ska man i allmänhet köra genom en kurva?",
+	    "options": [
+		"Så rakt som möjligt, dock utan att passera mittlinjen",
+		"I mitten av körfältet genom hela kurvan",
+		"Relativt långt till höger i körfältet, för att undvika kollisionsrisk med mötande fordon"
+	    ],
+	    "key": 0,
+	    "explanation": "Att hålla en så rak linje som möjligt minskar väggreppsbehovet i kurvan."
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Du kör i mörker med helljuset på när fordonet bakom dig påbörjar en omkörning. Du håller till höger i körfältet för att underlätta omkörningen, men du kör inte ut på vägrenen. Strax efter att fordonet har passerat dig på vänster sida slår du av helljuset för att inte blända föraren. Har du agerat korrekt?",
+	    "options": [
+		"Ja",
+		"Nja, du behöver inte slå av helljuset eftersom bländningsrisken för ett fordon framför dig är minimal",
+		"Nja, omkörningen hade underlättats av att du hade använt dig av vägrenen",
+		"Nej, du skulle inte ha slagit av helljuset eftersom bländningsrisken är minimal och det är av högsta vikt att vägbanan är upplyst vid en omkörning i mörker. Du skulle dessutom ha använt vägrenen eftersom det är viktigt att underlätta omkörningar så mycket som möjligt när det är mörkt"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Mörkerkörning"
+	    ],
+	    "explanation": "Du ska inte använda helljus när du har ett fordon framför dig eftersom du bländar föraren genom backspeglarna. Du ska inte heller använda vägrenen för att underlätta omkörningar i mörker eftersom det är svårt att upptäcka gående eller andra faror vid högerkanten när det är mörkt."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Tre av dina vänner har gjort sig skyldiga till trafikbrott. Vem av dem kan dömas till körkortsåterkallelse?",
+	    "options": [
+		"Den som körde 45 km/h på en 30-väg",
+		"Den som körde 80 km/h på en 50-väg",
+		"Den som körde mot rött",
+		"Alla tre"
+	    ],
+	    "key": 2,
+	    "explanation": "Om du kör <i>mer</i> än 20 km/h för fort på en 30-väg eller om du kör <i>mer</i> än 30 km/h för fort på en 50-väg blir du i normalfallet dömd till körkortsåterkallelse (och böter). I det här fallet kan alltså dina vänner som har kört för fort endast dömas till böter."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Vilken är den största risken vid vänstersväng på landsväg?",
+	    "options": [
+		"Att bli påkörd bakifrån",
+		"Att bli påkörd i sidan av mötande trafik"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Vänstersväng"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Du ska svänga vänster på en landsväg. Det är ingen trafik bakom eller åt sidorna, men en hel del mötande trafik. Med cirka 100 meter kvar till korsningen blinkar du vänster och placerar dig intill vägens mittlinje. Därefter sänker du farten och växlar ner, men måste vänta med att svänga p.g.a. mötande trafik. Du vet att man helst bör undvika att stanna vid mittlinjen, men du ser en lucka längre fram i den mötande trafiken och det är ingen trafik bakom dig så du bedömer att det går att stanna utan fara. Du stannar med hjulen riktade rakt fram och när luckan kommer svänger du snabbt över vägen. Har du agerat korrekt?",
+	    "options": [
+		"Nej, jag skulle ha börjat blinka vänster cirka 300 meter före korsningen",
+		"Nej, jag skulle ha stannat till höger i körfältet så att eventuella fordon bakifrån kan passera så länge jag inte kan svänga vänster",
+		"Nej, jag skulle ha förberett svängen genom att rikta hjulen åt vänster",
+		"Nej, jag skulle ha gjort allt ovanstående"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Vänstersväng"
+	    ],
+	    "explanation": "Det är riskfyllt att svänga vänster på en landsväg, därför måste du förbereda svängen i god tid. För att  hinna blinka vänster, närma dig mittlinjen och sedan sakta ner på ett säkert sätt måste du påbörja detta cirka 300 meter före korsningen.<br><br>Du ska aldrig stanna till höger i körfältet alldeles intill korsningen. Dels för att du syns sämre, men också för att det kan komma ytterligare ett fordon som ska svänga vänster. Om detta fordon stannar vid mittlinjen blockerar ni hela körfältet.<br><br>Du ska inte heller rikta hjulen åt vänster medan du väntar på att kunna svänga eftersom du riskerar att bli knuffad in i den mötande trafikens körfält om du blir påkörd bakifrån."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Du ska svänga vänster på en landsväg. En bra bit innan du behöver börja förbereda vänstersvängen sänker du farten och håller till höger i körfältet så att fordonen tätt bakom dig kan köra om. Är det en bra idé?",
+	    "options": [
+		"Nej, att försöka släppa förbi fordon är en vanlig orsak till missförstånd i trafiken",
+		"Nej, det är bra att ha trafik tätt bakom dig när du ska svänga vänster på en landsväg eftersom de tydligt ser när du blinkar till vänster. Om vägen bakom dig är tom finns det risk att ett fordon närmar sig i hög hastighet och inte hinner uppfatta din avsikt att svänga vänster",
+		"Nej, det är svårt för fordonen bakom dig att förstå din avsikt att svänga vänster om du håller till höger",
+		"Ja, det är en bra idé att försöka \"tömma\" vägen bakom dig en bra bit innan du börjar förbereda vänstersvängen"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Vänstersväng"
+	    ],
+	    "explanation": "Även trafik tätt bakom dig kan undgå att observera din avsikt att svänga vänster. Dessutom kan ett bakomvarande fordon påbörja en omkörning samtidigt som du svänger vänster om du har mycket trafik bakom dig. Det är alltså en bra idé att försöka \"tömma\" vägen bakom dig eftersom det minskar risken att bli påkörd bakifrån.<br><br>Om det är för mycket trafik i någon av riktningarna eller om du av någon annan anledning bedömer svängen som ovanligt riskfylld är det bättre att ta det säkra före det osäkra och fortsätta rakt fram för att sedan vända och göra en högersväng på vägen tillbaka."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vilket av följande är inte ett fossilt bränsle?",
+	    "options": [
+		"Bensin",
+		"Diesel",
+		"Biogas",
+		"Naturgas"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad ökar bränsleförbrukningen mest?",
+	    "options": [
+		"Öppna sidorutor",
+		"Dubbdäck"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Luftmotstånd",
+		"Däckens klimatpåverkan"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"Lufttrycket i däcken påverkar inte bränsleförbrukningen nämnvärt",
+		"Koldioxidutsläppen ligger till grund för bilens miljöklass",
+		"Om du tvättar bilen på gatan renas inte vattnet i reningsverk",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 2,
+	    "explanation": "<br>● Det första påståendet är falskt eftersom ett lågt lufttryck i däcken innebär väsentligt högre rullmotstånd och därmed högre bränsleförbrukning.<br>● Det andra påståendet är också falskt, grunden för miljöklassning av nya personbilar är utsläppen av kolväten, kolmonoxid, kväveoxider och partiklar. Man bedömer alltså <i>inte</i> koldioxidutsläppen!<br>● Det tredje påståendet är sant, gatubrunnarna leder vattnet direkt ut i sjöar och hav. Du bör alltså tvätta bilen i en maskintvätt eller gör-det-själv-hall."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vilket av följande ökar inte bränsleförbrukningen?",
+	    "options": [
+		"Fyrhjulsdrift",
+		"Smala däck",
+		"Automatisk växellåda"
+	    ],
+	    "key": 1,
+	    "explanation": "Fyrhjulsdrift ökar bränsleförbrukningen med c:a 5 %. Automatisk växellåda ökar bränsleförbrukningen med 0-20 %."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad av följande orsakar mest cancerframkallande partiklar?",
+	    "options": [
+		"Däck med HA-oljor",
+		"Regummerade däck",
+		"Biogaser",
+		"Dieselavgaser"
+	    ],
+	    "key": 3,
+	    "explanation": "Sot och partiklar är ett stort problem, framförallt i tätorter. Dieselavgaser innehåller cancerframkallande partiklar som skadar luftvägarna och hjärt- och kärlsystemet. Om du köper en dieselbil bör du välja en med partikelfilter, vilket minskar utsläppen avsevärt."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Ungefär hur många bilar finns det i Sverige?",
+	    "options": [
+		"3 per invånare",
+		"2 per invånare",
+		"1 per invånare",
+		"1 på 2 invånare"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad är E85?",
+	    "options": [
+		"En blandning av 85 % etanol och 15 % bensin",
+		"En blandning av 85 % bensin och 15 % etanol",
+		"En europeisk miljöbilsdefinition för bilar som släpper ut mindre än 85 gram koldioxid per km"
+	    ],
+	    "key": 0
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"Bilar ger ifrån sig ett lågfrekvent infraljud som kan orsaka huvudvärk och trötthet",
+		"Bilar ger ifrån sig ett högfrekvent ultraljud som kan vara mycket obehagligt för vissa djur",
+		"Båda de ovanstående alternativen"
+	    ],
+	    "key": 0
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Som förare ska du inte alltid lyssna på vad dina medpassagerare säger om trafiken omkring dig.",
+	    "options": [
+		"Sant",
+		"Falskt"
+	    ],
+	    "key": 0,
+	    "explanation": "Ibland är det bra att ta hjälp av dina medpassagerares ögon och öron, men i andra fall är det bra att bortse från vad andra passagerare säger. Det är lätt att falla för grupptrycket om dina vänner vill att du ska öka farten eller köra om fordonet framför. Det är också lätt att bli stressad om du försöker lyssna på allt dina kamrater har att säga om trafiken omkring dig."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Hörseln kan vara till hjälp för att bedöma väglaget.",
+	    "options": [
+		"Sant. Hörseln är också bra för att uppfatta om hjulen låser sig när du bromsar",
+		"Falskt. Att använda hörseln är ett opålitligt sätt att bedöma väglaget"
+	    ],
+	    "key": 0,
+	    "explanation": "Med hjälp av hörseln kan du bland annat avgöra när vägbeläggningen övergår från asfalt till grus eller om en våt vägbana övergår till att vara frusen."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vilka tre stadier brukar man tala om vad gäller mognadsprocessen?",
+	    "options": [
+		"Det egoistiska stadiet, omtankestadiet och det fullärda stadiet",
+		"Nybörjarstadiet, regelstadiet och mästarstadiet",
+		"Det nyfikna stadiet, det fullärda stadiet och mästarstadiet",
+		"Det egoistiska stadiet, regelstadiet och omtankestadiet"
+	    ],
+	    "key": 3,
+	    "explanation": "<br>● Omogna förare präglas oftare av ett egoistiskt tänkande där man tränger sig före och beter sig hänsynslöst mot andra trafikanter.<br>● Också förare som följer alla regler kan fungera dåligt i trafiken, dels för att det inte finns regler för alla situationer, men också för att det ibland är oförenligt med hänsynstagande och sunt förnuft.<br>● En mogen bilförare visar omtanke för andra trafikanter och är medveten om sina egna och andras brister."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vad fungerar bäst i trafiken?",
+	    "options": [
+		"Att alltid följa alla trafikregler",
+		"Att ibland låta det egna omdömet gå före en trafikregel"
+	    ],
+	    "key": 1,
+	    "explanation": "Förare som av princip alltid följer alla regler kan faktiskt bli en trafikfara. Om t.ex. en annan trafikant begår ett misstag eller ett regelbrott kan du behöva bryta mot trafikreglerna för att undvika att utsätta dig själv eller andra för fara. Trafikregler är viktiga, men i vissa situationer måste det sunda förnuftet få råda."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad är sant om trafikens så kallade <i>Olycksfåglar</i>?",
+	    "options": [
+		"De utgör c:a 25 % av befolkningen, men står för ungefär 50 % av olyckorna",
+		"De har ofta bortförklaringar till sina misstag och lär sig därför inte av dem",
+		"Båda de ovanstående alternativen"
+	    ],
+	    "key": 1,
+	    "explanation": "Olycksfåglarna utgör c:a 15 % av befolkningen, men står för så mycket som c:a 50 % av olyckorna. De har en benägenhet att bortse från faror (bortträngning) och att hitta bortförklaringar till sina misstag. Andra vanliga riskbeteenden i den här gruppen är impulsivitet, självhävdelsebehov och prestigetänkande."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vilket av följande har i princip inga positiva effekter?",
+	    "options": [
+		"Sannolikhetsinlärning",
+		"Imitationsinlärning",
+		"Grupptryck",
+		"Samtliga ovanstående alternativ kan ha positiva effekter"
+	    ],
+	    "key": 3,
+	    "explanation": "<br>● En positiv effekt av sannolikhetsinlärning är att vi av erfarenhet lär oss var och när farliga situationer ofta uppstår.<br>● En positiv av imitationsinlärning är att vi ökar vår kunskap genom att ta efter goda förebilder i trafiken.<br>● En positiv effekt av grupptryck är att en bra gruppanda kan få oss att ändra vårt beteende till det bättre."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad är <i>mikrosömn</i>?",
+	    "options": [
+		"Ett uttryck för nattsömn kortare än en timme",
+		"Ett uttryck för en kort sömn på några tiondelar",
+		"Ett uttryck för en kort tupplur på omkring tjugo minuter"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Mikrosömn"
+	    ],
+	    "explanation": "Du riskerar att drabbas av korta, omedvetna sovstunder bakom ratten om du är alldeles för trött. Lyssna på trötthetssignalerna och stanna för att vila <i>innan</i> du drabbas av mikrosömn."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Ungefär hur mycket 40-procentig sprit motsvarar två starköl (2 × 50 cl med 5 volymprocent)?",
+	    "options": [
+		"7,5 cl",
+		"10 cl",
+		"12,5 cl",
+		"15 cl"
+	    ],
+	    "key": 2,
+	    "explanation": "Du kan räkna ut hur mycket 40-procentig sprit en alkoholhaltig dryck innehåller med formeln:<br>litervolym × volymprocent × 2,5.<br><br>I det här fallet får vi:<br>1 × 5 × 2,5 = 12,5 cl."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Ungefär hur mycket 40-procentig sprit motsvarar ett stort glas vin (2 dl med 12 volymprocent)?",
+	    "options": [
+		"3 cl",
+		"6 cl",
+		"9 cl",
+		"12 cl"
+	    ],
+	    "key": 1,
+	    "explanation": "Du kan räkna ut hur mycket 40-procentig sprit en alkoholhaltig dryck innehåller med formeln:<br>litervolym × volymprocent × 2,5<br><br>I det här fallet får vi:<br>0,2 × 12 × 2,5 = 6 cl"
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Ungefär inom vilket avstånd bedömer vi avstånd med stereoseendet, d.v.s. med hjälp av att intrycken från ögonen kommer från två olika vinklar?",
+	    "options": [
+		"1 meter",
+		"3 meter",
+		"10 meter",
+		"30 meter"
+	    ],
+	    "key": 2,
+	    "explanation": "På längre avstånd blir vinkelskillnaden för liten för att vara till hjälp vid avståndsbedömningen. Vi använder då andra knep som t.ex. att föremål förefaller allt mindre ju längre bort de befinner sig."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Får en cyklist, som före en korsning färdas i ett körfält med körfältspil rakt fram, svänga vänster i korsningen?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Cyklister"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vad innebär högerregeln i korthet?",
+	    "options": [
+		"Att du har väjningsplikt mot fordon som ska svänga höger",
+		"Att fordon som ska svänga höger har väjningsplikt",
+		"Att du har väjningsplikt mot fordon som kommer från höger",
+		"Att fordon som kommer från höger har väjningsplikt"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Högerregeln"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "I vilket av dessa fall gäller <b>inte</b> utfartsregeln?",
+	    "options": [
+		"När du kör ut från parkeringsplats",
+		"När du kör ut från bensinmack",
+		"När du kör ut från vägrenen",
+		"Utfartsregeln gäller i samtliga ovanstående situationer"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Utfartsregeln"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Ungefär hur ofta (om inte instruktionsboken anger annat) behöver bromsvätskan bytas?",
+	    "options": [
+		"Två gånger om året",
+		"Varje år",
+		"Vartannat år",
+		"Vart tredje år"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Bromsvätska"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Om du har två däckpar som är olika slitna, var bör du montera det bästa paret?",
+	    "options": [
+		"Fram",
+		"Bak",
+		"Fram om bilen är framhjulsdriven, bak om bilen är bakhjulsdriven",
+		"Bak om bilen är framhjulsdriven, fram om bilen är bakhjulsdriven"
+	    ],
+	    "key": 1,
+	    "explanation": "Oavsett om bilen är fram- eller bakhjulsdriven så ska de bästa däcken (spårdjup, kvalitet mm) monteras bak för att undvika sladd."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Om du har förändrat ditt fordon, t.ex. monterat en dragkrok, måste du registreringsbesiktiga fordonet inom...",
+	    "options": [
+		"... en månad.",
+		"... tre månader.",
+		"... sex månader.",
+		"... ett år."
+	    ],
+	    "key": 0
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är troligen problemet om det \"hugger\" i ratten, d.v.s. går omväxlande lätt och trögt att styra?",
+	    "options": [
+		"Framhjulen är obalanserade",
+		"Framhjulen sitter inte åt ordentligt",
+		"Det är för lite luft i något av framhjulen",
+		"Det är luft eller smuts i servosystemet"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är troligen problemet om du känner skakningar i ratten, så kallad <i>rattfrossa</i>?",
+	    "options": [
+		"Framhjulen är obalanserade",
+		"Framhjulen sitter inte åt ordentligt",
+		"Det är för lite luft i något av framhjulen",
+		"Det är luft eller smuts i servosystemet"
+	    ],
+	    "key": 0
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilken bottenfärg används för att visa vägen vid tillfällig omläggning av trafiken, t.ex. vid vägarbete?",
+	    "options": [
+		"Röd",
+		"Gul",
+		"Orange",
+		"Brun"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilken bottenfärg används på varningsmärken?",
+	    "options": [
+		"Röd",
+		"Blå",
+		"Vit",
+		"Gul"
+	    ],
+	    "key": 3,
+	    "explanation": "I Sverige är bottenfärgen gul, men i många andra länder har varnings- och förbudsmärken vit bottenfärg."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Ungefär hur långt färdas du på 2 sekunder när du kör i 90 km/h?",
+	    "options": [
+		"30 meter",
+		"50 meter",
+		"70 meter",
+		"90 meter"
+	    ],
+	    "key": 1,
+	    "explanation": "Ett enkelt (men inte helt korrekt) sätt att omvandla km/h till m/s (meter per sekund) är att först dela med 10 och sedan multiplicera med 3. I det här fallet får vi: 90 km/h = (90/10) × 3 = 9 × 3 = 27 m/s. På två sekunder färdas man då: 27 × 2 = 54 meter.<br><br>Ett mer exakt sätt att omvandla km/h till m/s är att dela med 3,6. I det här fallet får vi: 90 km/h = 90/3,6 = 25 m/s. På två sekunder färdas man då: 25 × 2 = 50 meter."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vid olyckor kan du träffa på skadade personer som har drabbats av <i>cirkulationschock</i>. Du känner igen tillståndet på att personen har snabb men svag puls, fryser och är blek och törstig. Du ska försöka stoppa blödningar och se till att personen är lugn och andas fritt, men vad mer ska du göra?",
+	    "options": [
+		"Hålla personen varm, men inte ge den något att dricka",
+		"Hålla personen varm och ge den något att dricka"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Cirkulationschock"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilken årstid omkommer flest människor i vägtrafiken?",
+	    "options": [
+		"Vinter (dec - mars)",
+		"Höst och vår (okt–nov resp. apr–maj)",
+		"Sommar (jun–sep)",
+		"Det är i princip ingen skillnad mellan årstiderna"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ],
+	    "explanation": "Generellt kan man säga att olycksrisken är förhöjd under semestermånaderna (bland annat för att många befinner sig i obekanta trafikmiljöer) samt under höst och tidig vinter när trafikanterna ännu inte har vant sig vid mörkret och halkan."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilken tid på dygnet omkommer flest människor i vägtrafiken?",
+	    "options": [
+		"Förmiddag/lunch (06:00–13:59)",
+		"Eftermiddag/kväll (14:00–21:59)",
+		"Nattetid (22:00–05:59)",
+		"Antalet dödsolyckor är i princip jämnt fördelade över ovanstående alternativ"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ],
+	    "explanation": "1985–2012 omkom i genomsnitt 35 % under förmiddag/lunch, 44 % under eftermiddag/kväll, och 21 % under natten. Det är dock viktigt att inte stirra sig blind på statistiken. Eftersom det är mycket mindre trafik nattetid är det naturligt att det omkommer färre människor under dessa timmar. Olycksrisken är dock <i>förhöjd</i> nattetid, särskilt helgnätter."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilket påstående är <b>falskt</b>?",
+	    "options": [
+		"De flesta olyckorna sker inom tättbebyggt område",
+		"De allvarligaste olyckorna sker utanför tättbebyggt område",
+		"Den vanligaste olyckstypen utanför tättbebyggt område är singelolyckor",
+		"Det omkommer fler cyklister än gående i trafiken"
+	    ],
+	    "key": 3,
+	    "explanation": "Det omkommer betydligt fler gående än cyklister i trafiken (i grova drag dubbelt så många). Det är dock mycket vanligt att cyklister skadas allvarligt. T.ex. var cyklisterna 2013 den största trafikantgruppen bland de allvarligt och mycket allvarligt skadade, med 45 resp. 40 % av det totala antalet skadade."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Hur har antalet omkomna i trafiken förändrats de senaste tjugo åren?",
+	    "options": [
+		"Antalet har ökat med c:a 30 %",
+		"Antalet har varit relativt oförändrat",
+		"Antalet har minskat med c:a 30 %",
+		"Antalet har mer än halverats"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ],
+	    "explanation": "Jämförelsen är något missvisande eftersom Transportstyrelsen sedan 2010 utelämnar olyckor som visat sig vara avsiktliga i statistiken. Merparten av nedgången beror dock på att trafiksäkerheten förbättrats avsevärt."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilket alternativ stämmer bäst överens med hur antalet omkomna respektive svårt skadade förhåller sig till varandra?",
+	    "options": [
+		"1:5",
+		"1:10",
+		"1:50",
+		"1:100"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ],
+	    "explanation": "Det är en bra minnesregel att antalet svårt skadade är ungefär 10 gånger så många som antalet omkomna i trafiken."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Om en gångtrafikant blir påkörd i 30 km/h är risken att dö c:a...",
+	    "options": [
+		"... 10 %.",
+		"... 30 %.",
+		"... 50 %.",
+		"... 90 %."
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Om en gångtrafikant blir påkörd i 50 km/h är chansen att överleva c:a...",
+	    "options": [
+		"... 20 %.",
+		"... 40 %.",
+		"... 60 %.",
+		"... 80 %."
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Olycksstatistik"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är ett <i>accelerationsfält</i>?",
+	    "options": [
+		"Det vänstra körfältet på en motorväg",
+		"Det yttre körfältet i en cirkulationsplats med dubbla körfält",
+		"Ett körfält som är avsett endast för anslutande trafik",
+		"Området mellan stopplinjerna i en korsning med trafikljus"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Accelerationsfält"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är <i>bashastighet</i>?",
+	    "options": [
+		"En europeisk standard för vilka hastigheter som ska gälla på olika typer av vägar",
+		"En europeisk standard för den högsta hastigheten olika typer av fordon får uppnå vid 3000 motorvarv/min på ettans växel",
+		"En generell hastighetsbegränsning som finns i många europeiska länder"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Bashastighet"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vilken av dessa vikter är störst för en personbil med en förare (70 kg) och en resväska (20 kg)?",
+	    "options": [
+		"Bruttovikten",
+		"Tjänstevikten",
+		"Totalvikten",
+		"Maxlasten"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Vikt"
+	    ],
+	    "explanation": "Totalvikten = Tjänstevikten + Maxlasten. Totalvikten är alltså större än tjänstevikten och maxlasten. Bruttovikten är bilens vikt vid det aktuella tillfället. I det här fallet kan man räkna med att totalvikten är större än bruttovikten eftersom personbilar garanterat har en maxlast som är bra mycket större än 20 kg."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är maximilasten för en personbil med bruttovikt 1750 kg, tjänstevikt 1500 kg och totalvikt 2250 kg?",
+	    "options": [
+		"250 kg",
+		"500 kg",
+		"750 kg",
+		"Informationen är inte tillräcklig för att ange maximilasten"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Vikt"
+	    ],
+	    "explanation": "Maximilasten = Totalvikten - Tjänstevikten = 2250 - 1500 = 750 kg."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Ingår passagerarnas vikt i en personbils tjänstevikt?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Tjänstevikt"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad kallas det när du släpper upp kopplingen precis tillräckligt för att motorn ska vilja driva bilen framåt?",
+	    "options": [
+		"Grundläget",
+		"Slagläget",
+		"Drivläget",
+		"Dragläget"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Dragläge"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är en <i>flygande inspektion</i>?",
+	    "options": [
+		"En kontroll av fordonet som görs av polis eller bilinspektörer ute på vägen",
+		"En regelbunden kontroll av ditt fordon som bör göras varje gång du ska färdas med fordonet",
+		"En kontroll av omgivningen som görs med en svepande blick omkring dig innan du startar från stillastående"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Flygande inspektion"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Hur mycket får lasten som mest skjuta ut framför och bakom fordonet?",
+	    "options": [
+		"1 meter framför och 3 meter bakom",
+		"3 meter framför och 3 meter bakom",
+		"3 meter framför och 5 meter bakom",
+		"Det finns ingen begränsning, förutsatt att fordonets totala längd är inom tillåtna gränser"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Fordonslängd"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Hur gammal måste du vara för att få gå introduktionsutbildningen?",
+	    "options": [
+		"15 år",
+		"15 år och 6 månader",
+		"15 år och 9 månader",
+		"16 år"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Introduktionsutbildning"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är en <i>katastrofbroms</i>?",
+	    "options": [
+		"En broms som aktiveras när en släpvagn lossnar",
+		"Ett intelligent bromssystem som finns på vissa nyare bilar och som aktiveras om du är på väg att kollidera med ett objekt och underlåter att bromsa",
+		"En nödbromsning med parkeringsbromsen när ordinarie bromsar inte fungerar"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Katastrofbroms"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Om du ser en moped utan registreringsskylt får den förmodligen köra högst...",
+	    "options": [
+		"... 20 km/h.",
+		"... 25 km/h.",
+		"... 40 km/h.",
+		"... 45 km/h."
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Moped klass II"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är en av skillnaderna mellan en EU-moped och en moped klass I?",
+	    "options": [
+		"Det finns inga skillnader, eftersom det är två olika benämningar på samma typ av moped",
+		"EU-mopeden måste registreras i bilregistret, vilket inte krävs för moped klass I",
+		"EU-mopeder får köra högst 45 km/h, moped klass I får köra högst 25 km/h"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Moped klass I"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vilka vägar saknar (i Sverige) alltid korsningar i samma plan?",
+	    "options": [
+		"Endast motorvägar",
+		"Endast motortrafikleder",
+		"Både motorvägar och motortrafikleder"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Motorväg",
+		"Motortrafikled"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vilka vägar är alltid uppdelade i två körbanor, en i vardera riktningen?",
+	    "options": [
+		"Endast motorvägar",
+		"Endast motortrafikleder",
+		"Både motorvägar och motortrafikleder"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Motorväg",
+		"Motortrafikled"
+	    ],
+	    "explanation": "På vissa motortrafikleder är allvarliga mötesolyckor tyvärr ett återkommande inslag. Olyckorna beror ofta på att en förare frestas att köra om trots mötande trafik. Eftersom farterna är höga på en motortrafikled händer det lätt i en sådan situation att föraren missbedömer de mötande fordonens hastighet, med en allvarlig olycka som följd."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är namnet på den vision som ligger till grund för trafiksäkerhetsarbetet?",
+	    "options": [
+		"Framtidsvisionen",
+		"Trafikvisionen",
+		"Säkerhetsvisionen",
+		"Nollvisionen"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Nollvisionen"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vilka försäkringar är obligatoriska?",
+	    "options": [
+		"Trafikförsäkringen",
+		"Delkaskoförsäkringen",
+		"Trafikförsäkringen och delkaskoförsäkringen",
+		"Trafikförsäkringen och vagnskadeförsäkringen"
+	    ],
+	    "key": 0,
+	    "explanation": "<br>● Trafikförsäkringen är obligatorisk för alla motorfordon. Den täcker personskador och skador på andra egendomar vid en olycka. Den täcker dock INTE skador på det egna fordonet.<br><br>● Delkaskoförsäkringen kan se lite olika ut, men den kan t.ex. innehålla stöld-, brand-, maskin-, glas-, räddnings- och rättsskyddsförsäkring. En halvförsäkring innehåller trafikförsäkring och delkaskoförsäkring.<br><br>● Vagnskadeförsäkring täcker skador på det egna fordonet i övriga fall, t.ex. vid en dikeskörning eller vid skadogörelse på din bil.<br><br>● Bäst skydd får du om du tecknar en helförsäkring. Den innehåller trafikförsäkring, delkaskoförsäkring och vagnskadeförsäkring."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vilken försäkring täcker bl.a. personskador vid en olycka?",
+	    "options": [
+		"Trafikförsäkringen",
+		"Delkaskoförsäkringen",
+		"Vagnskadeförsäkringen"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Försäkringar"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vilken försäkring täcker i regel brand- och glasskador?",
+	    "options": [
+		"Trafikförsäkringen",
+		"Delkaskoförsäkringen",
+		"Vagnskadeförsäkringen"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Försäkringar"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad kan kraftig sidvind orsaka?",
+	    "options": [
+		"Understyrning",
+		"Överstyrning",
+		"Under- eller överstyrning"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Understyrning",
+		"Överstyrning"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad kan tung last orsaka?",
+	    "options": [
+		"Understyrning",
+		"Överstyrning",
+		"Under- eller överstyrning"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Understyrning",
+		"Överstyrning"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är ett <i>stigningsfält</i>?",
+	    "options": [
+		"Ett extra körfält i stigningar där tunga fordon kan få problem",
+		"Ett extra körfält för avstigning, t.ex. vid busshållplatser"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Stigningsfält"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Får du köra upp även om du inte har klarat teoriprovet för ett B-körkort?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, men endast om jag fick mer än 45 poäng på teoriprovet"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Förarprov"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Hur många passagerare kan en personbil högst vara avsedd för?",
+	    "options": [
+		"5",
+		"6",
+		"8",
+		"10"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Får man köra traktor om man har tagit B-körkort 2015?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om traktorn väger mindre än 3,5 ton"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"B-körkort"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Får man köra trehjulig motorcykel med mer än 15 kW nettoeffekt om man har tagit B-körkort 2015?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om man har fyllt 21 år"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"B-körkort"
+	    ],
+	    "explanation": "Om du har tagit B-körkort före den 19 januari 2013 är det tillåtet även om du är yngre än 21 år, förutsatt att körkortet inte har varit återkallat efter detta datum."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Får du köra ut på en vägren med heldragen kantlinje för att underlätta en omkörning?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, men det är inte att rekommendera"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Vägren"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Var är det störst risk att bli fartblind?",
+	    "options": [
+		"På längre raksträckor",
+		"På mycket kurviga sträckor",
+		"På sträckor med stora höjdskillnader"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Fartblindhet"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Hur bör du placera fordonet när du kör på landsväg i dagsljus med god sikt?",
+	    "options": [
+		"Mitt i körfältet",
+		"Till höger i körfältet"
+	    ],
+	    "key": 1,
+	    "explanation": "Det är bra att hålla sig nära kantlinjen för att:<br>● underlätta omkörningar, framförallt innan du har kommit upp i hög fart när du kör in på en landsväg.<br>● undvika slitspåren, framförallt när det regnar och det finns risk för vattenplaning."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "När ökar risken för tunnelseende?",
+	    "options": [
+		"När området kring bilen är platt",
+		"När området kring bilen är kuperat",
+		"När solen står lågt",
+		"När farten är hög"
+	    ],
+	    "key": 3,
+	    "explanation": "Tunnelseende innebär att avsökningsområdet blir smalare. Det uppstår lätt när farterna är höga, med ökad risk för t.ex. viltolyckor som följd. Andra faktorer som kan orsaka tunnelseende är stress, trötthet och alkohol.<br><br>För att undvika tunnelseende kan du aktivt försöka röra blicken mer för att bättre söka av området kring fordonet."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Ungefär hur mycket tid per mil sparar man på att öka farten från 70 km/h till 80 km/h?",
+	    "options": [
+		"1 min",
+		"2 min",
+		"3 min",
+		"4 min"
+	    ],
+	    "key": 0,
+	    "explanation": "För att beräkna hur lång tid det tar att färdas en mil tar vi sträckan delat med hastigheten. Eftersom svaret ska vara i minuter behöver vi också multiplicera med 60. Det ger:<br>● (10/70) × 60 = 8,57 minuter.<br>● (10/80) × 60 = 7,5 minuter.<br>● Alltså sparar man c:a en minut per mil.<br><br>Högre fart innebär ökad olycksrisk, ökad bränsleförbrukning och ökade utsläpp, framförallt om fartökningen innebär upprepade omkörningar. Samtidigt visar exemplet att tidsvinsten är förhållandevis liten."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Vad är i allmänhet bäst?",
+	    "options": [
+		"En accelererande omkörning",
+		"En flygande omkörning"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Accelererande omkörning",
+		"Flygande omkörning"
+	    ],
+	    "explanation": "Om du kan anpassa din fart så att du kan göra en flygande omkörning behöver du kortare omkörningssträcka och orsakar mindre skadliga utsläpp eftersom du slipper accelerera."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "På en landsväg med bred vägren i båda riktningarna bedömer du att det finns gott om tid att köra om fordonet framför. Strax efter att du har passerat mittlinjen och kommit ut i körfältet i motsatt riktning inser du att du har felbedömt situationen. Ett mötande fordon kommer kanske hinna fram innan du har fullföljt omkörningen. Vad gör du?",
+	    "options": [
+		"Fullföljer omkörningen. Att avbryta omkörningen är i allmänhet mer riskfyllt eftersom det tar minst lika lång tid som att fullfölja omkörningen samtidigt som det innebär större risk för missförstånd",
+		"Avbryter omkörningen. Trots att det finns gott om plats för tre fordon i bredd så ska ett mötande fordon aldrig tvingas ut på vägrenen"
+	    ],
+	    "key": 1,
+	    "explanation": "Det är förbjudet och förenat med stora risker att tvinga ut mötande fordon på vägrenen. Trots det är det  inte ovanligt att förare som har möte anser att det finns gott om plats och påbörjar en omkörning.<br><br>Även om du inte hör till dessa ansvarslösa förare kan det hända att du gör en felbedömning som leder till att du måste avbryta en omkörning. Avbryt i så fall i god tid, annars finns det risk att fordonet som du kör om bromsar för att underlätta omkörningen samtidigt som du avbryter omkörningsförsöket."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Du kör på en mycket bred landsväg med smal vägren. Fordonet framför kör relativt långsamt och håller till höger. Ett ensamt mötande fordon närmar sig relativt snabbt, men det finns plats för att köra om med goda säkerhetsmarginaler utan att passera mittlinjen så du påbörjar en omkörning. Är det tillåtet?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, men endast om fordonet framför är ett långsamtgående fordon med LGF-skylt"
+	    ],
+	    "key": 0,
+	    "explanation": "Om vägen är bred och fordonet framför håller till höger är det tillåtet att köra om trots att du har möte, förutsatt att du håller dig på din halva av vägen."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"Du ska <b>aldrig</b> bromsa när ett annat fordon kör om eftersom det finns risk att fordonet bakom det omkörande fordonet inte ser att du bromsar",
+		"Du ska <b>aldrig</b> bromsa när ett annat fordon kör om eftersom det finns risk att du bromsar samtidigt som det omkörande fordonet avbryter omkörningsförsöket",
+		"Du ska <b>aldrig</b> bromsa när ett annat fordon kör om p.g.a. båda de ovanstående riskerna",
+		"I vissa situationer <b>ska</b> du bromsa för att hjälpa ett annat fordon att köra om, t.ex. när omkörningen sker på ett farligt ställe"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"trfk3p38"
+	    ],
+	    "explanation": "När du blir omkörd ska du hålla till höger och inte öka farten. Ibland kan du också behöva minska farten eller bromsa för att underlätta omkörningen, t.ex. om den fria sikten är begränsad."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Du kör på en huvudled med väl tilltagen vägren när din mobiltelefon ringer. Du väntar ett viktigt samtal så du kör ut så långt som möjligt på vägrenen och stannar för att besvara samtalet. Är det tillåtet?",
+	    "options": [
+		"Ja, om trafiksituationen tillåter det och det finns tillräckligt med plats vid sidan av vägen så är det tillåtet att stanna en kortare stund på en huvudled för att t.ex. besvara ett samtal",
+		"Nej, det är endast tillåtet att stanna på en huvudled för av- och påstigning eller av- och pålastning",
+		"Nej, det är förbjudet att stanna på en huvudled"
+	    ],
+	    "key": 1,
+	    "explanation": "Det är förbjudet att parkera på en huvudled. Att stanna för annat än av- och påstigning eller av- och pålastning räknas som parkering."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"Samtliga 2+1 vägar är motortrafikleder",
+		"2+1 vägar byggs bl.a. för att underlätta för utryckningsfordon",
+		"2+1 vägar byggs inte längre, eftersom det har visat sig att de inte förbättrar trafiksäkerheten i någon större utsträckning",
+		"Den mötande trafiken på en 2+1 väg är som regel avskild med ett mitträcke"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"2+1 väg"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Var ska du normalt rikta blicken när du kör genom en kurva?",
+	    "options": [
+		"Så långt fram som möjligt",
+		"Längs kanten, relativt nära fordonet"
+	    ],
+	    "key": 0,
+	    "explanation": "När du kör genom en kurva kan det dyka upp saker \"bakom hörnet\". För att hinna vidta åtgärder vid en eventuell fara behöver du rikta blicken långt fram för att upptäcka faran i tid."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Vad betyder det att en kurva är <i>feldoserad</i>?",
+	    "options": [
+		"Den är för smal",
+		"Den är för tvär i förhållande till hastigheten",
+		"Den fria sikten är för kort i förhållande till hastigheten",
+		"Vägen lutar inte på rätt sätt"
+	    ],
+	    "key": 3,
+	    "explanation": "I en tvär kurva måste vägen luta lite inåt för att motverka att fordonet trycks utåt i kurvan. I nya miljöer kan du inte räkna med att kurvan är rätt doserad, därför ska du alltid ha goda säkerhetsmarginaler i kurvor."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Hur ska du normalt köra i en kurva?",
+	    "options": [
+		"Hålla en jämn fart genom kurvan",
+		"Sänka farten före kurvan och öka farten just på väg ut ur kurvan",
+		"Sänka farten just just på väg in i kurvan och öka farten efter kurvan"
+	    ],
+	    "key": 1,
+	    "explanation": "Vid sämre förhållanden (t.ex. grus eller halka) ska du sänka farten före kurvan, hålla en låg, jämn fart genom kurvan och öka farten först efter kurvan."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Hur ska du normalt förhindra att bilen får för hög fart i en lång nedförsbacke?",
+	    "options": [
+		"Bromsa lite hela tiden",
+		"Bromsa lite kraftigare med jämna mellanrum",
+		"Motorbromsa genom att lägga i en lägre växel"
+	    ],
+	    "key": 2,
+	    "explanation": "Det finns en risk att bromsarna överhettas om du kör i kuperad terräng och håller på bromsen hela tiden i de långa nedförsbackarna."
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ungefär hur lång tid tar det tills mörkerseendet fungerar skapligt igen efter att du har blivit bländad?",
+	    "options": [
+		"5 sek",
+		"20 sek",
+		"1 min",
+		"5 min"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Mörkerkörning"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ungefär på vilket avstånd upptäcker du en gående med <b>mörka kläder</b> när du kör i mörker med <b>halvljus</b>?",
+	    "options": [
+		"25 m",
+		"60 m",
+		"125 m",
+		"300 m"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Siktsträckor"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ungefär på vilket avstånd upptäcker du en gående med <b>ljusa kläder</b> när du kör i mörker med <b>halvljus</b>?",
+	    "options": [
+		"25 m",
+		"60 m",
+		"125 m",
+		"300 m"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Siktsträckor"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ungefär på vilket avstånd upptäcker du en gående med <b>reflex</b> när du kör i mörker med <b>halvljus</b>?",
+	    "options": [
+		"25 m",
+		"60 m",
+		"125 m",
+		"300 m"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Siktsträckor"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ungefär på vilket avstånd upptäcker du en gående med <b>mörka kläder</b> när du kör i mörker med <b>helljus</b>?",
+	    "options": [
+		"60 m",
+		"150 m",
+		"300 m",
+		"450 m"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Siktsträckor"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ungefär på vilket avstånd upptäcker du en gående med <b>ljusa kläder</b> när du kör i mörker med <b>helljus</b>?",
+	    "options": [
+		"60 m",
+		"150 m",
+		"300 m",
+		"450 m"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Siktsträckor"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ungefär på vilket avstånd upptäcker du en gående med <b>reflex</b> när du kör i mörker med <b>helljus</b>?",
+	    "options": [
+		"150 m",
+		"300 m",
+		"450 m",
+		"600 m"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Siktsträckor"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Det är mörkt ute och du kör på en smal väg i 90 km/h med halvljuset påslaget. Plötsligt upptäcker du en gående med mörka kläder längs kanten. Ungefär hur lång tid har du på dig att styra undan om det skulle behövas?",
+	    "options": [
+		"1 sek",
+		"2 sek",
+		"3 sek",
+		"4 sek"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Siktsträckor"
+	    ],
+	    "explanation": "Ett enkelt (och tillräckligt exakt) sätt att omvandla km/h till m/s (meter per sekund) är att först dela med 10 och sedan multiplicera med 3. I det här fallet får vi: 90 km/h = (90/10) × 3 = 9 × 3 = 27 m/s. I mörker upptäcks med halvljuset påslaget en gående med mörka kläder på c:a 25 meters avstånd. Alltså har du ungefär en sekund på dig att styra undan."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Blir reflexer sämre med tiden?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 0,
+	    "explanation": "Den normala livslängden för en reflex är c:a tre år. Gamla reflexer kan vara kraftigt försämrade."
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Vid snö är det bra att hålla till höger för att undvika de hala spåren i mitten av vägen.",
+	    "options": [
+		"Sant",
+		"Falskt"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Snö"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ett bra sätt att upptäcka underkylt regn är att vara uppmärksam på om regnet fryser på vindrutan.",
+	    "options": [
+		"Sant",
+		"Falskt"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Regn"
+	    ],
+	    "explanation": "Vindrutan är i regel varmare än vägbanan, vilket gör att regnet inte fryser till is på rutan. En termometer som anger vägbanans temperatur är ett bättre sätt att upptäcka underkylt regn.<br><br>Ett annat tecken på underkylt regn är att vägbanan ser blöt ut samtidigt som det inte hörs ett plaskande ljud från däcken. Det kan betyda att vattnet på vägen är fruset."
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Efter en längre torr period är det extra stor risk att vägbanan blir hal...",
+	    "options": [
+		"... precis när det börjar regna.",
+		"... strax innan det torkar upp efter ett skyfall."
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Regn"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Med vilka bokstäver ska vinterdäck vara märkta?",
+	    "options": [
+		"SR",
+		"WS",
+		"MS",
+		"WR"
+	    ],
+	    "key": 2,
+	    "explanation": "Märkningen förekommer i lite olika former:<br>● MS<br>● M+S<br>● M-S<br>● M.S.<br>● M&S<br>● Mud and Snow"
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Ungefär hur stort ska kultrycket normalt sett vara när du kopplar en släpvagn till bilen?",
+	    "options": [
+		"10-30 kg",
+		"30-100 kg",
+		"100-300 kg",
+		"300-700 kg"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Kultryck"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Vilken typ av bilar får störst problem om en släpvagns kultryck är för högt?",
+	    "options": [
+		"Framhjulsdrivna",
+		"Bakhjulsdrivna",
+		"Fyrhjulsdrivna"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Kultryck"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Får en skolpatrull stoppa trafiken så att barn kan passera?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om de har en orangefärgad kappa"
+	    ],
+	    "key": 1,
+	    "explanation": "Skolpatruller har orangefärgade kappor och finns för att göra dig uppmärksam på barn i trafiken. De har ingen rätt att dirigera om trafiken, men om de t.ex. befinner sig på ett övergångsställe har du naturligtvis väjningsplikt precis som vanligt."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Vad innebär den så kallade Stockholmssvängen?",
+	    "options": [
+		"Att en bil som ska svänga vänster i en cirkulationsplats svänger in i det inre körfältet",
+		"Att en bil som ska svänga vänster i en cirkulationsplats <b>inte</b> svänger in i det inre körfältet",
+		"Att mötande bilar som ska svänga vänster i en korsning passerar varandra i korsningen innan de svänger vänster",
+		"Att mötande bilar som ska svänga vänster i en korsning <b>inte</b> passerar varandra i korsningen innan de svänger vänster"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Stockholmssväng"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Vad gäller när en bil som kör rakt fram närmar sig en cykelöverfart som korsar bilens väg?",
+	    "options": [
+		"Bilen har väjningsplikt mot cyklar vid cykelöverfarten",
+		"Cyklar vid cykelöverfarten har väjningsplikt mot bilen",
+		"Det finns ingen reglerad väjningsplikt, bilar och cyklar ska passera varandra under ömsesidigt hänsynstagande"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Cykelöverfart"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Vad gäller när en bil som kör rakt fram närmar sig en cykelpassage som korsar bilens väg?",
+	    "options": [
+		"Bilen har väjningsplikt mot cyklar vid cykelpassagen",
+		"Cyklar vid cykelpassagen har väjningsplikt mot bilen",
+		"Det finns ingen reglerad väjningsplikt, bilar och cyklar ska passera varandra under ömsesidigt hänsynstagande"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Cykelpassage"
+	    ],
+	    "explanation": "Bilen ska anpassa farten vid cykelpassagen, men det är cyklisterna som har väjningsplikt mot bilen."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Vad gäller när en bil som kör rakt fram närmar sig ett övergångsställe som korsar bilens väg?",
+	    "options": [
+		"Bilen har väjningsplikt mot cyklister vid övergångsstället",
+		"Cyklister vid övergångsstället har väjningsplikt mot bilen",
+		"Det finns ingen reglerad väjningsplikt, bilen och cyklar ska passera varandra under ömsesidigt hänsynstagande"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"Cyklister"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Du befinner dig i körfältet längst till höger på en väg med två markerade körfält i vardera riktningen och hastighetsbegränsning 70 km/h. Får du passera en bil som ligger till vänster om dig, d.v.s köra om till höger?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, men endast om trafiken till vänster om dig står still"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"trfk3p31",
+		"trfk3p7"
+	    ],
+	    "explanation": "Om körbanan har minst två körfält för trafik i samma riktning och hastighetsbegränsningen är max 70 km/h får du välja det körfält som passar bäst för den fortsatta färden samt köra om både på vänster och höger sida. Syftet är att minska antalet körfältsbyten."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Du befinner dig i körfältet längst till höger på en väg med två markerade körfält i vardera riktningen och hastighetsbegränsning 90 km/h. Får du passera en bil som ligger till vänster om dig, d.v.s köra om till höger?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om det är tät kö i båda körfälten i din riktning"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Du kör i stadstrafik med tät kö i alla körfält. Får du passera ett fordon bredvid dig strax före ett obevakat övergångsställe?",
+	    "options": [
+		"Ja, om jag kör tillräckligt långsamt för att omedelbart kunna stanna för gående på övergångsstället",
+		"Nej"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"trfk3p41"
+	    ],
+	    "explanation": "Det är förbjudet att köra om före ett obevakat övergångsställe, men om det är tät kö i alla körfält räknas det inte som omkörning när du passerar en annan bil. Utan detta undantag skulle trafiken flyta ännu sämre vid täta köer."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Hur får du parkera i anslutning till en spårvagnshållplats som saknar markeringar?",
+	    "options": [
+		"Det måste vara minst 1,5 meter i sidled mellan mitt fordon och spårvagnsspåret",
+		"Det måste vara minst 2,5 meter i sidled mellan mitt fordon och spårvagnsspåret",
+		"20 meter före och 5 meter efter hållplatsskylten",
+		"20 meter före och 20 meter efter hållplatsskylten"
+	    ],
+	    "key": 2,
+	    "explanation": "På en markerad hållplats för spårvagn, fordon i linjetrafik eller skolskjuts får andra fordon inte stannas eller parkeras annat än för på- och avstigning som kan ske utan hinder för spårvägs-, linje- eller skolskjutstrafiken. Om det saknas markering som anger en sådan hållplats gäller förbudet inom tjugo meter före och fem meter efter hållplatsmärket."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Får du stanna och släppa av någon vid en trottoarkant med gul heldragen linje?",
+	    "options": [
+		"Ja, om det kan ske utan hinder för övrig trafik",
+		"Nej"
+	    ],
+	    "key": 1
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Hur fort får du köra med en bromsad husvagn?",
+	    "options": [
+		"Max 40 km/h",
+		"Max 60 km/h",
+		"Max 80 km/h",
+		"Max 100 km/h"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Hur påverkas reaktionssträckan om du ökar hastigheten från 40 km/h till 80 km/h?",
+	    "options": [
+		"Den blir dubbelt så lång",
+		"Den blir 3 gånger längre",
+		"Den blir 4 gånger längre",
+		"Den blir 8 gånger längre"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Reaktionssträcka"
+	    ],
+	    "explanation": "Din reaktionstid är lika lång oavsett hastighet. Om du dubblar hastigheten hinner du färdas dubbelt så lång tid under reaktionstiden."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Ungefär hur lång blir bromssträckan om du färdas 100 km/h vid normala förhållanden (bra väglag, väder, bromsar, däck m.m.)?",
+	    "options": [
+		"12 m",
+		"24 m",
+		"40 m",
+		"60 m"
+	    ],
+	    "key": 2,
+	    "wikiNodes": [
+		"Bromssträcka"
+	    ],
+	    "explanation": "(100/10)^2 × 0,4 = 100 × 0,4 = 40 m."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Ungefär hur lång blir stoppsträckan om du färdas 100 km/h vid normala förhållanden (bra väglag, väder, bromsar, däck m.m.) och har en reaktionstid på 1,5 sekunder?",
+	    "options": [
+		"40 m",
+		"55 m",
+		"70 m",
+		"85 m"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Stoppsträcka"
+	    ],
+	    "explanation": "Reaktionssträckan blir c:a (100/10) × 3 × 1,5 = 45 m.<br><br>Bromssträckan blir c:a 100/10)^2 × 0,4 = 40 m.<br><br>Stoppsträckan blir alltså c:a 85 meter."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Hinner en bil som kör i 30 km/h stanna innan föraren i en bil som kör i 50 km/h ens har hunnit börja bromsa (vid normala förhållanden och reaktionstider en sekund)?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Reaktionssträcka",
+		"Bromssträcka",
+		"Stoppsträcka"
+	    ],
+	    "explanation": "Vid 30 km/h är reaktionssträckan c:a (30/10) × 3 × 1 = 9 m. Bromssträckan är c:a (30/10)^2 × 0,4 = 3,6 m. Stoppsträckan är alltså c:a 12-13 meter.<br><br>Vid 50 km/h är reaktionssträckan c:a (50/10) × 3 × 1 = 15 m. Alltså hinner föraren som kör i 30 km/h stanna innan föraren som kör i 50 km/h hinner börja bromsa."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vilka ansvarar bl.a. för drift och underhåll av statliga vägar?",
+	    "options": [
+		"NTF",
+		"STR",
+		"Transportstyrelsen",
+		"Trafikverket"
+	    ],
+	    "key": 3,
+	    "explanation": "Trafikverket är en statlig myndighet som bl.a. ansvarar för planering av transportsystemet, drift och underhåll av statliga vägar samt genomförande av körkortsproven."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Inom vilket område verkar NTF?",
+	    "options": [
+		"Trafikplanering",
+		"Trafikregler",
+		"Trafikskolor",
+		"Trafiksäkerhet"
+	    ],
+	    "key": 3,
+	    "explanation": "NTF står för Nationalföreningen för trafiksäkerhetens främjande. NTF är en fri, självständig och idéburen organisation som arbetar för en säker trafik. Grunden för NTF:s verksamhet är den s.k. <i>Nollvisionen</i>, med målet att ingen ska dö eller skadas allvarligt i vägtrafiken."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Inom vilket område verkar STR?",
+	    "options": [
+		"Trafikplanering",
+		"Trafikregler",
+		"Trafikskolor",
+		"Trafiksäkerhet"
+	    ],
+	    "key": 2,
+	    "explanation": "Sveriges Trafikskolors Riksförbund har drygt 600 trafikskoleföretag som medlemmar, vilket utgör c:a 80 % av landets trafikskolor."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad av följande gör att kraften från motorn överförs på ett mjukt sätt till växellådan?",
+	    "options": [
+		"Differentialen",
+		"Kardanaxeln",
+		"Motorbromsen",
+		"Kopplingen"
+	    ],
+	    "key": 3,
+	    "explanation": "Kopplingen monteras mellan motorn och växellådan i manuellt växlade bilar. Helt uppsläppt kopplingspedal innebär direkt drivning mellan motor och växellåda. När kopplingspedalen trampas ned minskar kopplingen mellan motor och växellåda gradvis och när pedalen är fullt nedtrampad är motorn i princip helt frikopplad från växellådan."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vilka bilar har en kardanaxel?",
+	    "options": [
+		"Framhjulsdrivna",
+		"Fram- och bakhjulsdrivna",
+		"Bak- och fyrhjulsdrivna"
+	    ],
+	    "key": 2,
+	    "explanation": "Axeln som överför kraften från motorn till den drivande bakaxeln kallas för kardanaxel. Begreppet gäller alltså bl.a. bilar med bakhjulsdrift eller fyrhjulsdrift."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilken utrustning är obligatorisk i bilen?",
+	    "options": [
+		"Varningstriangel",
+		"Bogserlina",
+		"Reservdäck",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 0
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "För att kontrollera bromsarna trycker du hårt på bromsen i c:a 20 sekunder när bilen står stilla. Är det något fel på bromsarna om pedalen sjunker långsamt?",
+	    "options": [
+		"Nej, det är normalt",
+		"Ja, det är troligen en läcka i bromssystemet",
+		"Ja, bromsarna är troligen slitna",
+		"Ja, det är troligen luft i bromssystemet"
+	    ],
+	    "key": 1
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "För att kontrollera bromsarna trycker du hårt på bromsen i c:a 20 sekunder när bilen står stilla. Är det något fel på bromsarna om pedalen känns fjädrande?",
+	    "options": [
+		"Nej, det är normalt",
+		"Ja, det är troligen en läcka i bromssystemet",
+		"Ja, bromsarna är troligen slitna",
+		"Ja, det är troligen luft i bromssystemet"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "För att kontrollera bromsarna trycker du hårt på bromsen i c:a 20 sekunder när bilen står stilla. Är det något fel på bromsarna om pedalen stannar stumt strax innan botten?",
+	    "options": [
+		"Nej, det är normalt",
+		"Ja, det är troligen en läcka i bromssystemet",
+		"Ja, bromsarna är troligen slitna",
+		"Ja, det är troligen luft i bromssystemet"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du kör på en jämn och rak väg när du märker att bilen drar åt vänster. Vad kan det bero på?",
+	    "options": [
+		"Vänster framdäck är slitet eller innehåller för lite luft",
+		"Höger framdäck är slitet eller innehåller för lite luft",
+		"Felaktig framhjulsinställning eller för lite luft i vänster framdäck",
+		"Felaktig framhjulsinställning eller för lite luft i höger framdäck"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är ESP?",
+	    "options": [
+		"Ett europeiskt organ som arbetar för förbättrad trafiksäkerhet",
+		"Ett antisladdsystem",
+		"Bilens elektriska system (belysning, tändsystem, display, m.m.)",
+		"En EU-standard gällande trafikförsäkringar"
+	    ],
+	    "key": 1,
+	    "explanation": "ESP (Electronic Stability Programme) bidrar till fordonets stabilitet och väghållning genom att bl.a. hjälpa till att undvika och häva en sladd. ESP styrs av en dator som får information från t.ex. ABS-bromsarna och sensorer i styrningen. Utifrån detta kan datorn avgöra om bilen håller på att få sladd och bromsar då ett eller flera hjul och minskar eventuellt gaspådraget så att bilen återfår rätt kurs.<br><br>På svenska säger man vanligen elektronisk stabilitetskontroll, antisladdsystem eller antispinnsystem. Antisladdsystem kan ha många andra beteckningar, t.ex. DSC (BMW och Mazda) eller VSC (Toyota och Lexus)."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Behöver du någonsin byta ut däcken även om de ser fina ut och har bra mönsterdjup?",
+	    "options": [
+		"Ja, efter 3-4 år",
+		"Ja, efter c:a 10 år",
+		"Nej, så länge spårdjupet är inom tillåtna gränser behöver däcken i allmänhet inte bytas ut"
+	    ],
+	    "key": 1,
+	    "explanation": "Däck (även reservdäck) är en färskvara som efter c:a 10 år bör bytas även om mönsterdjupet är acceptabelt. Gummit försämras med åren, vilket ger sämre väggrepp och säkerhetsegenskaper."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Slits däcken mer om de för det mesta körs i höga hastigheter?",
+	    "options": [
+		"Nej, snarare tvärtom. Gummit i däcken mår bra av hög fart",
+		"Nej, hastigheten har ingen nämnvärd inverkan på hur mycket däcken slits",
+		"Ja, däcken slits betydligt mer i höga farter"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Påverkas bromssträckan av att du använder dubbdäck när vägen är snö- och isfri?",
+	    "options": [
+		"Nej",
+		"Ja, den blir kortare",
+		"Ja, den blir längre"
+	    ],
+	    "key": 2,
+	    "explanation": "Att använda dubbdäck vid sommarväglag sliter på vägarna och ger sämre bromssträcka än med sommardäck. Det leder också till att det uppstår mer inandningsbara partiklar, vilket ger upphov till betydande hälsoeffekter som exempelvis luftvägsbesvär."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilket vägmärke har inte ett slutmärke?",
+	    "options": [
+		"Förbud mot omkörning",
+		"Motortrafikled",
+		"Tättbebyggt område",
+		"Begränsad bruttovikt på fordon"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"E3",
+		"E5",
+		"C20",
+		"C27"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilket vägmärke har inte ett slutmärke?",
+	    "options": [
+		"Huvudled",
+		"Varning för djur",
+		"Vändplats",
+		"Gångfartsområde"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"B4",
+		"A19",
+		"C42",
+		"E9"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "När får du köra med enbart parkeringsljuset tänt?",
+	    "options": [
+		"Aldrig",
+		"I dagsljus",
+		"I dagsljus, samt när det är mörkt och vägen är ordentligt belyst",
+		"Alltid"
+	    ],
+	    "key": 0,
+	    "explanation": "Däremot är det tillåtet att använda parkeringsljuset i kombination med halvljuset."
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "När får du köra med enbart dimljuset tänt?",
+	    "options": [
+		"Aldrig",
+		"Endast om det är dimma eller kraftig nederbörd",
+		"Alltid i dagsljus, samt i mörker om det är dimma eller kraftig nederbörd",
+		"Alltid"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad betyder en gul streckad markering längs trottoarkanten?",
+	    "options": [
+		"Förbud mot att stanna",
+		"Förbud mot att parkera"
+	    ],
+	    "key": 1,
+	    "wikiNodes": [
+		"M22"
+	    ],
+	    "explanation": "Om linjen är heldragen är det förbjudet att stanna."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Får mopeder och LGF-fordon färdas på vägrenen om linjen mellan vägrenen och körbanan är heldragen?",
+	    "options": [
+		"Nej",
+		"Ja, mopeder men inte LGF-fordon",
+		"Ja, LGF-fordon men inte mopeder",
+		"Ja"
+	    ],
+	    "key": 3,
+	    "wikiNodes": [
+		"Vägren"
+	    ],
+	    "explanation": "Heldragen kantlinje förekommer oftast på motorvägar och 2+1 vägar. Om linjen är heldragen får du inte använda vägrenen för att underlätta omkörningar.<br><br>En heldragen kantlinje är ofta räfflad. Det förbättrar ljusreflektionen om vägbanan är våt och ger dessutom en hörbar varning när man kör över linjen. Ljudet uppmärksammar föraren på att linjen är på väg att överskridas. Det kan rädda livet på en förare som är på väg att somna bakom ratten!"
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Är det tillåtet att använda reservhjulet om det är ett sommardäck och övriga däck är dubbade?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 0,
+	    "explanation": "Tänk dock på att köregenskaperna försämras. Reservhjulet ska endast användas tills det trasiga dubbdäcket är lagat."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Kan det vara bra att ha ett högre däcktryck än det som står i instruktionsboken?",
+	    "options": [
+		"Nej, köregenskaperna blir förmodligen sämre och däcket slits mer",
+		"Nej, köregenskaperna blir förmodligen sämre och det är lättare att få punktering",
+		"Nej, däcket riskerar att sprängas om det pumpas hårdare än rekommendationen",
+		"Ja, det kan minska bränsleförbrukningen och göra att däcket håller längre"
+	    ],
+	    "key": 3,
+	    "explanation": "Man brukar rekommendera att ha c:a 10-15 % högre tryck än det som står i instruktionsboken. Man bör också öka trycket något om man har mycket last och/eller flera passagerare.<br><br>Det är dock inte bra att ha alltför högt däcktryck eftersom det försämrar köregenskaperna och gör att däcket slits mer."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad styr hur stor fordonsskatten blir för majoriteten av personbilarna?",
+	    "options": [
+		"Inköpspriset",
+		"Tjänstevikten",
+		"Partikelutsläppen",
+		"Koldioxidutsläppen"
+	    ],
+	    "key": 3,
+	    "explanation": "Personbilar som är av fordonsår 2006 eller senare samt personbilar som uppfyller kraven för miljöklass 2005, miljöklass el och miljöklass hybrid beskattas utifrån hur mycket koldioxid de släpper ut.<br><br>För personbilar som inte ingår i någon av dessa två grupper beräknas skatten i stället utifrån tjänstevikten."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Är det tillåtet att blanda odubbade och dubbade vinterdäck?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 1
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vilken är den högsta tillåtna hastigheten för traktorer?",
+	    "options": [
+		"30 km/h",
+		"40 km/h",
+		"50 km/h",
+		"55 km/h"
+	    ],
+	    "key": 1,
+	    "explanation": "Vissa traktorer får endast köra i 30 km/h"
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vilken är den högsta tillåtna hastigheten för EU-mopeder?",
+	    "options": [
+		"25 km/h",
+		"30 km/h",
+		"40 km/h",
+		"45 km/h"
+	    ],
+	    "key": 3
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vilken är den högsta tillåtna hastigheten för tung lastbil på motorväg?",
+	    "options": [
+		"80 km/h",
+		"90 km/h",
+		"100 km/h",
+		"110 km/h"
+	    ],
+	    "key": 1,
+	    "explanation": "Detsamma gäller motortrafikleder. På övriga vägar får tunga lastbilar köra max 80 km/h."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vilken är den högsta tillåtna hastigheten för tung buss?",
+	    "options": [
+		"80 km/h",
+		"90 km/h",
+		"100 km/h",
+		"110 km/h"
+	    ],
+	    "key": 2,
+	    "explanation": "Om bussen har bälten är den högsta tillåtna hastigheten 100 km/h. Om bussen saknar bälten är den högsta tillåtna hastigheten 90 km/h."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vilka får köra fortast?",
+	    "options": [
+		"Motorredskap klass I",
+		"Motorredskap klass II",
+		"Mopeder klass I",
+		"Traktorer"
+	    ],
+	    "key": 0,
+	    "explanation": "I allmänhet gäller dessa maxhastigheter:<br>● Motorredskap klass I: 50 km/h<br>● Motorredskap klass II: 30 km/h<br>● Mopeder klass I: 45 km/h<br>● Traktorer: 40 km/h"
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får en tung buss som saknar bilbälten köra fortare än en tung lastbil på en motortrafikled?",
+	    "options": [
+		"Ja",
+		"Nej, den tunga lastbilen får köra fortare",
+		"Nej, båda får köra max 90 km/h"
+	    ],
+	    "key": 2,
+	    "explanation": "<br>● Tung buss som saknar bälten får köra max 90 km/h på alla vägar.<br>● Tung buss med bälten får köra max 100 km/h på alla vägar.<br>● Tung lastbil får köra max 90 km/h på motorvägar och motortrafikleder.<br>● Tung lastbil får köra max 80 km/h på övriga vägar."
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Om du märker att din framhjulsdrivna bil har dålig dragförmåga när du kopplar till ett släp är kultrycket troligen...",
+	    "options": [
+		"... för högt.",
+		"... för lågt."
+	    ],
+	    "key": 0,
+	    "wikiNodes": [
+		"Kultryck"
+	    ],
+	    "explanation": "Försök att omfördela lasten så att släpet inte är så framtungt."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Ungefär hur mycket mer bränsle per mil förbrukar du om du kör i 110 km/h istället för 90 km/h?",
+	    "options": [
+		"5 %",
+		"10 %",
+		"20 %"
+	    ],
+	    "key": 2
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vad gör du om du kommer till ett stoppmärke där det också finns en trafiksignal som visar grönt?",
+	    "options": [
+		"Kör vidare eftersom det är grönt",
+		"Stannar enligt stopplikten"
+	    ],
+	    "key": 0,
+	    "explanation": "Ibland möter du motsägelsefulla anvisningar i trafiken. Då gäller följande rangordning (viktigast först):<br>1. Polismans tecken<br>2. Trafiksignaler<br>3. Vägmärken<br>4. Trafikregler (t.ex. högerregeln)<br><br>Stopplikten gäller alltså bara när trafiksignalen är avstängd eller blinkar gult."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Är det tillåtet att rida på en gång- eller cykelbana?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om hästens mankhöjd är högst 148 cm"
+	    ],
+	    "key": 1
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vad är sant om hästar i trafiken?",
+	    "options": [
+		"De är känsliga och kan lätt bli skrämda utan uppenbar anledning",
+		"Häst och ryttare måste genomgå en särskild utbildning för att få vistas i trafiken",
+		"De räknas som gående i trafiken och behöver därmed inte följa andra trafikregler än de som gäller för gående"
+	    ],
+	    "key": 0,
+	    "explanation": "Att gå, rida eller cykla anses ingå i allemansrätten. Ridning och körning med häst är således tillåten på de flesta vägar och i terrängen. Hästar är dock känsliga djur som plötsligt kan bli skrämda och reagera på ett oförutsägbart sätt. Därför måste du som bilist sänka farten och visa stor hänsyn när du stöter på hästar i trafiken.<br><br>Om man leder hästen eller rider, gäller bestämmelserna om fordon i tillämpliga delar. T.ex. gäller bestämmelserna om stopp- och väjningsplikt."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "De flesta viltolyckorna sker på...",
+	    "options": [
+		"... vintern (jan-feb).",
+		"... våren (apr-maj).",
+		"... sommaren (jul-aug).",
+		"... hösten (okt-nov)."
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "A19.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Viltolyckor"
+	    ],
+	    "explanation": "På hösten inträffar brunstperioden och det är samtidigt jaktperiod. Olycksrisken är fortsatt förhöjd i dec-jan, bland annat för att djuren tycker om vägsalt och har lättare att gå längs vägarna när det är snö. Även i maj-juni är risken för viltolyckor förhöjd."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilken tid på dygnet är risken att vilt passerar vägen förhöjd?",
+	    "options": [
+		"Förmiddagen",
+		"Eftermiddagen",
+		"Gryning och skymning",
+		"Det finns ingen särskild tid på dygnet då risken är förhöjd"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "A19.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Viltolyckor"
+	    ],
+	    "explanation": "Viltolyckor sker dygnet runt, men risken är förhöjd i gryning och skymning eftersom djuren letar vatten och mat vid dessa tidpunkter."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vid vilket av dessa områden är risken för viltolyckor inte förhöjd?",
+	    "options": [
+		"Skogsområden med vatten vid ena sidan av vägen",
+		"Kalhyggen",
+		"Där viltstängsel börjar och slutar",
+		"Risken för viltolyckor är förhöjd vid samtliga ovanstående områden"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "A19.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Viltolyckor"
+	    ],
+	    "explanation": "Anledningen till att risken är förhöjd vid kalhyggen är att det ofta finns mycket föda där."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Hur många viltolyckor inträffade åren 2012-2014?",
+	    "options": [
+		"17 000 per år",
+		"27 000 per år",
+		"37 000 per år",
+		"47 000 per år"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "A19.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Viltolyckor"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vilket djur är oftast inblandat i viltolyckorna?",
+	    "options": [
+		"Älg",
+		"Hjort",
+		"Rådjur",
+		"Vildsvin"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "A19.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Viltolyckor"
+	    ],
+	    "explanation": "Rådjuren står för c:a 75 % av alla viltolyckor. De allvarligaste olyckorna står dock älgarna för. Antalet viltolyckor med dödlig utgång är relativt få (omkring 5 per år), men de sker oftast vid kollisioner med älgar."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Du har precis kört på ett rådjur och klarat dig oskadd. Du kontaktar polisen, men vad gör du med det döda rådjuret som ligger kvar på vägen?",
+	    "options": [
+		"Jag inväntar polisen, så att de kan flytta djuret från vägbanan",
+		"Jag flyttar djuret själv"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "A19b.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Om du har kört på ett större vilt (älg, hjort, rådjur, vildsvin, björn, varg, järv, lo, utter, örn eller mufflonfår) ska du märka ut platsen och kontakta polisen oavsett om djuret skadats eller ej. Du ska också alltid märka ut platsen och kontakta polisen om du har kört på ett djur som har skadats. Om ett dött djur utgör en fara för andra trafikanter ska du försöka flytta det."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vad gäller när man passerar ett vägarbete?",
+	    "options": [
+		"Hastighetsbegränsningen är 30 km/h",
+		"Hastighetsbegränsningen är 50 km/h",
+		"Om inget särskilt anges ska man köra igenom vägarbetet med oförändrad hastighet",
+		"Om inget särskilt anges ska man anpassa hastigheten efter trafiksituationen"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "A20.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Varning för höga ljud",
+		"Varning för sidvind",
+		"Varning för vägbom",
+		"Varning för bländande ljus"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "A24.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Att körbanan övergår till ett reversibelt körfält",
+		"Att körbanan har stora nivåskillnader",
+		"Att körbanan övergår från enkelriktad trafik till trafik i båda riktningarna"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "A25.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Varning för hindrande föremål",
+		"Varning för störning av sådan art som inte kan anges med något annat varningsmärke",
+		"Varning för vägkorsning",
+		"Allmän varning. Varningens art anges på en tilläggstavla"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "A28.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Högerregeln"
+	    ],
+	    "explanation": "Vägmärket <i>Varning för vägkorsning</i> finns vid särskilt riskfyllda korsningar, exempelvis där sikten inte är fri. I dessa korsningar gäller alltid högerregeln."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Hur nära en vägkorsning får man parkera?",
+	    "options": [
+		"10 meter före och direkt efter",
+		"10 meter före och 10 meter efter",
+		"30 meter före och 10 meter efter",
+		"30 meter efter och 30 meter efter"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "A28.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p53"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får du stanna för att släppa av någon direkt efter en vägkorsning?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om fordonen på den korsande vägen har väjningsplikt"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "A28.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p53"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Varning för kö",
+		"Varning för högtrafikerad led",
+		"Varning för parkerade fordon",
+		"Märket finns inte"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "A34.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Varning för militärt område",
+		"Varning för vägspärr",
+		"Varning för järnvägskorsning med bommar"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "A35.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger en korsning med järnväg eller spårväg där det finns bommar."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Hur långt ifrån en plankorsning är det tillåtet att parkera?",
+	    "options": [
+		"10 meter före och 10 meter efter",
+		"30 meter före och 10 meter efter",
+		"30 meter före och 30 meter efter",
+		"50 meter före och 30 meter efter"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "A39.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p55"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Varning för enfilig väg",
+		"Varning för smal väg",
+		"Varning för reversibelt körfält",
+		"Varning för annan fara"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "A40.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger annan fara än sådan som kan anges med något annat varningsmärke. Farans art anges på en tilläggstavla."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Att huvudled upphör",
+		"Att vägen eller banan smalnar av",
+		"Att motorled upphör",
+		"Att två körfält eller vägbanor övergår i en"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "A5.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Varning för ojämn väg",
+		"Varning för farthinder"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "A8.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger sådana ojämnheter eller skador i vägbanan som medför att det är lämpligt att färdas med lägre hastighet än som annars skulle varit fallet."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Varning för ojämn väg",
+		"Varning för farthinder"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "A9.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger upphöjning eller grop (i detta fall är symbolen en urgröpning) som anlagts som fartdämpande åtgärd."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Du närmar dig en korsning med följande vägmärke och ska svänga till höger. Du ser först åt vänster och konstaterar att inga fordon närmar sig korsningen från vänster. Du ser sedan åt höger och konstaterar att en rad fordon närmar sig korsningen från höger. Du saktar farten något och svänger sedan höger i korsningen eftersom inga fordon närmar sig från vänster. Har du agerat korrekt?",
+	    "options": [
+		"Nej, du skulle inte ha svängt ut på vägen",
+		"Nej, du skulle ha sett åt vänster en gång till innan du svängde ut på vägen",
+		"Ja, eftersom du har konstaterat att det högra körfältet på den korsande vägen är fritt"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "B1.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Vid vägmärket <i>Väjningsplikt</i> är du skyldig att lämna företräde åt ALLA fordon på den korsande vägen, oavsett om de kommer från höger eller vänster. Det finns en risk att någon av bilarna i raden till höger påbörjar en omkörning, vilket innebär att ni hamnar på kollisionskurs om du svänger ut på vägen."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får man göra en U-sväng på en huvudled?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "B4.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "U-sväng är ett enkelt och i många fall bra sätt att vända på. I vissa situationer ska det dock undvikas, t.ex. om det stör övrig trafik, om sikten är skymd eller om vägen är för smal för att det ska gå utan att backa."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Väjningsplikt mot mötande trafik",
+		"Vägen upphör i färdriktningen",
+		"Omkörningsförbud i färdriktningen",
+		"Varning för mötande trafik"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "B6.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Hur kan man se skillnad på en cykelpassage och en cykelöverfart?",
+	    "options": [
+		"Det kan man inte eftersom det inte finns någon entydighet kring hur cykelpassager och cykelöverfarter ska vara märkta",
+		"En cykelpassage anges alltid med vägmärket på bilden, det gör aldrig en cykelöverfart",
+		"En cykelöverfart anges alltid med vägmärket på bilden, det gör aldrig en cykelpassage"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "B8.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Cykelpassage",
+		"Cykelöverfart"
+	    ],
+	    "explanation": "Däremot kan det vara svårt att känna igen cykelbanor, eftersom de inte är entydigt utformade och kan sakna vägmärken."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Hur ska du parkera på en enkelriktad väg?",
+	    "options": [
+		"På vänstra sidan i färdriktningen",
+		"På högra sidan i färdriktningen",
+		"Det är tillåtet att parkera på båda sidorna"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "C1.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p52"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilka mopeder får köra på en väg med detta vägmärke?",
+	    "options": [
+		"Endast klass I",
+		"Endast klass II",
+		"Klass I och klass II",
+		"Inga mopeder får köra på en sådan väg"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "C10.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Avser förbudet även trafik med moped klass I anges det på en tilläggstavla."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilka mopeder avser förbudet?",
+	    "options": [
+		"Klass I",
+		"Klass II",
+		"Klass I och klass II"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "C11.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Avser förbudet även trafik med moped klass I anges det på en tilläggstavla."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Får man leda ett riddjur på en väg med detta vägmärke?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "C14.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Vägmärke anger <i>Förbud mot ridning</i>. Avser förbudet även ledande av riddjur anges det på en tilläggstavla."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är den fria fordonshöjden på allmän väg?",
+	    "options": [
+		"4,5 meter",
+		"5,5 meter",
+		"6,5 meter",
+		"7,5 meter"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "C17.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Om höjden under en vägport, bro eller liknande är lägre än 4,5 meter används märket <i>Begränsad fordonshöjd</i>. I övriga EU-länder är den fria höjden 4 meter."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Stoppförbud",
+		"Förbud mot att använda fordonets helljus",
+		"Förbud mot trafik med fordon",
+		"Förbud av sådan art som inte kan anges med något annat förbudsmärke. Förbudets art anges på en tilläggstavla"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "C2.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Högsta tillåtna bruttovikt",
+		"Högsta tillåtna tjänstevikt",
+		"Högsta tillåtna totalvikt"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "C20.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Bruttovikt"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad är bruttovikten för en personbil?",
+	    "options": [
+		"Tjänstevikten + Maximilasten",
+		"Den för tillfället sammanlagda vikten",
+		"Den sammanlagda vikten av fordonet i normalt, fullt driftfärdigt skick, verktyg och reservhjul, bränsle, smörjolja, vatten samt föraren"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "C20.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Bruttovikt"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är <i>bärighetsklass</i>?",
+	    "options": [
+		"En viktklassificering av lastbilar",
+		"En viktklassificering av lastbilars last",
+		"En viktklassificering av efterfordon",
+		"En viktklassificering av vägar"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "C22.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Bärighetsklass (BK) är en klassificering som graderar vägar och broars bärighet, d.v.s hur tunga fordon de får belastas med.<br>● BK1: Max 60 tons bruttovikt<br>● BK2: Max 51,4 tons bruttovikt. Beroende på axelavstånd och axeltryck kan tillåten bruttovikt vara lägre<br>● BK3: Max 37,5 tons bruttovikt. Beroende på axelavstånd och axeltryck kan tillåten bruttovikt vara lägre."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilken typ av trafik är förbjuden?",
+	    "options": [
+		"All motordriven trafik",
+		"All motordriven trafik utom moped klass II",
+		"All motordriven trafik utom tung lastbil",
+		"All motordriven trafik utom långsamtgående fordon"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "C3.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Förbud mot att parkera",
+		"Förbud mot att stanna",
+		"Förbud mot att parkera längre än en timme",
+		"Förbud mot att stanna längre än fem minuter"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "C35.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger förbud mot att parkera fordon. Angivelsen gäller på den sida av vägen där märket är uppsatt. Om angivelsen endast gäller för ett visst fordonsslag eller en viss trafikantgrupp anges det på en tilläggstavla."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Förbud mot att parkera fordon i färdriktningen",
+		"Förbud mot att parkera fordon på dag med udda datum",
+		"Förbud mot att parkera fordon längs trottoarkanten",
+		"Förbud mot att parkera obehöriga fordon"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "C36.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Förbud mot trafik med motordrivet fordon",
+		"Förbud mot trafik med motordrivet fordon med fler än två hjul",
+		"Förbud mot trafik med annat motordrivet fordon än godstrafik",
+		"Förbud mot trafik med annat motordrivet fordon än moped klass II"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "C4.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Får moped klass I köra på en väg med detta vägmärke?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "C5.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Moped klass I"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilka fordon är förbjudna på en väg med detta vägmärke?",
+	    "options": [
+		"Traktorer och motorredskap klass I",
+		"Traktorer och motorredskap klass II",
+		"Traktorer och motorredskap klass I och klass II",
+		"Traktorer, motorredskap klass I och klass II samt terrängfordon"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "C8.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Förbud mot trafik med fordon lastat med farligt gods",
+		"Förbud mot trafik med fordon för avfallshantering",
+		"Förbud mot trafik med tungt fordon",
+		"Förbud mot trafik med militärt fordon"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "C9.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger förbud mot trafik med fordon med sådan last som omfattas av krav på märkning med orangefärgad skylt."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Får cykel och moped klass II färdas i ett körfält med detta vägmärke?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, mellan klockan 18-08",
+		"Ja, om körfältet ligger till höger i färdriktningen"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "D10.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger att det endast är tillåtet att köra fordon i linjetrafik samt, om körfältet eller körbanan är beläget till höger i färdriktningen, cykel och moped klass II."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Motorväg",
+		"Motortrafikled",
+		"Viadukt över motorväg",
+		"Viadukt över motortrafikled"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "E1.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Motorväg"
+	    ],
+	    "explanation": "En motorväg måste alltid vara utmärkt med vägmärket ovan."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Du närmar dig en korsning och ser följande vägmärke. Vad gäller i korsningen?",
+	    "options": [
+		"Högerregeln",
+		"Utfartsregeln",
+		"Stopplikt"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "E10.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Utfartsregeln"
+	    ],
+	    "explanation": "Vägmärket anger att gångfartsområde upphör. När du kör in på en väg från ett gångfartsområde gäller utfartsregeln."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Motorväg",
+		"Motortrafikled",
+		"Endast personbilstrafik",
+		"Mötande fordon"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "E3.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "En motortrafikled måste alltid vara utmärkt med vägmärket ovan och saknar (i Sverige) korsningar i samma plan, d.v.s. korsande vägar går antingen under eller över motortrafikleden. Långsamtgående motorfordon får inte färdas på en motortrafikled."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vilka mopeder får köra på en väg med detta vägmärke?",
+	    "options": [
+		"Endast klass I",
+		"Endast klass II",
+		"Klass I och klass II",
+		"Inga mopeder får köra på en sådan väg"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "E3.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad är bashastigheten inom ett område med detta vägmärke?",
+	    "options": [
+		"30 km/h",
+		"40 km/h",
+		"50 km/h",
+		"70 km/h"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "E5.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Bashastighet"
+	    ],
+	    "explanation": "Märket anger ett <i>tättbebyggt område</i> där den generella hastighetsbegränsningen (bashastigheten) är 50 km/h. Om det är motiverat av hänsyn till trafiksäkerheten, framkomligheten eller miljön får kommunen meddela föreskrifter om att den högsta tillåtna hastigheten inom ett tättbebyggt område eller del av ett sådant område ska vara 30 eller 40 kilometer i timmen."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Trafikplats",
+		"Militärt område",
+		"Lokal slinga",
+		"Räddningsplats"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "F30.png",
+		    "size": "small",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger ringväg eller motsvarande. Märket kan vara kompletterat med beteckning eller motsvarande. Avvikelse från färg får inte ske."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Trafikplats",
+		"Sevärdhet",
+		"Turistväg",
+		"Världsarv"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "H22.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger en sevärdhet av nationellt intresse. Sevärdhetens art anges i anslutning till märket."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad är sant om CNG (Compressed Natural Gas)?",
+	    "options": [
+		"Den består huvudsakligen av metangas",
+		"Den får inte ha fossilt ursprung",
+		"Den ger lika höga koldioxidutsläpp som bensin",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "H4.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "CNG består huvudsakligen av metangas. Det kan antingen vara naturgas (fossilt ursprung), biogas (från nedbrytning av organiskt material) eller en blandning av naturgas och biogas. CNG ger lägre koldioxidutsläpp än bensin."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Trafikplats",
+		"Sevärdhet",
+		"Turistväg",
+		"Världsarv"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "I1.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Märket anger en väg eller vägsträckning av turistiskt intresse. Märket kan vara infogat i ett lokaliseringsmärke för vägvisning."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Du kör i stadstrafik och kommer till en korsning där du har tänkt att svänga höger. I korsningen står en polisman vänd mot dig och håller ut handen som på bilden. Vad gör du?",
+	    "options": [
+		"Svänger vänster i korsningen och fortsätter färden",
+		"Svänger vänster i korsningen och stannar för att invänta polismannen",
+		"Svänger höger eftersom tecknet inte gäller mig",
+		"Stannar"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "P1.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"P1"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "En polisbil bakom dig blinkar växelvis blått och rött. Vad gör du?",
+	    "options": [
+		"Stannar vid vägkanten",
+		"Sänker hastigheten",
+		"Kör vidare med oförändrad hastighet, men håller mig till högerkanten för att släppa fram polisbilen"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "P11.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"P11"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Du kör i mörker när du möter en polisbil vars förare viftar en vit lykta upp och ned som på bilden. Vad gör du?",
+	    "options": [
+		"Stannar vid vägkanten",
+		"Sänker hastigheten",
+		"Kör vidare med oförändrad hastighet, eftersom tecknet inte gäller mig"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "P9.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"P9"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får man köra förbi en gul trafiksignal?",
+	    "options": [
+		"Nej, det är detsamma som att köra mot rött",
+		"Nej, det är otillåtet, men saknar straffvärde",
+		"Ja, om man inte hinner stanna på ett säkert sätt",
+		"Ja, om man hinner förbi stopp-linjen, eller om sådan saknas, trafiksignalen innan det slår om till rött"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "SIG4.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Vid gul trafiksignal får fordon inte passera stopp-linjen eller, om sådan saknas, signalen i annat fall än då det hunnit så långt fram när signalbilden växlar från grön till gul att det inte kan stannas utan fara."
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad är vanligt förekommande vid detta vägmärke?",
+	    "options": [
+		"Höga ljud",
+		"Starkt ljus",
+		"Personer med nedsatt syn",
+		"Personer med nedsatt hörsel"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "T10.png",
+		    "size": "small",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "När gäller de röda siffrorna på tilläggstavlan?",
+	    "options": [
+		"Dag före helgdag och helgdag",
+		"Söndagar och helgdagar",
+		"Lördagar och söndagar",
+		"Storhelger"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "T6.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"T6"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad är vanligt förekommande vid detta vägmärke?",
+	    "options": [
+		"Höga ljud",
+		"Starkt ljus",
+		"Personer med nedsatt syn",
+		"Personer med nedsatt hörsel"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "T9.png",
+		    "size": "small",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad anger vägmärket?",
+	    "options": [
+		"Varning för fartkamera",
+		"Varning för turistområde",
+		"Varning för bländande ljus",
+		"Märket finns inte"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "fake1.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vilken är den högsta tillåtna hastigheten för fordon med följande skylt?",
+	    "options": [
+		"30 km/h",
+		"40 km/h",
+		"45 km/h",
+		"55 km/h"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "lgf.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Långsamtgående fordon"
+	    ],
+	    "explanation": "Fordon med LGF-skylt är konstruerade för en högsta hastighet på 30, 40 eller 45 km/h. Den högsta tillåtna hastigheten som fordon med LGF-skylt får köra är alltså 45 km/h."
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Vid 100 km/h och bra väglag är 100 meter ett lämpligt avstånd till fordonet framför, enligt tumregeln att byta ut km/h mot meter.",
+	    "options": [
+		"Sant",
+		"Falskt, 50 meter är lämpligt enligt tumregeln att byta ut km/h mot meter och dela med 2",
+		"Falskt, 200 meter är lämpligt enligt tumregeln att byta ut km/h mot meter och multiplicera med 2"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic1.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Vid sämre förhållanden behöver avståndet vara större. Du kan använda dig av kantreflexstolparna (50 meters mellanrum) för att bedöma avstånden.<br><br>Många förare håller dock inte säkra avstånd på vägarna. Om du upplever att fordonet bakom dig ligger alldeles för nära är det viktigt att ha ett säkert avstånd till fordonet framför så att du kan bromsa mjukt om något skulle inträffa."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Varför är det bra att använda motorvärmare?",
+	    "options": [
+		"Bränsleförbrukningen minskar",
+		"Katalysatorn fungerar bättre vid start",
+		"Motorn blir mindre sliten",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic11.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Motorvärmare"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Du vaknar en höstmorgon och temperaturen i luften är 5 plusgrader. Du går ut och sätter på motorvärmaren före frukosten. Trekvart senare tar du bilen till jobbet. Har du använt motorvärmaren på rätt sätt?",
+	    "options": [
+		"Ja",
+		"Nej, motorvärmaren behövs inte vid temperaturer över noll grader",
+		"Nej, vid fem plusgrader behöver motorvärmaren vara påslagen c:a 1,5 timme"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic12.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Motorvärmare"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad stämmer bäst?",
+	    "options": [
+		"Vår fantasi är ett stort problem i trafiken, eftersom vi har en tendens att hitta på kreativa lösningar som bryter mot trafikreglerna",
+		"Vår fantasi är en viktig tillgång i trafiken, eftersom den hjälper oss att förutse risker"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic14.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Kunskap, erfarenhet och fantasi behövs för att förutse och bedöma olika skeenden i trafiken."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad kallas det att hjärnan sållar bort information och väljer ut det som är viktigt?",
+	    "options": [
+		"Urvalsprincipen",
+		"Essentiell perception",
+		"Selektiv varseblivning"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic14.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Selektiv varseblivning är oftast en omedveten process, men det är i hög grad våra erfarenheter och kunskaper som ligger till grund för vad som väljs ut. T.ex. lägger oerfarna förare oftare märke till stillastående objekt medan erfarna förare vänder uppmärksamheten mot saker som rör sig."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Presterar du alltid sämre när du är stressad?",
+	    "options": [
+		"Ja",
+		"Nej"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic20.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Stress"
+	    ],
+	    "explanation": "Måttlig stress kan vara bra, eftersom det gör att vi skärper våra sinnen. Man talar då om <i>positiv stress</i>."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Var är det troligast att erfarna bilförare riktar blicken?",
+	    "options": [
+		"Relativt långt framför fordonet",
+		"Relativt nära fordonet"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic21.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Erfarna förare"
+	    ],
+	    "explanation": "Erfarna förare riktar blicken relativt långt framför fordonet och söker i större utsträckning av omgivningen med periferiseendet.<br><br>Oerfarna förare tenderar att hålla blicken fäst nära fordonet och söka av omgivningen med direktseendet.<br><br>Det är bra att öva på att försöka lyfta blicken för att kunna förutse och planera inför krävande situationer längre fram."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vilken typ av situationer har förare i sjuttiofemårsåldern ofta svårt för?",
+	    "options": [
+		"Längre sträckor på landsväg, eftersom de ofta somnar vid ratten",
+		"Halt väglag, eftersom de reagerar långsamt om bilen får sladd",
+		"Korsningar, eftersom de har svårt att hantera komplicerade miljöer",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic23.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Äldre förare (75 år och uppåt) har i allmänhet många års erfarenhet och är bra på att anpassa körningen efter sin egen förmåga, vilket gör att de sällan är inblandade i singelolyckor. Däremot har de ofta svårt att överblicka komplexa trafikmiljöer (t.ex. korsningar) som kräver snabba beslut."
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Du kör mellan Stockholm och Göteborg när en trötthetskänsla kommer smygande. Du har ganska bråttom så du kör vidare, men efter en stund börjar du gäspa och känner dig frusen. Du sätter på bilradion på hög volym och öppnar ett fönster och känner dig piggare. Eter en stund stänger du fönstret.<br><br>Efter ytterligare en bit rycker du plötsligt till och inser att du har somnat för en kort sekund. Du vet att det är en mycket allvarlig trötthetssignal, så du stannar genast och tar en kort tupplur. Har ditt agerande varit lämpligt?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Nja, det hade förmodligen räckt med en bensträckare"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic24.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Mikrosömn"
+	    ],
+	    "explanation": "Huvudknyck, eller så kallad <i>mikrosömn</i>, är det sista varningstecknet innan du somnar. Gäspningar och frusenhet är tecken på att blodcirkulationen går ner, då är det lämpligt att stanna innan allvarligare trötthetssymptom som dubbelseende och huvudknyck infinner sig. Bilradio, kall luft eller bensträckare fungerar i bästa fall en kort stund, en tupplur på c:a 20 minuter ger bättre effekt."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Hur nära ett övergångsställe är det tillåtet att parkera?",
+	    "options": [
+		"10 meter före och direkt efter",
+		"10 meter före och 10 meter efter",
+		"20 meter före och 10 meter efter",
+		"20 meter före och 20 meter efter"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p53"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Får cyklar och mopeder köra om bilar på höger sida?",
+	    "options": [
+		"Nej, de ska köra om på vänster sida",
+		"Ja, men endast om bilarna står still",
+		"Ja, de får alltid köra om bilar på höger sida"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p31"
+	    ],
+	    "explanation": "Vid högersväng måste du se upp med cyklister som passerar på insidan. De får köra om till höger och är svåra att se. Varje år sker flera allvarliga olyckor med cyklister som blir påkörda av fordon som svänger till höger. Håll koll i backspeglarna och glöm inte att kontrollera döda vinkeln!"
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Var är det förbjudet att göra en omkörning?",
+	    "options": [
+		"Vid ett obevakat övergångsställe",
+		"Vid en järnvägskorsning med bommar",
+		"Vid ett obevakat övergångsställe och en järnvägskorsning med bommar"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p40",
+		"trfk3p39"
+	    ],
+	    "explanation": "Det är visserligen tillåtet att köra om andra fordon i en järnvägskorsning med bommar, men det bör helst undvikas p.g.a. olycksrisken."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "När ska du lämna fri väg för spårvagnar?",
+	    "options": [
+		"Aldrig",
+		"Mellan klockan 8-18",
+		"Alltid, utom när spårvagnen enligt vägmärke har väjningsplikt"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk2p5"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Är det förbjudet att köra bil om du är så trött så att det inte kan ske på ett säkert sätt?",
+	    "options": [
+		"Nej, det står inget i lagen om trötthet",
+		"Ja, men bara om tröttheten beror på sjukdom, påverkan av alkohol eller andra stimulerande/bedövande ämnen",
+		"Ja"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p1"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vad är förbjudet?",
+	    "options": [
+		"Att åka kälke eller skidor efter ett motordrivet fordon på ägovägar eller liknande vägar med ringa trafik",
+		"Att korsa ett körfält med ett annat fordon än det som körfältet anvisats för",
+		"Att köra moped med en hand på styret",
+		"Samtliga ovanstående alternativ är tillåtna"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p4",
+		"trfk3p10",
+		"trfk6p2"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vad är tillåtet?",
+	    "options": [
+		"Att utan giltigt skäl köra med överdrivet låg hastighet",
+		"Att köra om ett järnvägståg eller en spårvagn till höger",
+		"Att köra om ett annat fordon vid en obevakad cykelpassage",
+		"Samtliga ovanstående alternativ är förbjudna"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p16",
+		"trfk3p35",
+		"trfk3p40"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Är du skyldig att anpassa ditt avstånd till framförvarande fordon så att andra trafikanters omkörning underlättas?",
+	    "options": [
+		"Ja, det är visserligen endast tillåtet att köra om när det kan ske utan fara, men det är också min skyldighet att anpassa avståndet till fordonet framför så att omkörningar underlättas",
+		"Nej, i lagen regleras enbart skyldigheten att köra om endast när det kan ske utan fara"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p2",
+		"trfk3p32"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vad gäller när två körfält löper samman till ett?",
+	    "options": [
+		"Förarna ska under ömsesidigt hänsynstagande anpassa sig till de nya förhållandena",
+		"Förare i vänster körfält har väjningsplikt mot förare i höger körfält",
+		"Förare i det körfält vars körfältspil pekar in i det gemensamma körfältet har väjningsplikt mot förare i körfält vars riktningspil pekar rakt fram"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p44"
+	    ],
+	    "explanation": "Om det är mycket trafik brukar man försöka samspela med hjälp av <i>blixtlåsprincipen</i>, d.v.s. att varannan bil i de båda körfälten turas om att köra in i det gemensamma körfältet."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vad är <b>inte</b> en trafikregel?",
+	    "options": [
+		"Med ett motordrivet fordon får onödig och störande körning inte äga rum vid bostadsbebyggelse",
+		"Föraren av ett motordrivet fordon skall behandla fordonet så att det inte bullrar onödigt mycket och i möjligaste mån se till att fordonet inte släpper ut avgaser i sådan mängd att de orsakar olägenheter",
+		"Föraren av ett motordrivet fordon skall vidta lämpliga åtgärder för att förhindra att fordonet obehörigen brukas av någon annan",
+		"En tvåhjulig cykel, moped eller motorcykel får inte parkeras på en körbana bredvid ett annat fordon som stannats eller parkerats längs körbanans kant"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p55"
+	    ],
+	    "explanation": "Ett fordon får inte parkeras på en körbana bredvid ett annat fordon som stannats eller parkerats längs körbanans kant, men förbudet gäller inte om det andra fordonet är en tvåhjulig cykel, moped eller motorcykel utan sidvagn eller om anordningen är av motsvarande storlek."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "I vilken av dessa situationer är det tillåtet att använda helljus?",
+	    "options": [
+		"På en sträcka där vägen är tillfredsställande belyst",
+		"Vid möte med ett spårbundet trafikmedel eller ett fartyg som förs längs vägen, om risk för bländning kan uppstå",
+		"På ringa avstånd bakom ett annat fordon",
+		"Det är förbjudet att använda helljus i samtliga ovanstående situationer"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p70"
+	    ],
+	    "explanation": "Det är också förbjudet att använda helljuset på sådant avstånd från ett mötande fordon att dess förare kan bländas."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får du stanna för ett släppa av någon 20 meter från en järnvägskorsning?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, men endast om järnvägskorsningen har bommar"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p53",
+		"trfk3p55"
+	    ],
+	    "explanation": "Det är viktigt att skilja på att stanna och  att parkera. På vissa ställen (som i det här fallet) får du stanna, men inte parkera.<br><br>Där det är tillåtet att stanna, men inte parkera, får du endast stanna för att:<br>1. trafikförhållandena kräver det<br>2. undvika fara<br>3. låta en passagerare stiga av eller på<br>4. lasta av eller på gods"
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får du stanna för ett släppa av någon strax före ett backkrön?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om hastighetsbegränsningen är max 70 km/h"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p53"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får man korsa en heldragen linje om utrymmet i en korsning annars inte är tillräckligt?",
+	    "options": [
+		"Ja, om man iakttar särskild försiktighet",
+		"Nej, utrymmet i vägkorsningar är alltid anpassat för högsta tillåtna fordonsbredd"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p11"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får man korsa en heldragen linje om det krävs för att komma från eller till en fastighet?",
+	    "options": [
+		"Ja, om man iakttar särskild försiktighet",
+		"Nej, det är förbjudet att trafikera fastighetsområden som inte kan nås utan att korsa en heldragen linje"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p11"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Hur passerar du ett begravningsfölje som korsar vägen du kör på?",
+	    "options": [
+		"Jag stannar och väntar på att de ska släppa förbi mig, eftersom begravningsföljen och andra processioner har väjningsplikt gentemot trafiken på vägen",
+		"Jag passerar i samarbete med begravningsföljet, eftersom vi enligt gällande regler ska passera varandra under ömsesidigt hänsynstagande",
+		"Det gör jag inte, eftersom jag inte får bryta ett begravningsfölje"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic25.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk2p6"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Var fyller man på spolarvätska?",
+	    "options": [
+		"A",
+		"B",
+		"C",
+		"E"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic28.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Spolarvätska"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Var fyller man på motorolja?",
+	    "options": [
+		"A",
+		"B",
+		"C",
+		"E"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic28.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Motorolja"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "signs"
+	],
+	"data": {
+	    "stem": "Vad är det för skillnad på vägmarkeringarna?",
+	    "options": [
+		"Ingen alls. A, B och C är mittlinjer eller körfältslinjer som är tillåtna att överskridas",
+		"A och B är mittlinjer eller körfältslinjer som är tillåtna att överskridas. C är en varningslinje som är tillåten, men olämplig att överskrida",
+		"A är en kantlinje som markerar körfältets yttre gräns. B och C är mittlinjer eller körfältslinjer som är tillåtna att överskridas"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic3.png",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "A och B är mittlinjer eller körfältslinjer. En mittlinje anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar. En körfältslinje anger gränsen mellan körfält för färd i samma riktning. Mittlinjer och körfältslinjer har längdförhållandet 1:3 eller 1:1 mellan dellinje och mellanrum.<br><br>C är en varningslinje som används för att informera om att linjen är olämplig att överskrida på grund av trafikförhållandena. Det är dock tillåtet att överskrida en varningslinje om det kan ske helt utan risk, t.ex. vid omkörning av cyklar, mopeder eller långsamma fordon. Varningslinjen anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar. Markeringen har längdförhållandet 3:1 mellan dellinje och mellanrum."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vilket påstående är <b>falskt</b> gällande start med hjälp av ett annat fordons batteri?",
+	    "options": [
+		"En av startkablarna ska kopplas mellan batteriernas pluspoler",
+		"Det kan bli kortslutning om du kopplar startkablarna fel",
+		"Batterierna behöver inte ha samma spänning",
+		"Det finns risk för explosion när startkablarna ansluts"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic35.jpg",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Påstående 3 är falskt eftersom batterierna ska ha samma spänning (volt). Angående påstående 4 så beror explosionsrisken på knallgas (vätgas och syrgas) som kan omge batteriet. Se alltså upp med gnistor och eld i närheten av batteriet!"
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Hur ska du koppla startkablarna när ditt batteri är urladdat och du ska starta med hjälp av ett laddat batteri?",
+	    "options": [
+		"En startkabel mellan pluspolerna och en från det laddade batteriets minuspol till karossen eller någon motordel på fordonet med urladdat batteri",
+		"En startkabel mellan pluspolerna och en från det urladdade batteriets minuspol till karossen eller någon motordel på fordonet med laddat batteri",
+		"En startkabel mellan minuspolerna och en från det laddade batteriets pluspol till karossen eller någon motordel på fordonet med urladdat batteri",
+		"En startkabel mellan minuspolerna och en från det urladdade batteriets pluspol till karossen eller någon motordel på fordonet med laddat batteri"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic35.jpg",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Koppla först samman pluspolerna med den röda startkabeln. Koppla sedan den svarta startkabeln till minuspolen på det laddade batteriet. Sist kopplar du den andra änden av den svarta kabeln till en olackerad del av karossen eller en metallyta i motorn på fordonet med urladdat batteri, så långt från batteriet som möjligt.<br><br>Starta sedan motorn på bilen med det laddade batteriet och försök därefter starta motorn med det urladdade batteriet.<br><br>Urkoppling sker i omvänd ordning, d.v.s. först den svarta kabeln från karossen eller motorn, sedan den svarta kabeln från minuspolen och sist den röda kabeln från pluspolerna.<br><br>Anledningen till att du ska koppla ihop och isär i rätt ordning är att det finns risk för att knallgas kring batteriet exploderar. När du kopplar i den sista och ur den första kabeln kan det uppstå en gnista, därför är det viktigt att det sker så långt från batteriet som möjligt."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Är du skyldig att ha en varningstriangel i bilen?",
+	    "options": [
+		"Nej, men det är standard i så gott som alla bilar",
+		"Ja, om olycksrisken är förhöjd, t.ex. vid bogsering och körning med släp eller husvagn",
+		"Ja"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic36.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Sedan 1997 är du enligt lag skyldig att ha en varningstriangel i bilen."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Vad kan vara problemet när varningslampan på bilden lyser?",
+	    "options": [
+		"Det är ett allvarligt fel i motorn",
+		"Det är ett allvarligt fel i avgassystemet",
+		"Parkeringsbromsen är åtdragen",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic37.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Om varningslampan på bilden lyser så är antingen parkeringsbromsen åtdragen eller bromsvätskenivån för låg. Om parkeringsbromsen inte är problemet ska du genast stanna eftersom det finns en risk att bromsarna inte fungerar som de ska."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vad är sant om ABS-bromsar?",
+	    "options": [
+		"Om pedalen hackar när du bromsar hårt är ABS-systemet ur funktion",
+		"De hjälper föraren att behålla kontrollen över bilen vid kraftiga inbromsningar",
+		"ABS-bromsarna låser hjulen vid kraftiga inbromsningar",
+		"Samtliga ovanstående alternativ"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic38.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"ABS-bromsar"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "När ska lampan på bilden lysa?",
+	    "options": [
+		"Den ska helst aldrig lysa, eftersom det betyder att det är fel på de låsningsfria bromsarna",
+		"När bilen startar",
+		"När de låsningsfria bromsarna är aktiva, d.v.s. vid en häftig inbromsning",
+		"När bilen startar och när de låsningsfria bromsarna är aktiva"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic38.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"ABS-bromsar"
+	    ],
+	    "explanation": "Många varningslampor lyser upp en kort stund vid start utan att det är något fel. Om de fortsätter lysa eller börjar lysa under färden är det dock något fel."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad står ABS för?",
+	    "options": [
+		"Automatic Breaking System",
+		"Automatic Brake-lock System",
+		"Automatic Blocking System",
+		"Anti-lock Braking System"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic38.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"ABS-bromsar"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Hur stor andel av synfältet utgör periferiseendet?",
+	    "options": [
+		"1-2 %",
+		"20-30 %",
+		"80-90 %",
+		"98-99 %"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic4.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"Effekterna av synfel är ofta värre i mörker än i dagsljus",
+		"Effekterna av synfel är ofta värre i dagsljus än i mörker",
+		"Effekterna av synfel påverkas inte av om det är mörkt eller ljust"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic4.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Ungefär hur brett är vårt synfält normalt?",
+	    "options": [
+		"120 grader",
+		"150 grader",
+		"180 grader",
+		"210 grader"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic4.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "human"
+	],
+	"data": {
+	    "stem": "Vad händer vid <i>ålderssynthet</i>?",
+	    "options": [
+		"Synfältet minskar till c:a 150 grader",
+		"Det blir svårare att se på långt håll",
+		"Det blir svårare att se på nära håll"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic4.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Ålderssynthet"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Hur långt måste ett barn vara för att få sitta i bilen utan bältesstol eller bälteskudde?",
+	    "options": [
+		"120 cm",
+		"125 cm",
+		"130 cm",
+		"135 cm"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic43.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Barn i bilen"
+	    ],
+	    "explanation": "Barnet måste dock vara minst 140 cm för att få sitta på en plats med krockkudde."
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Hur långt måste ett barn vara för att få sitta på en plats med krockkudde?",
+	    "options": [
+		"135 cm",
+		"140 cm",
+		"145 cm",
+		"Det finns ingen sådan begränsning"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic44.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Barn i bilen"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "safety"
+	],
+	"data": {
+	    "stem": "Vad är sant?",
+	    "options": [
+		"Sent under graviditeten kan krockkudden skada barnet",
+		"Sent under graviditeten är det extra viktigt att sitta på en plats med krockkudde för att skydda barnet"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic44.png",
+		    "size": "medium",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Barn i bilen"
+	    ],
+	    "explanation": "Det är bra att försöka undvika att köra bil sent under graviditeten eftersom både ratten och krockkudden kan skada barnet vid en olycka. På passagerarplatsen kan man skjuta tillbaka sätet så långt det går för att undvika skador från krockkudden."
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Vad är sant om en <i>Enskild väg</i>?",
+	    "options": [
+		"Om den är öppen för allmänheten finns det krav på att den ska vara försedd med viktiga vägmärken och vara i godtagbart skick",
+		"Det finns krav på att den ska vara försedd med viktiga vägmärken, men ingen garanti för att den är i godtagbart skick",
+		"Det finns krav på att den ska vara i godtagbart skick, men ingen garanti för att den är försedd med viktiga vägmärken",
+		"Det finns ingen garanti för att den är försedd med viktiga vägmärken eller att vägen är i godtagbart skick"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic46.jpg",
+		    "size": "small",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Enskild väg"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "När ska en bil med registreringsskylten på bilden besiktigas?",
+	    "options": [
+		"1 jan - 31 maj",
+		"1 mars - 31 juli",
+		"1 maj - 30 september",
+		"1 augusti - 31 december"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic47.jpg",
+		    "size": "small",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Besiktning"
+	    ],
+	    "explanation": "Det är slutsiffran i registreringsnumret som anger när bilen ska besiktigas.<br><br>1 = januari +/- 2 månader.<br>2 = februari +/- 2 månader.<br>3 = mars +/- 2 månader.<br>4 = april +/- 2 månader.<br>(maj och juni hoppas över)<br>5 = juli +/- 2 månader.<br>6 = augusti +/- 2 månader.<br>7 = september +/- 2 månader.<br>8 = oktober +/- 2 månader.<br>9 = november +/- 2 månader.<br>0 = december +/- 2 månader."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Renar katalysatorn avgaserna från koldioxid?",
+	    "options": [
+		"Ja, alltid",
+		"Nej, aldrig",
+		"Ja, om den har en temperatur på c:a 400-600 grader"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic5.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Katalysatorn"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "När fungerar katalysatorn bäst?",
+	    "options": [
+		"Vid varvtal under 3000 varv/min",
+		"Vid varvtal över 3000 varv/min"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic5.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Katalysatorn"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Var är <i>vägen</i>?",
+	    "options": [
+		"A",
+		"B",
+		"C",
+		"D"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic50.png",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Väg"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Var är <i>körbanan</i>?",
+	    "options": [
+		"A",
+		"B",
+		"C",
+		"D"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic50.png",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Körbana"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Var är <i>körfältet</i>?",
+	    "options": [
+		"A",
+		"B",
+		"C",
+		"D"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic50.png",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Körfält"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Var är <i>vägrenen</i>?",
+	    "options": [
+		"A",
+		"B",
+		"C",
+		"D"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic50.png",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Vägren"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får man köra moped klass I på en cykelbana?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, men högst i 25 km/h"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic51.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Moped klass I"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Får man köra moped klass I på en motorväg?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om den är försedd med LGF-skylt"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic53.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Moped klass I"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Är det tillåtet att bogsera ett annat fordon på en motorväg?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om det sker på vägrenen",
+		"Ja, men bara på vägrenen fram till nästa avfart om du har fått stopp på motorvägen"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic53.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Motorväg",
+		"Vägren"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Du skjutsar en vän som bor i närheten av en motorväg. Vännen ber dig stanna längs motorvägen, eftersom det är långt att gå från avfarten längre fram. Stannar du om vägen är fri?",
+	    "options": [
+		"Ja, om trafiksituationen tillåter det får man stanna för av- och påstigning på en motorväg",
+		"Nej, det är förbjudet att stanna på en motorväg"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic53.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Motorväg"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Om du tvingas använda nödhjulet får du inte köra fortare än...",
+	    "options": [
+		"... vägens hastighetsbegränsning.",
+		"... 70 km/h.",
+		"... 50 km/h.",
+		"... vad som står angivet på hjulet eller i instruktionsboken."
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic54.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Nödhjul"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "terms"
+	],
+	"data": {
+	    "stem": "Hur lång är körkortets prövotid?",
+	    "options": [
+		"3 månader",
+		"6 månader",
+		"1 år",
+		"2 år"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic55.png",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Prövotid"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "country"
+	],
+	"data": {
+	    "stem": "Ett tåg i hög hastighet kan ha en bromssträcka på ända upp till...",
+	    "options": [
+		"... 250 m.",
+		"... 500 m.",
+		"... 750 m.",
+		"... 1 500 m."
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic57.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Det finns inte en chans att tåg i höga hastigheter hinner bromsa i en järnvägskorsning, därför måste du vara extra försiktig på dessa platser. Lita inte på att bommar och signaler alltid fungerar, det kan alltid ske tekniska fel eller mänskliga misstag.<br><br>Annat att tänka på:<br>● Tåg kan närma sig mycket fortare än du är van vid, eftersom de uppnår betydligt högre hastighet än vägtrafiken.<br>● Varje år omkommer omkring 10 personer i olyckor vid järnvägskorsningar.<br>● Om du får problem i en järnvägskorsning kan du köra igenom bommarna eftersom de är gjorda för att tillåta det.<br>● Om du får motorstopp i en järnvägskorsning kan du \"hacka\" dig fram med startmotorn genom att lägga i ettans växel, släppa upp kopplingen och hålla nyckeln i startläget. Det fungerar dock inte på en automatväxlad bil."
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Är olycksrisken förhöjd i mörker jämfört med när det är ljust?",
+	    "options": [
+		"Nej, vår ökade försiktighet kompenserar för den försämrade sikten",
+		"Ja, den är c:a 2-3 gånger större",
+		"Ja, den är c:a 10-15 gånger större"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic59.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Mörker"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Vilket påstående är falskt?",
+	    "options": [
+		"I mörker ska du inte placera bilen för nära vägkanten",
+		"Vid möte i mörker kan det vara svårt att hinna väja för en gående med mörka kläder, även om hastigheten är så låg som 30 km/h",
+		"Före en kurva eller ett backkrön kan det vara bra att slå av helljuset en kort stund för att upptäcka gående",
+		"Vid möte i mörker är det extra viktigt att slå av helljuset i god tid före en vänsterkurva"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic59.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Mörkerkörning"
+	    ],
+	    "explanation": "Vid vänstersväng kan helljuset vara påslaget relativt länge även om du har möte, eftersom ljuset riktas ut ur kurvan."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Hur har koldioxidutsläppen från vägtrafiken förändrats sedan 1990?",
+	    "options": [
+		"De har minskat kraftigt",
+		"De har minskat något",
+		"De har ökat betydligt"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic6.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "När ska man lämna företräde åt en buss som blinkar ut från en busshållplats?",
+	    "options": [
+		"Det ska man inte, det är bussen som ska lämna företräde",
+		"Alltid",
+		"Om hastighetsbegränsningen är 50 km/h eller lägre",
+		"Om körsträckan till bussen är 30 meter eller mer"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic66.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Bussregeln"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Hur nära hållplatsskylten vid en busshållplats är det tillåtet att parkera, om hållplatsområdet saknar markeringar?",
+	    "options": [
+		"10 meter före och direkt efter",
+		"10 meter före och 10 meter efter",
+		"20 meter före och 5 meter efter",
+		"20 meter före och 20 meter efter"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic66.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "På en markerad hållplats för spårvagn, fordon i linjetrafik eller skolskjuts får andra fordon inte stannas eller parkeras annat än för på- och avstigning som kan ske utan hinder för spårvägs-, linje- eller skolskjutstrafiken. Om det saknas markering som anger en sådan hållplats gäller förbudet inom tjugo meter före och fem meter efter hållplatsmärket."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Hur får en cyklist som befinner sig vid punkt A svänga vänster genom korsningen?",
+	    "options": [
+		"Genom att köra rakt fram genom korsningen och sedan svänga vänster efter korsningen",
+		"Genom att svänga in i det vänstra körfältet före korsningen och sedan svänga vänster som övrig trafik",
+		"På båda de ovanstående sätten"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic67.png",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Vänstersväng med cykel"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Hur får en cyklist som befinner sig vid punkt A svänga vänster genom korsningen?",
+	    "options": [
+		"Genom att köra rakt fram genom korsningen och sedan svänga vänster efter korsningen",
+		"Genom att svänga in i det vänstra körfältet före korsningen och sedan svänga vänster som övrig trafik",
+		"På båda de ovanstående sätten"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic68.png",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Vänstersväng med cykel"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Lördag klockan 10.00 ställer du dig på en parkering med skylten på bilden. Får du stå i fem timmar?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, om jag betalar avgift"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic71.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Skylten anger att du får parkera högst två timmar i följd, alla dagar. Kl. 8–18 på dagar som <i>inte</i> är söndag, helgdag eller dag före sön- och helgdag måste du betala avgift."
+	}
+    },
+    {
+	"tags": [
+	    "city"
+	],
+	"data": {
+	    "stem": "Vad är sant om skylten på bilden?",
+	    "options": [
+		"Endast boende i området får parkera, förutsatt att de uppfyller kraven på skylten",
+		"Alla får parkera, förutsatt att de uppfyller kraven på skylten. Boende i området är befriade från kraven",
+		"Alla får parkera, förutsatt att de uppfyller kraven på skylten. Boende i området kan ha ett parkeringstillstånd med andra villkor"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic72.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "special"
+	],
+	"data": {
+	    "stem": "Får man ha halvljus och dimljus tända samtidigt?",
+	    "options": [
+		"Ja",
+		"Nej",
+		"Ja, vid dimma och kraftig nederbörd"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic73.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"trfk3p71"
+	    ],
+	    "explanation": "Om halvljus och dimljus är tända samtidigt kan andra bilister bli bländade."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vilken är den högsta tillåtna hastigheten för en personbil med släpvagn?",
+	    "options": [
+		"70 km/h",
+		"80 km/h",
+		"90 km/h",
+		"Vägens hastighetsbegränsning"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic74.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du har en obromsad släpvagn med tjänstevikt 250 kg och totalvikt 750 kg. Din bils totalvikt är 1 900 kg och i registreringsbeviset står det att maximal släpvagnsvikt för obromsad släpvagn är 600 kg. Får du köra last som väger c:a 300 kg?",
+	    "options": [
+		"Ja, släpvagnsvikten är under 600 kg",
+		"Nej, släpets totalvikt är större än bilens maximala släpvagnsvikt"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic74.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ],
+	    "explanation": "Släpvagnsvikten är tjänstevikten + lastens vikt, d.v.s. 550 kg."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du har en bromsad släpvagn med tjänstevikt 300 kg och totalvikt 1 000 kg. Din bils totalvikt är 2 300 kg och den maximala släpvagnsvikten är 1 500 kg. Får du lasta släpet med 700 kg och köra med din bil om du har B-körkort?",
+	    "options": [
+		"Ja, jag lastar inte mer än maxlasten och den sammanlagda totalvikten är inte större än 3 500 kg",
+		"Nej, släpet räknas inte som lätt eftersom det väger mer än 750 kg"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic74.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ],
+	    "explanation": "Släpet räknas som lätt eftersom den sammanlagda totalvikten inte överstiger 3 500 kg"
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du har en bromsad släpvagn med tjänstevikt 300 kg och totalvikt 1 000 kg. Din bils totalvikt är 2 300 kg och den maximala släpvagnsvikten är 1 500 kg. Får du lasta släpet med 1 200 kg och köra med din bil om du har B-körkort?",
+	    "options": [
+		"Ja, släpet väger inte mer än den maximala släpvagnsvikten och den sammanlagda totalvikten är inte mer än 3 500 kg",
+		"Nej, lasten överstiger släpets maxlast"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic74.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ],
+	    "explanation": "Maxlasten är skillnaden mellan totalvikten och tjänstevikten. Alltså är släpets maxlast 1 000 - 300 = 700 kg."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du har en bromsad släpvagn med tjänstevikt 400 kg och totalvikt 1 300 kg. Din bils totalvikt är 2 300 kg och den maximala släpvagnsvikten är 1 500 kg. Får du lasta släpet med 700 kg och köra med din bil om du har B-körkort?",
+	    "options": [
+		"Ja, jag lastar inte mer än maxlasten och bil + släp väger inte mer än 3 500 kg",
+		"Nej, släpet räknas inte som lätt eftersom den sammanlagda totalvikten är mer än 3 500 kg"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic74.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ]
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du har en bromsad släpvagn med tjänstevikt 350 kg och totalvikt 1 500 kg. Din bils tjänstevikt är 1300 kg, totalvikten är 1 750 kg och maximal släpvagnsvikt är 1 300 kg. Får du lasta släpet med 700 kg och köra med din bil om du har B-körkort?",
+	    "options": [
+		"Ja, jag lastar inte mer än maxlasten, släpet väger inte mer än bilens maximala släpvagnsvikt och den sammanlagda totalvikten är inte större än 3 500 kg",
+		"Nej, släpet räknas inte som lätt eftersom släpets totalvikt överstiger bilens tjänstevikt"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic74.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ],
+	    "explanation": "Den 19 januari 2013 tog man bort kravet på att släpets totalvikt inte får överstiga bilens tjänstevikt för att räknas som lätt."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du lastar 400 kg i en obromsad släpvagn med tjänstevikt 200 kg och totalvikt 750 kg. Din bils tjänstevikt är 1 300 kg och totalvikten är 1 700 kg. Hur fort får du köra?",
+	    "options": [
+		"Max 40 km/h",
+		"Max 60 km/h",
+		"Max 80 km/h",
+		"Max 100 km/h"
+	    ],
+	    "key": 0,
+	    "images": [
+		{
+		    "image": "pic74.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ],
+	    "explanation": "Ett obromsat släp vars totalvikt överstiger halva bilens tjänstevikt får köras i max 40 km/h."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "Du lastar 400 kg i en obromsad släpvagn med tjänstevikt 200 kg och totalvikt 750 kg. Din bils tjänstevikt är 1 500 kg och totalvikten är 1 900 kg. Hur fort får du köra?",
+	    "options": [
+		"Max 40 km/h",
+		"Max 60 km/h",
+		"Max 80 km/h",
+		"Max 100 km/h"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic74.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"Lätt släpvagn"
+	    ],
+	    "explanation": "Ett obromsat släp vars totalvikt inte överstiger halva bilens tjänstevikt får köras i max 80 km/h."
+	}
+    },
+    {
+	"tags": [
+	    "vehicle"
+	],
+	"data": {
+	    "stem": "En husbil är troligen registrerad som...",
+	    "options": [
+		"... personbil klass I",
+		"... personbil klass II",
+		"... lätt buss",
+		"... tung buss"
+	    ],
+	    "key": 1,
+	    "images": [
+		{
+		    "image": "pic76.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Personbil klass II är permanent försedd med ett karosseri som är inrättat som bostadsutrymme. En personbil klass II kallas ofta för husbil, men en husbil kan också vara en lastbil. Om husbilen är registrerad som lastbil, finns det andra krav på förarens behörighet, fordonets utrustning samt skatter och avgifter."
+	}
+    },
+    {
+	"tags": [
+	    "rules"
+	],
+	"data": {
+	    "stem": "Vilken är den högsta tillåtna hastigheten för personbil klass II på motortrafikled?",
+	    "options": [
+		"80 km/h",
+		"90 km/h",
+		"100 km/h",
+		"Vägens hastighetsbegränsning"
+	    ],
+	    "key": 3,
+	    "images": [
+		{
+		    "image": "pic76.jpg",
+		    "size": "large",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "explanation": "Det finns inga speciella hastighetsbegränsningar för personbil klass II utan man ska följa de hastighetsbegränsningar som finns."
+	}
+    },
+    {
+	"tags": [
+	    "environment"
+	],
+	"data": {
+	    "stem": "Vad är falskt?",
+	    "options": [
+		"Knappt hälften av bilresorna är kortare än 5 km",
+		"Mer än hälften av bilresorna i tätort är kortare än 3 km",
+		"Ditt körsätt påverkar inte bränsleförbrukningen nämnvärt",
+		"Ett sparsamt körsätt minskar risken för trafikolyckor"
+	    ],
+	    "key": 2,
+	    "images": [
+		{
+		    "image": "pic9.jpg",
+		    "size": "extend",
+		    "alt": "Körkortsfrågor - "
+		}
+	    ],
+	    "wikiNodes": [
+		"EcoDriving"
+	    ],
+	    "explanation": "<br>● De första två påståendena är sanna, vilket antyder att många bilresor görs i onödan!<br>● Det tredje påståendet är falskt, det finns flera sätt att påverka bränsleförbrukningen (läs teoriavsnittet EcoDriving).<br>● Det fjärde påståendet är sant, undersökningar visar att ett jämnare körsätt inte bara minskar bränsleförbrukningen utan också risken för olyckor."
+	}
+    }
+]
