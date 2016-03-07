@@ -4583,9 +4583,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic1.jpg",
+		    "image": "vag-med-kantreflexstolpar.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Väg med kantreflexstolpar"
 		}
 	    ],
 	    "explanation": "Vid sämre förhållanden behöver avståndet vara större. Du kan använda dig av kantreflexstolparna (50 meters mellanrum) för att bedöma avstånden.<br><br>Många förare håller dock inte säkra avstånd på vägarna. Om du upplever att fordonet bakom dig ligger alldeles för nära är det viktigt att ha ett säkert avstånd till fordonet framför så att du kan bromsa mjukt om något skulle inträffa."
@@ -4606,9 +4606,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic11.jpg",
+		    "image": "bil-tackt-av-is.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Bil täckt av is"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4630,9 +4630,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic12.jpg",
+		    "image": "frukost.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Frukost"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4653,9 +4653,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic14.jpg",
+		    "image": "fantasi.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Fantasi i trafiken"
 		}
 	    ],
 	    "explanation": "Kunskap, erfarenhet och fantasi behövs för att förutse och bedöma olika skeenden i trafiken."
@@ -4675,9 +4675,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic14.jpg",
+		    "image": "selektiv-varseblivning.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Selektiv varseblivning"
 		}
 	    ],
 	    "explanation": "Selektiv varseblivning är oftast en omedveten process, men det är i hög grad våra erfarenheter och kunskaper som ligger till grund för vad som väljs ut. T.ex. lägger oerfarna förare oftare märke till stillastående objekt medan erfarna förare vänder uppmärksamheten mot saker som rör sig."
@@ -4696,9 +4696,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic20.jpg",
+		    "image": "stress.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Stressad person"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4720,9 +4720,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic21.jpg",
+		    "image": "erfaren-forare.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Erfaren förare"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4746,9 +4746,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic23.jpg",
+		    "image": "gammal-forare.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Gammal förare"
 		}
 	    ],
 	    "explanation": "Äldre förare (75 år och uppåt) har i allmänhet många års erfarenhet och är bra på att anpassa körningen efter sin egen förmåga, vilket gör att de sällan är inblandade i singelolyckor. Däremot har de ofta svårt att överblicka komplexa trafikmiljöer (t.ex. korsningar) som kräver snabba beslut."
@@ -4768,9 +4768,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic24.jpg",
+		    "image": "man-som-dricker-kaffe.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Man som dricker kaffe"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4794,9 +4794,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Parkera vid övergångsställe"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4818,9 +4818,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Köra om på höger sida"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4843,9 +4843,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Förbjudet att köra om"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4869,9 +4869,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Lämna fri väg för spårvagnar"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4893,9 +4893,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Köra bil när du är trött"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4918,9 +4918,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Förbjudet enligt lag"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4945,9 +4945,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Tillåtet enligt lag"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4970,9 +4970,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Andra trafikanters omkörning"
 		}
 	    ],
 	    "wikiNodes": [
@@ -4995,9 +4995,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Sammanlöpning av körfält"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5021,9 +5021,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Trafikregler"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5047,9 +5047,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Användning av helljus"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5072,9 +5072,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Stanna vid järnvägskorsning"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5098,9 +5098,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Stanna före ett backkrön"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5121,9 +5121,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Korsa en heldragen linje"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5144,9 +5144,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Korsa en heldragen linje"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5168,9 +5168,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic25.jpg",
+		    "image": "paragraf-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Passera ett begravningsfölje"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5193,9 +5193,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic28.jpg",
+		    "image": "motor.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Motor"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5218,9 +5218,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic28.jpg",
+		    "image": "motor.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Motor"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5242,9 +5242,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic3.png",
+		    "image": "vagmarkeringar-mittlinje-korfaltslinje-varningslinje.png",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Vägmarkeringar - mittlinje körfältslinje varningslinje"
 		}
 	    ],
 	    "explanation": "A och B är mittlinjer eller körfältslinjer. En mittlinje anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar. En körfältslinje anger gränsen mellan körfält för färd i samma riktning. Mittlinjer och körfältslinjer har längdförhållandet 1:3 eller 1:1 mellan dellinje och mellanrum.<br><br>C är en varningslinje som används för att informera om att linjen är olämplig att överskrida på grund av trafikförhållandena. Det är dock tillåtet att överskrida en varningslinje om det kan ske helt utan risk, t.ex. vid omkörning av cyklar, mopeder eller långsamma fordon. Varningslinjen anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar. Markeringen har längdförhållandet 3:1 mellan dellinje och mellanrum."
@@ -5265,9 +5265,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic35.jpg",
+		    "image": "bilbatteri.jpg",
 		    "size": "medium",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Bilbatteri"
 		}
 	    ],
 	    "explanation": "Påstående 3 är falskt eftersom batterierna ska ha samma spänning (volt). Angående påstående 4 så beror explosionsrisken på knallgas (vätgas och syrgas) som kan omge batteriet. Se alltså upp med gnistor och eld i närheten av batteriet!"
@@ -5288,9 +5288,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic35.jpg",
+		    "image": "bilbatteri.jpg",
 		    "size": "medium",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Bilbatteri"
 		}
 	    ],
 	    "explanation": "Koppla först samman pluspolerna med den röda startkabeln. Koppla sedan den svarta startkabeln till minuspolen på det laddade batteriet. Sist kopplar du den andra änden av den svarta kabeln till en olackerad del av karossen eller en metallyta i motorn på fordonet med urladdat batteri, så långt från batteriet som möjligt.<br><br>Starta sedan motorn på bilen med det laddade batteriet och försök därefter starta motorn med det urladdade batteriet.<br><br>Urkoppling sker i omvänd ordning, d.v.s. först den svarta kabeln från karossen eller motorn, sedan den svarta kabeln från minuspolen och sist den röda kabeln från pluspolerna.<br><br>Anledningen till att du ska koppla ihop och isär i rätt ordning är att det finns risk för att knallgas kring batteriet exploderar. När du kopplar i den sista och ur den första kabeln kan det uppstå en gnista, därför är det viktigt att det sker så långt från batteriet som möjligt."
@@ -5310,9 +5310,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic36.jpg",
+		    "image": "varningstriangel.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Varningstriangel"
 		}
 	    ],
 	    "explanation": "Sedan 1997 är du enligt lag skyldig att ha en varningstriangel i bilen."
@@ -5333,9 +5333,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic37.png",
+		    "image": "varningslampa-parkeringsbroms.png",
 		    "size": "medium",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Varningslampa - Parkeringsbroms"
 		}
 	    ],
 	    "explanation": "Om varningslampan på bilden lyser så är antingen parkeringsbromsen åtdragen eller bromsvätskenivån för låg. Om parkeringsbromsen inte är problemet ska du genast stanna eftersom det finns en risk att bromsarna inte fungerar som de ska."
@@ -5356,9 +5356,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic38.png",
+		    "image": "varningslampa-abs.png",
 		    "size": "medium",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Varningslampa - ABS"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5381,9 +5381,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic38.png",
+		    "image": "varningslampa-abs.png",
 		    "size": "medium",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Varningslampa - ABS"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5407,9 +5407,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic38.png",
+		    "image": "varningslampa-abs.png",
 		    "size": "medium",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Varningslampa - ABS"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5432,9 +5432,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic4.jpg",
+		    "image": "periferiseendet.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Periferiseendet"
 		}
 	    ]
 	}
@@ -5453,9 +5453,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic4.jpg",
+		    "image": "synfel.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Synfel i mörker"
 		}
 	    ]
 	}
@@ -5475,9 +5475,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic4.jpg",
+		    "image": "synfalt.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Synfält"
 		}
 	    ]
 	}
@@ -5496,9 +5496,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic4.jpg",
+		    "image": "alderssynthet.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Ålderssynthet"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5521,9 +5521,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic43.jpg",
+		    "image": "baltesstol.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Bältesstol"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5547,9 +5547,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic44.png",
+		    "image": "varningslampa-krockkudde.png",
 		    "size": "medium",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Varningslampa - Krockkudde"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5570,9 +5570,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic44.png",
+		    "image": "varningslampa-krockkudde.png",
 		    "size": "medium",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Varningslampa - Krockkudde"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5596,9 +5596,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic46.jpg",
+		    "image": "f5-vagvisare-enskild-vag.jpg",
 		    "size": "small",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Vägmärke - F5 Vägvisare, enskild väg"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5621,9 +5621,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic47.jpg",
+		    "image": "registreringsskylt.jpg",
 		    "size": "small",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Registreringsskylt"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5646,9 +5646,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic5.jpg",
+		    "image": "katalysator.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Katalysator"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5669,9 +5669,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic5.jpg",
+		    "image": "katalysator.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Katalysator"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5694,9 +5694,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic50.png",
+		    "image": "vagen.png",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Vägen"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5719,9 +5719,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic50.png",
+		    "image": "vagen-korbanan.png",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Körbanan"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5744,9 +5744,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic50.png",
+		    "image": "vagen-korfaltet.png",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Körfältet"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5769,9 +5769,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic50.png",
+		    "image": "vagen-vagrenen.png",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Vägrenen"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5793,9 +5793,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic51.jpg",
+		    "image": "moped-klass-1.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Moped klass 1"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5817,9 +5817,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic53.jpg",
+		    "image": "motorvag.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Motorväg"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5842,9 +5842,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic53.jpg",
+		    "image": "motorvag.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Motorväg"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5866,9 +5866,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic53.jpg",
+		    "image": "motorvag.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Motorväg"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5891,9 +5891,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic54.jpg",
+		    "image": "bil-med-nodhjul.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Bil med nödhjul"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5916,9 +5916,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic55.png",
+		    "image": "korkort.png",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Körkort"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5941,9 +5941,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic57.jpg",
+		    "image": "tag-i-hog-hastighet.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Tåg i hög hastighet"
 		}
 	    ],
 	    "explanation": "Det finns inte en chans att tåg i höga hastigheter hinner bromsa i en järnvägskorsning, därför måste du vara extra försiktig på dessa platser. Lita inte på att bommar och signaler alltid fungerar, det kan alltid ske tekniska fel eller mänskliga misstag.<br><br>Annat att tänka på:<br>● Tåg kan närma sig mycket fortare än du är van vid, eftersom de uppnår betydligt högre hastighet än vägtrafiken.<br>● Varje år omkommer omkring 10 personer i olyckor vid järnvägskorsningar.<br>● Om du får problem i en järnvägskorsning kan du köra igenom bommarna eftersom de är gjorda för att tillåta det.<br>● Om du får motorstopp i en järnvägskorsning kan du \"hacka\" dig fram med startmotorn genom att lägga i ettans växel, släppa upp kopplingen och hålla nyckeln i startläget. Det fungerar dock inte på en automatväxlad bil."
@@ -5963,9 +5963,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic59.jpg",
+		    "image": "vag-i-morker.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Väg i mörker"
 		}
 	    ],
 	    "wikiNodes": [
@@ -5988,9 +5988,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic59.jpg",
+		    "image": "vag-i-morker.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Väg i mörker"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6013,9 +6013,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic6.jpg",
+		    "image": "vag-med-avgaser.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Väg med avgaser"
 		}
 	    ]
 	}
@@ -6035,9 +6035,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic66.jpg",
+		    "image": "buss-vid-busshallplats.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Buss vid busshållplats"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6060,9 +6060,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic66.jpg",
+		    "image": "buss-vid-busshallplats.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Buss vid busshållplats"
 		}
 	    ],
 	    "explanation": "På en markerad hållplats för spårvagn, fordon i linjetrafik eller skolskjuts får andra fordon inte stannas eller parkeras annat än för på- och avstigning som kan ske utan hinder för spårvägs-, linje- eller skolskjutstrafiken. Om det saknas markering som anger en sådan hållplats gäller förbudet inom tjugo meter före och fem meter efter hållplatsmärket."
@@ -6082,9 +6082,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic67.png",
+		    "image": "vanstersvang-for-cyklist-i-korsning.png",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Vänstersväng för cyklist i korsning"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6106,9 +6106,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic68.png",
+		    "image": "vanstersvang-for-cyklist-i-korsning-2.png",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Vänstersväng för cyklist i korsning"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6130,9 +6130,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic71.jpg",
+		    "image": "parkeringsskylt-2-tim-avgift-8-18.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Parkeringsskylt 2 tim Avgift 8 - 18"
 		}
 	    ],
 	    "explanation": "Skylten anger att du får parkera högst två timmar i följd, alla dagar. Kl. 8–18 på dagar som <i>inte</i> är söndag, helgdag eller dag före sön- och helgdag måste du betala avgift."
@@ -6152,9 +6152,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic72.jpg",
+		    "image": "parkeringsskylt-2-tim-avgift-8-18-boende.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Parkeringsskylt 2 tim Avgift 8 - 18 Boende"
 		}
 	    ]
 	}
@@ -6173,9 +6173,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic73.jpg",
+		    "image": "dimmig-vag.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Dimmig väg"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6199,9 +6199,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic74.jpg",
+		    "image": "slapvagn.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Släpvagn"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6222,9 +6222,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic74.jpg",
+		    "image": "slapvagn.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Släpvagn"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6246,9 +6246,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic74.jpg",
+		    "image": "slapvagn.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Släpvagn"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6270,9 +6270,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic74.jpg",
+		    "image": "slapvagn.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Släpvagn"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6294,9 +6294,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic74.jpg",
+		    "image": "slapvagn.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Släpvagn"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6317,9 +6317,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic74.jpg",
+		    "image": "slapvagn.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Släpvagn"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6343,9 +6343,9 @@
 	    "key": 0,
 	    "images": [
 		{
-		    "image": "pic74.jpg",
+		    "image": "slapvagn.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Släpvagn"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6369,9 +6369,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic74.jpg",
+		    "image": "slapvagn.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Släpvagn"
 		}
 	    ],
 	    "wikiNodes": [
@@ -6395,9 +6395,9 @@
 	    "key": 1,
 	    "images": [
 		{
-		    "image": "pic76.jpg",
+		    "image": "husbil.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Husbil"
 		}
 	    ],
 	    "explanation": "Personbil klass II är permanent försedd med ett karosseri som är inrättat som bostadsutrymme. En personbil klass II kallas ofta för husbil, men en husbil kan också vara en lastbil. Om husbilen är registrerad som lastbil, finns det andra krav på förarens behörighet, fordonets utrustning samt skatter och avgifter."
@@ -6418,9 +6418,9 @@
 	    "key": 3,
 	    "images": [
 		{
-		    "image": "pic76.jpg",
+		    "image": "personbil-klass-2.jpg",
 		    "size": "large",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Personbil klass 2"
 		}
 	    ],
 	    "explanation": "Det finns inga speciella hastighetsbegränsningar för personbil klass II utan man ska följa de hastighetsbegränsningar som finns."
@@ -6441,9 +6441,9 @@
 	    "key": 2,
 	    "images": [
 		{
-		    "image": "pic9.jpg",
+		    "image": "miljobil.jpg",
 		    "size": "extend",
-		    "alt": "Körkortsfrågor - "
+		    "alt": "Körkortsfrågor - Miljöbil"
 		}
 	    ],
 	    "wikiNodes": [
