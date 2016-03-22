@@ -14,7 +14,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic33.jpg"
+          "image": "pic33.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -73,7 +75,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic75.jpg"
+          "image": "pic75.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -96,7 +100,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic2.jpg"
+          "image": "pic2.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -119,7 +125,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic3.jpg"
+          "image": "pic3.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -142,7 +150,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic5.jpg"
+          "image": "pic5.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -165,7 +175,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic6.jpg"
+          "image": "pic6.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -188,7 +200,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic7.jpg"
+          "image": "pic7.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -211,7 +225,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic8.jpg"
+          "image": "pic8.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -234,7 +250,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic9.jpg"
+          "image": "pic9.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -274,7 +292,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic91.jpg"
+          "image": "pic91.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -299,7 +319,9 @@
       ],
       "images": [
         {
-          "image": "pic12.jpg"
+          "image": "pic12.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Många djur reagerar snabbare på lukter än synintryck. Rådjur har till exempel svårt att upptäcka dig när du står stilla, men de reagerar snabbt på rörelser och doftintryck."
@@ -319,7 +341,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic77.jpg"
+          "image": "pic77.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -343,7 +367,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -366,7 +392,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -389,7 +417,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic65.jpg"
+          "image": "pic65.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -412,7 +442,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic70.jpg"
+          "image": "pic70.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -458,7 +490,9 @@
       ],
       "images": [
         {
-          "image": "pic10.jpg"
+          "image": "pic10.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -551,7 +585,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic11.jpg"
+          "image": "pic11.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -575,7 +611,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic12.jpg"
+          "image": "pic12.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -598,7 +636,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic13.jpg"
+          "image": "pic13.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -641,7 +681,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic14.jpg"
+          "image": "pic14.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -665,7 +707,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic15.jpg"
+          "image": "pic15.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -706,7 +750,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic108.jpg"
+          "image": "pic108.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -748,7 +794,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic18.jpg"
+          "image": "pic18.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -789,7 +837,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic19.jpg"
+          "image": "pic19.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -813,7 +863,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic122.jpg"
+          "image": "pic122.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -836,7 +888,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic20.jpg"
+          "image": "pic20.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -860,7 +914,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic21.jpg"
+          "image": "pic21.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -897,7 +953,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -919,7 +976,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic65.jpg"
+          "image": "pic65.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Enligt lagen krävs jaktledare vid jakt på kronhjort och älg."
@@ -956,7 +1015,8 @@
       "images": [
         {
           "image": "pic24.jpg",
-          "height": 140
+          "size": "medium",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1000,7 +1060,8 @@
       "images": [
         {
           "image": "pic25.jpg",
-          "height": 140
+          "size": "medium",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1024,7 +1085,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic26.jpg"
+          "image": "pic26.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1045,7 +1108,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic77.jpg"
+          "image": "pic77.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1067,7 +1132,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic69.jpg"
+          "image": "pic69.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1139,7 +1206,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1162,7 +1231,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic131.jpg"
+          "image": "pic131.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Att du har jakträtt betyder inte att du har rätt att bygga ett jakttorn. Prata med markägaren först!"
@@ -1268,7 +1339,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic48.jpg"
+          "image": "pic48.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1344,7 +1417,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic29.jpg"
+          "image": "pic29.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1366,7 +1441,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic30.jpg"
+          "image": "pic30.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1389,7 +1466,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic31.jpg"
+          "image": "pic31.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1412,7 +1491,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic32.jpg"
+          "image": "pic32.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1435,7 +1516,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic35.jpg"
+          "image": "pic35.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1460,7 +1543,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic34.jpg"
+          "image": "pic34.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1483,7 +1568,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic36.jpg"
+          "image": "pic36.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1506,7 +1593,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic37.jpg"
+          "image": "pic37.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1529,7 +1618,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic38.jpg"
+          "image": "pic38.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1588,7 +1679,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic39.jpg"
+          "image": "pic39.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1677,7 +1770,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic129.jpg"
+          "image": "pic129.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Man studerar färg, tandnötning, tandväxling och årsringar som syns om man sågar itu tanden."
@@ -1737,7 +1832,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1762,7 +1858,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1802,7 +1899,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1825,7 +1923,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1848,7 +1947,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic65.jpg"
+          "image": "pic65.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1871,7 +1972,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic12.jpg"
+          "image": "pic12.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1894,7 +1997,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1917,7 +2022,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic77.jpg"
+          "image": "pic77.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1940,7 +2047,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1961,7 +2069,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic74.jpg"
+          "image": "pic74.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -1984,7 +2094,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2007,7 +2118,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2030,7 +2142,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2053,7 +2166,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic95.jpg"
+          "image": "pic95.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2077,7 +2192,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic177.jpg"
+          "image": "pic177.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2101,7 +2218,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2125,7 +2243,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2150,7 +2269,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2174,7 +2294,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic41.jpg"
+          "image": "pic41.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2199,7 +2321,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2222,7 +2345,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2245,7 +2369,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic65.jpg"
+          "image": "pic65.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2269,7 +2395,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2291,7 +2418,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2313,7 +2441,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic78.jpg"
+          "image": "pic78.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Gasning eller utrökning är inte tillåtet att använda för att fånga eller döda däggdjur."
@@ -2351,7 +2481,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic60.jpg"
+          "image": "pic60.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2374,7 +2506,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic62.jpg"
+          "image": "pic62.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2397,7 +2531,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic63.jpg"
+          "image": "pic63.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2439,7 +2575,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic49.jpg"
+          "image": "pic49.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2562,7 +2700,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic55.jpg"
+          "image": "pic55.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2585,7 +2725,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic55.jpg"
+          "image": "pic55.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2607,7 +2749,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2631,7 +2775,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic44.jpg"
+          "image": "pic44.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2654,7 +2800,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic52.jpg"
+          "image": "pic52.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2677,7 +2825,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic54.jpg"
+          "image": "pic54.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2700,7 +2850,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic64.jpg"
+          "image": "pic64.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -2720,7 +2872,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic59.jpg"
+          "image": "pic59.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2774,7 +2928,8 @@
       "images": [
         {
           "image": "pic24.jpg",
-          "height": 140
+          "size": "medium",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2798,7 +2953,8 @@
       "images": [
         {
           "image": "pic24.jpg",
-          "height": 140
+          "size": "medium",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2859,7 +3015,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic130.jpg"
+          "image": "pic130.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2883,7 +3041,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic65.jpg"
+          "image": "pic65.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2943,7 +3103,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic129.jpg"
+          "image": "pic129.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2967,7 +3129,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic68.jpg"
+          "image": "pic68.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -2990,7 +3154,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic66.jpg"
+          "image": "pic66.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3013,7 +3179,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic69.jpg"
+          "image": "pic69.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3036,7 +3204,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic66.jpg"
+          "image": "pic66.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3059,7 +3229,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic66.jpg"
+          "image": "pic66.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3083,7 +3255,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic12.jpg"
+          "image": "pic12.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3105,7 +3279,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic66.jpg"
+          "image": "pic66.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3184,7 +3360,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic67.jpg"
+          "image": "pic67.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3222,7 +3400,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic67.jpg"
+          "image": "pic67.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3246,7 +3426,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic12.jpg"
+          "image": "pic12.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3269,7 +3451,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic69.jpg"
+          "image": "pic69.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3343,7 +3527,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic132.jpg"
+          "image": "pic132.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3364,7 +3550,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic44.jpg"
+          "image": "pic44.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Om framstocken blir fuktig kan träet svälla och påverka pipan. Du kan kontrollera att framstocken inte ligger emot pipan genom att dra en sedel mellan pipan och framstocken ända ner till patronläget."
@@ -3384,7 +3572,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic68.jpg"
+          "image": "pic68.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3408,7 +3598,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic133.jpg"
+          "image": "pic133.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3449,7 +3641,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic78.jpg"
+          "image": "pic78.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3473,7 +3667,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic69.jpg"
+          "image": "pic69.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3496,7 +3692,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic69.jpg"
+          "image": "pic69.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3533,7 +3731,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic70.jpg"
+          "image": "pic70.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3572,7 +3772,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic129.jpg"
+          "image": "pic129.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3611,7 +3813,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic70.jpg"
+          "image": "pic70.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3635,7 +3839,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic70.jpg"
+          "image": "pic70.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3657,7 +3863,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3681,7 +3889,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3704,7 +3914,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3780,7 +3992,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic74.jpg"
+          "image": "pic74.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3803,7 +4017,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic72.jpg"
+          "image": "pic72.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3825,7 +4041,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic72.jpg"
+          "image": "pic72.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3848,7 +4066,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic73.jpg"
+          "image": "pic73.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3871,7 +4091,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic74.jpg"
+          "image": "pic74.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3893,7 +4115,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic74.jpg"
+          "image": "pic74.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3915,7 +4139,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3938,7 +4164,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic75.jpg"
+          "image": "pic75.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -3977,7 +4205,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic75.jpg"
+          "image": "pic75.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4000,7 +4230,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic15.jpg"
+          "image": "pic15.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -4019,7 +4251,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic75.jpg"
+          "image": "pic75.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4043,7 +4277,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic76.jpg"
+          "image": "pic76.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4067,7 +4303,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic77.jpg"
+          "image": "pic77.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4088,7 +4326,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic77.jpg"
+          "image": "pic77.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4112,7 +4352,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic77.jpg"
+          "image": "pic77.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4165,7 +4407,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic136.jpg"
+          "image": "pic136.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Tvättbjörnen känns igen på den tydliga ansiktsmasken och den randiga svansen. I Sverige ligger tvättbjörnen i toppen på listan över arter experterna inte vill ha in i landet. Detta eftersom den kan sprida sjukdomar och skada den svenska faunan. Tvättbjörn får således inte importeras till Sverige. Vad gäller jakt får arten skyddsjagas på enskilds initiativ året om."
@@ -4185,7 +4429,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic79.jpg"
+          "image": "pic79.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4208,7 +4454,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic79.jpg"
+          "image": "pic79.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4230,7 +4478,8 @@
       "images": [
         {
           "image": "pic137.jpg",
-          "height": 220
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Utter och mink kan förväxlas, men det finns en hel del som skiljer dem åt. T.ex. saknar uttern minkens vita fläck på hakan."
@@ -4251,7 +4500,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic138.jpg"
+          "image": "pic138.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Hermelinen, eller lekatten, känns igen på den svarta svansspetsen. Under sommaren har pälsen brun ovansida och ljusgul undersida. Vinterpälsen är vit.<br><br>Hermelin får inte jagas annat än i form av skyddsjakt om den kommer in på gård eller i trädgård och där kan orsaka skada eller annan olägenhet."
@@ -4272,7 +4523,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic139.jpg"
+          "image": "pic139.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Vesslan är världens minsta rovdjur (väger c:a 100 gram). Den finns i stort sett över hela landet utom på Gotland. Pälsen är brun på ovansidan och ljus på undersidan. I norra halvan av Sverige är vinterpälsen vit.<br><br>Vessla får inte jagas annat än i form av skyddsjakt om den kommer in på gård eller i trädgård och där kan orsaka skada eller annan olägenhet."
@@ -4293,7 +4546,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic140.jpg"
+          "image": "pic140.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4316,7 +4571,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic81.jpg"
+          "image": "pic81.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4337,7 +4594,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic80.jpg"
+          "image": "pic80.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4376,7 +4635,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic81.jpg"
+          "image": "pic81.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4399,7 +4660,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic81.jpg"
+          "image": "pic81.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4493,7 +4756,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic82.jpg"
+          "image": "pic82.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4515,7 +4780,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic15.jpg"
+          "image": "pic15.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4573,7 +4840,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic14.jpg"
+          "image": "pic14.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4616,7 +4885,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic16.jpg"
+          "image": "pic16.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4640,7 +4911,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic16.jpg"
+          "image": "pic16.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4663,7 +4936,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic84.jpg"
+          "image": "pic84.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4685,7 +4960,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic83.jpg"
+          "image": "pic83.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4707,7 +4984,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic16.jpg"
+          "image": "pic16.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4730,7 +5009,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic84.jpg"
+          "image": "pic84.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4769,7 +5050,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4792,7 +5075,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4816,7 +5101,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4839,7 +5126,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4863,7 +5152,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic86.jpg"
+          "image": "pic86.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4884,7 +5175,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -4906,7 +5199,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5002,7 +5297,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic141.jpg"
+          "image": "pic141.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5024,7 +5321,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic142.jpg"
+          "image": "pic142.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5065,7 +5364,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic143.jpg"
+          "image": "pic143.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Det händer att kanadagåsen bildar hybrider med andra gåsarter."
@@ -5086,7 +5387,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic18.jpg"
+          "image": "pic18.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5110,7 +5413,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic91.jpg"
+          "image": "pic91.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -5130,7 +5435,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic90.jpg"
+          "image": "pic90.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5154,7 +5461,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic91.jpg"
+          "image": "pic91.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5177,7 +5486,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic89.jpg"
+          "image": "pic89.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5200,7 +5511,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic91.jpg"
+          "image": "pic91.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5224,7 +5537,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic92.jpg"
+          "image": "pic92.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Spetsbergsgås häckar inte i Sverige, men passerar landet vid flytten på hösten. Den är mycket lik sädgåsen. Spetsbergsgåsen är dock aningen mindre och har något kortare näbb än sädgåsen. Spetsbergsgåsens näbb och fötter är rosaaktiga, medan de är mer orangefärgade hos sädgåsen."
@@ -5245,7 +5560,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic93.jpg"
+          "image": "pic93.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Fjällgåsen är mest lik bläsgåsen, men känns bl.a. igen på den gula ögonringen."
@@ -5265,7 +5582,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic144.jpg"
+          "image": "pic144.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5289,7 +5608,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic145.jpg"
+          "image": "pic145.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5313,7 +5634,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic146.jpg"
+          "image": "pic146.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5394,7 +5717,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic147.jpg"
+          "image": "pic147.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5418,7 +5743,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic148.jpg"
+          "image": "pic148.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5441,7 +5768,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic149.jpg"
+          "image": "pic149.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5464,7 +5793,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic150.jpg"
+          "image": "pic150.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5487,7 +5818,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic151.jpg"
+          "image": "pic151.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Bergand och vigg kan förväxlas, men berganden har gråmelerad rygg och saknar viggens tofs på huvudet."
@@ -5508,7 +5841,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic152.jpg"
+          "image": "pic152.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5531,7 +5866,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic153.jpg"
+          "image": "pic153.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5553,7 +5890,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic154.jpg"
+          "image": "pic154.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5577,7 +5916,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic155.jpg"
+          "image": "pic155.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5600,7 +5941,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic156.jpg"
+          "image": "pic156.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5659,7 +6002,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic155.jpg"
+          "image": "pic155.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5683,7 +6028,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic157.jpg"
+          "image": "pic157.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5707,7 +6054,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic158.jpg"
+          "image": "pic158.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5731,7 +6080,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic159.jpg"
+          "image": "pic159.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5755,7 +6106,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic160.jpg"
+          "image": "pic160.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5778,7 +6131,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic157.jpg"
+          "image": "pic157.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5802,7 +6157,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic161.jpg"
+          "image": "pic161.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5825,7 +6182,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic162.jpg"
+          "image": "pic162.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5848,7 +6207,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic163.jpg"
+          "image": "pic163.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Hanarna hos svärta och sjöorre kan lätt förväxlas. Svärthanen känns bl.a. igen på den vita fläcken vid ögat och den vita vingspegeln."
@@ -5867,7 +6228,9 @@
       "key": 0,
       "images": [
         {
-          "image": "102.jpg"
+          "image": "102.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -5939,7 +6302,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic165.jpg"
+          "image": "pic165.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Skedanden får inte jagas, men honan kan lätt förväxlas med t.ex. gräsandshona, inte minst vid dåliga ljusförhållanden eller stressade situationer. Skedandshonan känns lättast igen på den kraftiga, skedliknande näbben."
@@ -5959,7 +6324,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic166.jpg"
+          "image": "pic166.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Det är möjligt att den viktigaste kunskapen inför jägarexamensprovet inte är att kunna artbestämma samtliga änder, men vid andjakt är det viktigt att vara medveten om förväxlingsrisken, eftersom flera förväxlingsarter inte får jagas.<br><br>Stjärtandshonan liknar gräsandshonan, men känns bl.a. igen på mörkare näbb, gråaktiga fötter (gräsandens är orangefärgade) och grå vingundersidor (gräsandens är vita). Stjärtandshonan liknar också bläsandshonan, men bläsanden har ljusare buk. Överlag handlar artbestämmandet av andfåglar också om att små skillnader i färg, form, huvudprofil, m.m. ger ett helhetsintryck som gör att det går att fastställa vilken art det rör sig om."
@@ -5980,7 +6347,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic167.jpg"
+          "image": "pic167.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -6000,7 +6369,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic168.jpg"
+          "image": "pic168.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6024,7 +6395,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic169.jpg"
+          "image": "pic169.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6048,7 +6421,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic170.jpg"
+          "image": "pic170.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6071,7 +6446,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic103.jpg"
+          "image": "pic103.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6095,7 +6472,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic105.jpg"
+          "image": "pic105.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6119,7 +6498,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic106.jpg"
+          "image": "pic106.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6142,7 +6523,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic171.jpg"
+          "image": "pic171.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6203,7 +6586,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic172.jpg"
+          "image": "pic172.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6227,7 +6612,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic110.jpg"
+          "image": "pic110.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6251,7 +6638,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic173.jpg"
+          "image": "pic173.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6292,7 +6681,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic111.jpg"
+          "image": "pic111.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6332,7 +6723,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic174.jpg"
+          "image": "pic174.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6355,7 +6748,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic113.jpg"
+          "image": "pic113.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6377,7 +6772,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic112.jpg"
+          "image": "pic112.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6437,7 +6834,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic49.jpg"
+          "image": "pic49.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6460,7 +6859,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic118.jpg"
+          "image": "pic118.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6483,7 +6884,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic176.jpg"
+          "image": "pic176.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6506,7 +6909,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic177.jpg"
+          "image": "pic177.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6528,7 +6933,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic21.jpg"
+          "image": "pic21.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6569,7 +6976,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic179.jpg"
+          "image": "pic179.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Korpen är den största kråkfågeln och kan väga upp till c:a 1,4 kg. Sedan Sverige gick med i EU får bl.a. korp och storskarv/mellanskarv endast skyddsjagas p.g.a. EU:s fågeldirektiv."
@@ -6590,7 +6999,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic180.jpg"
+          "image": "pic180.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Antalet skrattmåsar har sjunkit kraftigt sedan 70-talet och får numera endast skyddsjagas. Skrattmåsen är lätt att känna igen på det mörkbruna huvudet, men under vintern är huvudet vitt, sånär som på en mörk fläck bakom ögat."
@@ -6610,7 +7021,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic181.jpg"
+          "image": "pic181.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Silltrut och havstrut kan förväxlas, men silltrutens ben är gula och vingarna är smalare och spetsigare än havstrutens."
@@ -6631,7 +7044,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic183.jpg"
+          "image": "pic183.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6653,7 +7068,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic122.jpg"
+          "image": "pic122.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6676,7 +7093,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic184.jpg"
+          "image": "pic184.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Storskarven finns i två olika raser som är mycket svåra att skilja åt. Den ena häckar i Nordatlanten och finns i Sverige under vintern. Den andra häckar kring Östersjön och kallas mellanskarv eftersom den är något mindre.<br><br>Storskarven orsakar en del problem för fiskerinäringen och får skyddsjagas. Tidigare fanns allmän jakttid för storskarv, men sedan Sverige gick med i EU får arten endast skyddsjagas p.g.a. EU:s fågeldirektiv."
@@ -6696,7 +7115,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic185.jpg"
+          "image": "pic185.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Stadsduva (eller tamduva) får skyddsjagas om den kommer in på gård eller i trädgård och där kan orsaka skada eller annan olägenhet."
@@ -6716,7 +7137,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic186.jpg"
+          "image": "pic186.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -6735,7 +7158,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic124.jpg"
+          "image": "pic124.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6797,7 +7222,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic188.jpg"
+          "image": "pic188.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6820,7 +7247,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic128.jpg"
+          "image": "pic128.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6844,7 +7273,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic189.jpg"
+          "image": "pic189.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Vid jakt på morkulla är det bra att vara medveten om förväxlingsrisken med enkel- och dubbelbeckasin som inte får jagas. Arterna kan bl.a. skiljas åt på att att morkullan har mörkbrun tvärgående täckning på huvudet, medan beckasinerna har längsgående linjer över ryggen och huvudet. Beckasinerna är också betydligt mindre än morkullan."
@@ -6865,7 +7296,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic127.jpg"
+          "image": "pic127.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -6965,7 +7398,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic190.jpg"
+          "image": "pic190.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Patronen på bilden är en .358 Norma Magnum. Magnumpatroner är extra kraftigt laddade och hylsorna är något större eller förstärkta i botten (se bild) för att undvika att de används i standardvapen, eftersom detta riskerar att leda till vapensprängning."
@@ -7023,7 +7458,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic28.jpg"
+          "image": "pic28.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7046,7 +7483,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic30.jpg"
+          "image": "pic30.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7190,7 +7629,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic82.jpg"
+          "image": "pic82.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7214,7 +7655,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic81.jpg"
+          "image": "pic81.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7269,7 +7712,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7308,7 +7753,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic104.jpg"
+          "image": "pic104.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7405,7 +7852,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic131.jpg"
+          "image": "pic131.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -7441,7 +7890,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7526,7 +7976,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic48.jpg"
+          "image": "pic48.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7548,7 +8000,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic60.jpg"
+          "image": "pic60.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Räfflorna i kulvapen försätter kulan i spinn, vilket ger bättre luftfärd och högre precision. Hagelpipor är inte räfflade, men det finns särskilda slugpipor som är räfflade."
@@ -7569,7 +8023,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic47.jpg"
+          "image": "pic47.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -7630,7 +8086,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic130.jpg"
+          "image": "pic130.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Vid jakt ska du avlossa säkra skott mot hjärta och lungor. Ett optimalt skottläge är alltså på djur i bredsida."
@@ -7677,7 +8135,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic64.jpg"
+          "image": "pic64.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -7697,7 +8157,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic78.jpg"
+          "image": "pic78.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Innan du använder hund som förföljer vilt vid jakt eller jaktträning behöver du kontrollera vid vilka tider på året detta är tillåtet.<br><br>Enligt paragraf 16 i <i>Lagen om tillsyn över hundar och katter</i> är det endast tillåtet att låta hundar förfölja vilt vid jakt. För att det ska vara möjligt att träna din jakthund medger Jaktförordningens 16:e paragraf ett antal undantag, bl.a. är det tillåtet att jaktträna hund som förföljer:<br><br>● Älg: den 21 augusti – den 31 december eller den senare tidpunkt då jakten ska vara avslutad.<br><br>● Björn: den 21 augusti – den 30 september eller den senare tidpunkt då jakten ska vara avslutad.<br><br>● Rödräv: den 21 augusti – den 15 mars."
@@ -7718,7 +8180,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic12.jpg"
+          "image": "pic12.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Innan du använder hund som förföljer vilt vid jakt eller jaktträning behöver du kontrollera vid vilka tider på året detta är tillåtet.<br><br>Enligt paragraf 16 i <i>Lagen om tillsyn över hundar och katter</i> är det endast tillåtet att låta hundar förfölja vilt vid jakt. För att det ska vara möjligt att träna din jakthund medger Jaktförordningens 16:e paragraf ett antal undantag, bl.a. är det tillåtet att jaktträna hund som förföljer hjort och rådjur den <b>1 oktober – den 31 januari</b> eller den senare tidpunkt då jakten ska vara avslutad."
@@ -7737,7 +8201,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic36.jpg"
+          "image": "pic36.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -7758,7 +8224,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic37.jpg"
+          "image": "pic37.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Hund som inte förföljer vilt får enligt Jaktförordningens 16:e paragraf användas vid jakt efter fågel den 16 augusti – den 15 april, i Värmlands, Dalarnas, Gävleborgs, Västernorrlands, Jämtlands, Västerbottens och Norrbottens län dock t.o.m. den 30 april."
@@ -7777,7 +8245,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic74.jpg"
+          "image": "pic74.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Vad gäller rödräv, mink, mård och grävling är grytjakt med hund tillåtet vid skyddsjakt samt under arternas allmänna jakttider."
@@ -7871,7 +8341,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic77.jpg"
+          "image": "pic77.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Naturvårdsverket har överlämnat rätten att besluta om <b>skyddsjakt</b> på björn, järv, lodjur och varg till alla länsstyrelser utom Gotland. Rätten att besluta om <b>licensjakt</b> på björn, varg och lodjur delegeras till länsstyrelser i län där antalet föryngringar för arten i rovdjurförvaltningsområdet överstiger de fastställda miniminivåerna."
@@ -7893,7 +8365,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -7914,7 +8387,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Kompletterande bestämmelser finns i Djurskyddsförordningen. Jordbruksverket är den myndighet som utarbetar mer detaljerade regler och ser till att djurskyddslagen efterlevs."
@@ -7952,7 +8426,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Under Jaktlagen finns bestämmelserna i Jaktförordningen samt Naturvårdsverkets föreskrifter och allmänna råd om jakt och statens vilt."
@@ -7972,7 +8447,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic44.jpg"
+          "image": "pic44.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -7993,7 +8470,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Under Vapenlagen finns bestämmelserna i Vapenförordningen samt Rikspolisstyrelsens föreskrifter och allmänna råd om vapenlagstiftningen."
@@ -8029,7 +8507,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic33.jpg"
+          "image": "pic33.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Vid jakt med trädskällare (eller skällande fågelhundar som de också kallas) används ofta finn- eller norrbottenspets och man jagar huvudsakligen skogshöns."
@@ -8050,7 +8530,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic35.jpg"
+          "image": "pic35.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -8073,7 +8555,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic192.jpg"
+          "image": "pic192.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Hunden på bilden är en pointer som är en brittisk stående fågelhund. Stående fågelhundar används för att jaga fåglar som vid fara trycker istället för att fly. Hönsfåglar och morkulla hör till dessa."
@@ -8212,7 +8696,8 @@
       "images": [
         {
           "image": "pic40.jpg",
-          "height": 160
+          "size": "large",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Generellt sett kan man säga att Jaktlagen innehåller mer övergripande skrivelser som inte behöver ändras lika ofta som Jaktförordningens mer detaljerade skrivelser. Jakttiderna är detaljerade och behöver ibland skrivas om när arternas förutsättningar förändras. Med bakgrund av detta kan man resonera sig fram till svaret på frågan (om man inte redan vet att de allmänna jakttiderna finns i Jaktförordningens bilaga 1)."
@@ -8306,7 +8791,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic65.jpg"
+          "image": "pic65.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Det finns dock begränsningar för hur mycket vilt en jägare får sälja per år. Vad gäller älg som flåtts och styckats får jägaren endast sälja eller ge bort en vuxen älg per år."
@@ -8355,7 +8842,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic193.jpg"
+          "image": "pic193.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -8404,7 +8893,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Vildsvin är generellt sett det vilt som orsakar störst skador på lantbruksgrödor. Vårvete, ärter, majs, potatis och slåttervall är exempel på grödor där vildsvin orsakar allvarliga skador. I en undersökning påstod drygt en fjärdedel av lantbrukarna att de har slutat odla vissa grödor p.g.a. viltskadorna."
@@ -8426,7 +8917,8 @@
       "images": [
         {
           "image": "pic1.png",
-          "height": 100
+          "size": "medium",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -8446,7 +8938,8 @@
       "images": [
         {
           "image": "pic1.png",
-          "height": 100
+          "size": "medium",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -8464,7 +8957,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic85.jpg"
+          "image": "pic85.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -8515,7 +9010,9 @@
       "key": 1,
       "images": [
         {
-          "image": "pic65.jpg"
+          "image": "pic65.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Du skulle ha stannat kvar och kontaktat jaktledaren. Du får aldrig agera på egen hand utan jaktledarens tillåtelse!"
@@ -8536,7 +9033,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic44.jpg"
+          "image": "pic44.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -8556,7 +9055,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic45.jpg"
+          "image": "pic45.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ]
     }
@@ -8576,7 +9077,9 @@
       "key": 2,
       "images": [
         {
-          "image": "pic71.jpg"
+          "image": "pic71.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -8662,7 +9165,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic129.jpg"
+          "image": "pic129.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "wikiNodes": [
@@ -8704,7 +9209,9 @@
       "key": 3,
       "images": [
         {
-          "image": "pic78.jpg"
+          "image": "pic78.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Det är inte ovanligt att räven tar skydd eller passerar grytet under jaktens gång."
@@ -8785,7 +9292,9 @@
       "key": 0,
       "images": [
         {
-          "image": "pic196.jpg"
+          "image": "pic196.jpg",
+          "size": "extend",
+          "alt": "Jägarexamen - "
         }
       ],
       "explanation": "Det är visserligen sant att olyckorna ofta sker vid laddning och patron ur, men det försvarar inte att du hoppar över ett dike och riskerar att ramla med laddat vapen.<br><br>Säker vapenhantering är enkelt i teorin, med givna regler som att:<br>● <b>Alltid</b> betrakta geväret som laddat och osäkrat, d.v.s. aldrig rikta gevärspipan mot människor, egendom eller i andra osäkra riktningar.<br>● <b>Alltid</b> kontrollera att geväret är oladdat när du tar upp det och innan du lägger/ger ifrån dig det (på kulvapen känner du med lillfingret att patronläget är tomt). På vapen med magasin ska du också kontrollera att magasinet är tomt.<br>● <b>Alltid</b> kontrollera att loppet är rent innan du laddar. Kontrollera också loppet när du gör patron ur.<br>● <b>Aldrig</b> lita på säkringen. Du ska naturligtvis säkra vapnet så fort du har laddat, men säkringen är ingen garanti för att ett skott inte kan gå av.<br>● <b>Aldrig</b> skjuta om du är osäker på vad som finns bakom viltet.<br>● <b>Alltid</b> ha geväret brutet eller slutstycket tillbakadraget när du stöter på andra människor samt när du går till och från passet.<br><br>Det svåra är alltså inte att förstå hur vapnet ska hanteras på ett säkert sätt (alltid det säkra före det osäkra), det svåra är att få den säkra vapenhanteringen att sitta i ryggmärgen. Ett av skälen till att öva mycket på skjutbanan är att du då i lugn och ro kan försäkra dig om att du hela tiden hanterar geväret på ett säkert sätt. Ju fler gånger du gör detta, desto troligare är det att du också kommer hantera vapnet på ett säkert sätt i jaktsituationer."
