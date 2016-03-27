@@ -5006,7 +5006,7 @@
 	    "options": [
 		"Det finns betydligt fler hindar än hjortar",
 		"Det finns betydligt fler hjortar än hindar",
-		"Det finns ungefär lika hjortar och hindar"
+		"Det finns ungefär lika många hjortar och hindar"
 	    ],
 	    "key": 0,
 	    "images": [
@@ -5417,7 +5417,7 @@
 	    "stem": "Vad innebär det att älgen <i>går på retur</i>?",
 	    "options": [
 		"Att älgen alltid återvänder till samma plats vid brunsten",
-		"Att hornen blir börjar bli mindre",
+		"Att hornen blir mindre",
 		"Att älgen rör sig från födoplatsen till viloplatsen"
 	    ],
 	    "key": 1,
