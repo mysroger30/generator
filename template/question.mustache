@@ -29,6 +29,15 @@
       ga('send', 'pageview');
 
     </script>
+
+    <script>
+      var trackOutboundLink = function(url) {
+      ga('send', 'event', 'outbound', 'click', url, {
+      'transport': 'beacon',
+      'hitCallback': function(){document.location = url;}
+      });
+      }
+    </script>
   </head>
 
   <body>
@@ -104,16 +113,25 @@
 
     <div class="container sell-row">
       <div class="row">
-	<div class="col-md-6">
+	<div class="col-md-6 col-md-push-6">
+	  <h4>{{{sellTitle}}}</h4>
+	  <p>{{{sellText}}}</p>
+	  <span class="store-badge">
+	    <a href="{{storeLink}}" onclick="trackOutboundLink('{{storeLink}}'); return false;">
+	      <img src="../../images/store-badge.png">
+	    </a>
+	  </span>
+	  <span class="play-badge">
+	    <a href="{{playLink}}" onclick="trackOutboundLink('{{playLink}}'); return false;">
+	      <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" />
+	    </a>
+	  </span>
+	</div>
+
+	<div class="col-md-6 col-md-pull-6">
 	  <h4>{{{testHintTitle}}}</h4>
 	  <p>{{{testHintText}}}</p>
 	  <a class="btn btn-primary btn-lg" href="../../">{{{testHintButton}}}</a>
-	</div>
-
-	<div class="col-md-6">
-	  <h4>{{{sellTitle}}}</h4>
-	  <p>{{{sellText}}}</p>
-	  <p class="play-badge">{{{playBadge}}}</p>
 	</div>
       </div>
     </div>

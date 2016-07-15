@@ -40,6 +40,7 @@ do
 done
 
 cp -r "data/$project_name/images" "$out_dir/"
+cp "template/img/store-badge.png" "$out_dir/images/"
 
 mkdir "$out_dir/css"
 java -jar yuicompressor-2.4.8.jar --type css "template/css/index.css" > "$out_dir/css/index.css"

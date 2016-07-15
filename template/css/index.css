@@ -21,6 +21,7 @@ body {
     linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url('../images/splash.jpg') no-repeat center center;
     background-size: cover;
+    margin-bottom: 0px;
 }
 
 .jumbotron-table-helper {
@@ -159,11 +160,15 @@ img.question-image.extend {
     margin-bottom: 20px;
 }
 
-.sell-row {
+.sell-row .row div {
     margin-top: 40px;
 }
 
+.store-badge {
+    margin-right: 8px;
+}
+
 .play-badge img {
-    width: 185px;
-    height: 60px;
+    width: 170px;
+    height: 55px;
 }
